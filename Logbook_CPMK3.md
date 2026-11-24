@@ -19,6 +19,8 @@ Catat setiap kendala dan keputusan pada hari kejadian, termasuk yang tampak keci
 | 24-11-2026 | Menganotasi foto sendiri | Foto memuat lebih banyak jenis barang daripada 10–15 kelas rencana awal, misalnya peralatan dapur dan perangkat lab | Rencana kelas diubah: semua barang yang termasuk kelas dataset ditandai, kecuali kelas bidang (dinding, lantai, langit-langit, pintu) dan `person`. Dataset Roboflow versi 2 berisi 583 objek (median 7 per foto) | Roboflow `tes-ruangan-sendiri` versi 2, screenshot anotasi |
 | 25-11-2026 | Menulis hipotesis (lihat bagian Hipotesis) sebelum menjalankan evaluasi test set sendiri | Hipotesis seharusnya ditulis sebelum training pertama, tetapi baru ditulis sesudah training versi 2 | Hipotesis ditulis dengan tanggal sebenarnya dan difokuskan pada eksperimen yang belum dijalankan, yaitu evaluasi test set sendiri, kondisi sulit, dan uji varian | Bagian Hipotesis di logbook ini |
 | 25-11-2026 | Commit Kaggle versi 3 (evaluasi test set sendiri) | Foto HP berukuran 5712×3213 sehingga mask ukuran penuh berisiko kehabisan memori GPU | Foto sendiri diperkecil ke sisi terpanjang 1280 saat dimuat. Label YOLO dinormalisasi sehingga tidak perlu diubah | `OWN_MAX` di sel 2.1 notebook |
+| 25-11-2026 | Menjalankan versi 3 | Add Input ke output notebook sendiri tidak muncul di menu Your Work | Bobot versi 2 diunggah sebagai dataset Kaggle privat `hasil-cpmk3`, dan notebook diberi kemampuan membaca `hasil_cpmk3.zip`. Pada run ini output notebook versi 2 akhirnya terbaca dari `/kaggle/input/notebooks/...`, sehingga kelima model dipulihkan tanpa training | `logs/kaggle_v3_log.txt` baris 18 dan 79–94 |
+| 25-11-2026 | Membaca hasil versi 3 dan mencocokkan dengan hipotesis | Nilai di split valid (0,17–0,19) dekat dengan validasi saat training, sehingga evaluator konsisten. Pencerahan gamma/CLAHE tidak membantu foto kegagalan, berlawanan dengan H5 | Hasil dan pengecekan hipotesis ditulis di `Hasil_dan_Analisis.md`. Hipotesis yang salah tidak diubah, tetapi dijelaskan penyebabnya | `hasil_kaggle_v3/`, `Hasil_dan_Analisis.md` |
 |  |  |  |  |  |
 
 ## Hipotesis
@@ -44,4 +46,4 @@ Isi dari `waktu_gpu.json` dan halaman kuota GPU Kaggle setelah setiap run.
 |---|---|---|---|---|
 | 1 | 23-11-2026 | Training M1, M2 (320/640/960), M3 | Total ±2,2 jam (YOLO 2,16 jam) | Gagal di awal training M3 |
 | 2 | 24-11-2026 | Training ulang semua model karena Add Input tidak terpasang ("Output sebelumnya: tidak ada") | Total 3,30 jam (M1 0,39, M2 640 0,50, M2 320 0,41, M2 960 1,00, M3 1,01) | Selesai tanpa error, `waktu_gpu.json` di `hasil_cpmk3.zip` |
-| 3 | 25-11-2026 | Evaluasi test set sendiri |  |  |
+| 3 | 25-11-2026 | Evaluasi test set sendiri, tanpa training (bobot dipulihkan dari output versi 2) | ±35 menit (2.091 detik total sesi) | Selesai tanpa error |

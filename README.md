@@ -16,8 +16,11 @@ NRP berakhiran 1, sehingga variabel yang diselidiki adalah ukuran input 320, 640
 |---|---|
 | `segmentasi_instance_indoor.ipynb` | Notebook Kaggle untuk unduh data, training, evaluasi, domain shift, analisis kegagalan, dan eksperimen pembuktian |
 | `demo_inferensi.ipynb` | Demo inferensi satu foto baru dengan ambang skor dan ukuran input yang bisa diubah |
-| `logs/` | Log asli commit Kaggle versi 1 (gagal di Mask R-CNN) dan versi 2 |
+| `Hasil_dan_Analisis.md` | Tabel hasil, variabel NRP, domain shift, pengecekan hipotesis, dan 5 studi kasus kegagalan |
+| `logs/` | Log asli commit Kaggle versi 1 (gagal di Mask R-CNN), versi 2 (training), dan versi 3 (evaluasi foto sendiri) |
 | `hasil_kaggle_v2/` | `results.csv` setiap run, tabel evaluasi, waktu GPU, dan grafik dari versi 2 (tanpa bobot) |
+| `hasil_kaggle_v3/` | Hasil versi 3: evaluasi foto sendiri, domain shift, kandidat kegagalan, uji varian, oracle resolusi mask, dan gambar studi kasus |
+| `notebook_hasil_kaggle_v3.ipynb` | Notebook versi 3 lengkap dengan output yang diunduh dari Kaggle |
 | `daftar_foto_sendiri.csv`, `exif_foto_asli.csv` | Daftar 56 foto test set sendiri beserta kondisi dan metadata EXIF |
 | `Logbook_CPMK3.md` | Logbook kendala, keputusan, hipotesis, dan waktu GPU |
 | `Deklarasi_Penggunaan_AI.md` | Deklarasi penggunaan AI, termasuk kasus kode AI yang salah |
