@@ -1,0 +1,158 @@
+8.9s 1 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+8.9s 2 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+8.9s 3 0.00s - to python to disable frozen modules.
+8.9s 4 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+9.6s 5 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+9.6s 6 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+9.6s 7 0.00s - to python to disable frozen modules.
+9.6s 8 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+17.8s 9 [31mERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+17.8s 10 gradio 6.30.0 requires pillow<13.0,>=8.0, but you have pillow 13.0.0 which is incompatible.[0m[31m
+32.4s 11 [0mCreating new Ultralytics Settings v0.0.8 file ✅
+32.4s 12 View Ultralytics Settings with 'yolo settings' or at '/root/.config/Ultralytics/settings.json'
+32.4s 13 Update Settings with 'yolo settings key=value', i.e. 'yolo settings runs_dir=path/to/dir'. For help see https://docs.ultralytics.com/usage/settings
+49.4s 14 Python 3.13.16
+49.4s 15 PyTorch 2.11.0+cu130 | torchvision 0.26.0+cu130
+49.4s 16 Ultralytics 8.4.218 | torchmetrics 1.9.0
+49.4s 17 GPU Tesla T4 (15.6 GB)
+49.7s 18 Output sebelumnya: ['/kaggle/input/notebooks/jylanmumtaza/notebook9ae5fde284/hasil_cpmk3']
+49.7s 19 Platform: Kaggle Notebook | output: /kaggle/working/hasil_cpmk3
+50.3s 20 loading Roboflow workspace...
+50.5s 21 loading Roboflow project...
+52.1s 22 Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::   0%|          | 0/55778 [00:00<?, ?it/s]
+52.2s 23 Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::   0%|          | 0/55778 [00:00<?, ?it/s]Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  14%|█▎        | 7560/55778 [00:00<00:00, 75586.38it/s]
+52.3s 24 Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  14%|█▎        | 7560/55778 [00:00<00:00, 75586.38it/s]Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  27%|██▋       | 15119/55778 [00:00<00:00, 74813.23it/s]
+52.4s 25 Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  27%|██▋       | 15119/55778 [00:00<00:00, 74813.23it/s]Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  41%|████      | 22601/55778 [00:00<00:00, 74120.28it/s]
+52.5s 26 Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  41%|████      | 22601/55778 [00:00<00:00, 74120.28it/s]Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  55%|█████▍    | 30620/55778 [00:00<00:00, 76492.06it/s]
+52.6s 27 Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  55%|█████▍    | 30620/55778 [00:00<00:00, 76492.06it/s]Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  69%|██████▉   | 38693/55778 [00:00<00:00, 78010.00it/s]
+52.7s 28 Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  69%|██████▉   | 38693/55778 [00:00<00:00, 78010.00it/s]Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  83%|████████▎ | 46497/55778 [00:00<00:00, 77689.20it/s]
+52.8s 29 Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  83%|████████▎ | 46497/55778 [00:00<00:00, 77689.20it/s]Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  98%|█████████▊| 54527/55778 [00:00<00:00, 78535.78it/s]
+52.8s 30 Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8::  98%|█████████▊| 54527/55778 [00:00<00:00, 78535.78it/s]Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8:: 100%|██████████| 55778/55778 [00:00<00:00, 77268.89it/s]
+52.8s 31 
+52.8s 32 Downloading Dataset Version Zip in /kaggle/temp/data/panoptic_indoor_v5 to yolov8:: 100%|██████████| 55778/55778 [00:00<00:00, 77268.89it/s]
+52.8s 33 
+52.8s 34 
+52.8s 35 Extracting Dataset Version Zip to /kaggle/temp/data/panoptic_indoor_v5 in yolov8::   0%|          | 0/1856 [00:00<?, ?it/s]
+52.9s 36 Extracting Dataset Version Zip to /kaggle/temp/data/panoptic_indoor_v5 in yolov8::   0%|          | 0/1856 [00:00<?, ?it/s]Extracting Dataset Version Zip to /kaggle/temp/data/panoptic_indoor_v5 in yolov8::  30%|██▉       | 551/1856 [00:00<00:00, 5498.57it/s]
+53.0s 37 Extracting Dataset Version Zip to /kaggle/temp/data/panoptic_indoor_v5 in yolov8::  30%|██▉       | 551/1856 [00:00<00:00, 5498.57it/s]Extracting Dataset Version Zip to /kaggle/temp/data/panoptic_indoor_v5 in yolov8::  68%|██████▊   | 1253/1856 [00:00<00:00, 6386.78it/s]
+53.1s 38 Extracting Dataset Version Zip to /kaggle/temp/data/panoptic_indoor_v5 in yolov8::  68%|██████▊   | 1253/1856 [00:00<00:00, 6386.78it/s]Extracting Dataset Version Zip to /kaggle/temp/data/panoptic_indoor_v5 in yolov8:: 100%|██████████| 1856/1856 [00:00<00:00, 6611.44it/s]
+53.1s 39 Extracting Dataset Version Zip to /kaggle/temp/data/panoptic_indoor_v5 in yolov8:: 100%|██████████| 1856/1856 [00:00<00:00, 6611.44it/s]
+53.1s 40 
+53.1s 41 
+53.5s 42 Kelas di data.yaml: 74 → setelah dibersihkan: 73
+53.5s 43 73 kelas: ['backpack', 'bed', 'blanket', 'book', 'bottle', 'bowl', 'box', 'cabinet-merged', 'cardboard', 'ceiling-merged', 'cell phone', 'chair', 'clock', 'couch', 'counter', 'cup', 'curtain', 'dining table', 'door-stuff', 'fire-extinguisher', 'floor-other-merged', 'floor-wood', 'flower', 'food-other-merged', 'fork', 'hair drier', 'handbag', 'keyboard', 'knife', 'laptop', 'light', 'microwave', 'mirror-stuff', 'mouse', 'oven', 'pan', 'paper', 'paper-merged', 'person', 'pillow', 'plate', 'plug', 'potted plant', 'refrigerator', 'remote', 'rug-merged', 'scissors', 'shelf', 'sink', 'spoon', 'st-', 'stairs', 'stove-merged', 'table-merged', 'teddy bear', 'toaster', 'toilet', 'toothbrush', 'towel', 'toy', 'trash-bin', 'tree-merged', 'tv', 'vase', 'wall', 'wall-brick', 'wall-other-merged', 'wall-stone', 'wall-tile', 'wall-wood', 'wallet', 'window-blind', 'window-other']
+53.5s 44 train : 397 citra
+53.5s 45 valid : 166 citra
+53.5s 46 test  : 359 citra
+53.6s 47 loading Roboflow workspace...
+53.7s 48 loading Roboflow project...
+59.2s 49 Exporting format yolov8 in progress : 0.0%Exporting format yolov8 in progress : 23.0%Exporting format yolov8 in progress : 95.0%
+59.2s 50 Version export complete for yolov8 format
+59.9s 51 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::   0%|          | 0/66774 [00:00<?, ?it/s]
+60.0s 52 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::   0%|          | 0/66774 [00:00<?, ?it/s]Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  10%|▉         | 6587/66774 [00:00<00:00, 65854.99it/s]
+60.1s 53 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  10%|▉         | 6587/66774 [00:00<00:00, 65854.99it/s]Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  20%|█▉        | 13173/66774 [00:00<00:00, 65366.19it/s]
+60.9s 54 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  20%|█▉        | 13173/66774 [00:00<00:00, 65366.19it/s]Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  30%|██▉       | 19710/66774 [00:01<00:03, 15547.25it/s]
+61.0s 55 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  30%|██▉       | 19710/66774 [00:01<00:03, 15547.25it/s]Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  40%|████      | 26751/66774 [00:01<00:01, 22889.12it/s]
+61.1s 56 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  40%|████      | 26751/66774 [00:01<00:01, 22889.12it/s]Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  49%|████▉     | 32649/66774 [00:01<00:01, 28681.26it/s]
+61.2s 57 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  49%|████▉     | 32649/66774 [00:01<00:01, 28681.26it/s]Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  59%|█████▉    | 39512/66774 [00:01<00:00, 36131.75it/s]
+61.3s 58 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  59%|█████▉    | 39512/66774 [00:01<00:00, 36131.75it/s]Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  69%|██████▉   | 46083/66774 [00:01<00:00, 42352.88it/s]
+61.4s 59 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  69%|██████▉   | 46083/66774 [00:01<00:00, 42352.88it/s]Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  79%|███████▉  | 52643/66774 [00:01<00:00, 47719.29it/s]
+61.5s 60 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  79%|███████▉  | 52643/66774 [00:01<00:00, 47719.29it/s]Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  90%|█████████ | 60419/66774 [00:01<00:00, 55172.28it/s]
+61.6s 61 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8::  90%|█████████ | 60419/66774 [00:01<00:00, 55172.28it/s]Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8:: 100%|██████████| 66774/66774 [00:01<00:00, 39584.67it/s]
+61.6s 62 
+61.6s 63 Downloading Dataset Version Zip in /kaggle/temp/data/test_sendiri_raw to yolov8:: 100%|██████████| 66774/66774 [00:01<00:00, 39584.67it/s]
+61.6s 64 
+61.6s 65 
+61.6s 66 Extracting Dataset Version Zip to /kaggle/temp/data/test_sendiri_raw in yolov8::   0%|          | 0/115 [00:00<?, ?it/s]
+61.7s 67 Extracting Dataset Version Zip to /kaggle/temp/data/test_sendiri_raw in yolov8::   0%|          | 0/115 [00:00<?, ?it/s]Extracting Dataset Version Zip to /kaggle/temp/data/test_sendiri_raw in yolov8:: 100%|██████████| 115/115 [00:00<00:00, 1211.22it/s]
+61.7s 68 Extracting Dataset Version Zip to /kaggle/temp/data/test_sendiri_raw in yolov8:: 100%|██████████| 115/115 [00:00<00:00, 1211.22it/s]
+61.7s 69 
+61.7s 70 
+73.5s 71 Test set sendiri: 56 citra, 29 di antaranya kondisi sulit
+73.5s 72 Kelas yang dianotasi di foto sendiri (46): ['backpack', 'bed', 'blanket', 'book', 'bottle', 'bowl', 'box', 'cabinet-merged', 'cell phone', 'chair', 'clock', 'couch', 'cup', 'curtain', 'dining table', 'fire-extinguisher', 'flower', 'food-other-merged', 'fork', 'handbag', 'keyboard', 'knife', 'laptop', 'light', 'mirror-stuff', 'mouse', 'pan', 'paper', 'pillow', 'plate', 'plug', 'potted plant', 'refrigerator', 'remote', 'scissors', 'shelf', 'sink', 'spoon', 'stove-merged', 'teddy bear', 'towel', 'toy', 'trash-bin', 'tv', 'wallet', 'window-blind']
+74.6s 73 Jumlah citra per set:
+74.6s 74 Objek per citra (rata-rata):
+74.6s 75 Resolusi terbanyak per set:
+74.6s 76 Proporsi ukuran objek (%):
+81.6s 77 ======================================================================
+81.7s 78 M1_yolov8n-seg_640 {'weights': 'yolov8n-seg.pt', 'imgsz': 640, 'batch': 16}
+84.0s 79 M1_yolov8n-seg_640 dipulihkan dari /kaggle/input/notebooks/jylanmumtaza/notebook9ae5fde284/hasil_cpmk3
+84.0s 80 M1_yolov8n-seg_640: bobot sudah ada, training dilewati
+84.0s 81 ======================================================================
+84.0s 82 M2_yolo11n-seg_640 {'weights': 'yolo11n-seg.pt', 'imgsz': 640, 'batch': 16}
+86.2s 83 M2_yolo11n-seg_640 dipulihkan dari /kaggle/input/notebooks/jylanmumtaza/notebook9ae5fde284/hasil_cpmk3
+86.2s 84 M2_yolo11n-seg_640: bobot sudah ada, training dilewati
+86.2s 85 ======================================================================
+86.2s 86 M2_yolo11n-seg_320 {'weights': 'yolo11n-seg.pt', 'imgsz': 320, 'batch': 32}
+88.2s 87 M2_yolo11n-seg_320 dipulihkan dari /kaggle/input/notebooks/jylanmumtaza/notebook9ae5fde284/hasil_cpmk3
+88.2s 88 M2_yolo11n-seg_320: bobot sudah ada, training dilewati
+88.2s 89 ======================================================================
+88.2s 90 M2_yolo11n-seg_960 {'weights': 'yolo11n-seg.pt', 'imgsz': 960, 'batch': 8}
+90.1s 91 M2_yolo11n-seg_960 dipulihkan dari /kaggle/input/notebooks/jylanmumtaza/notebook9ae5fde284/hasil_cpmk3
+90.1s 92 M2_yolo11n-seg_960: bobot sudah ada, training dilewati
+92.9s 93 M3_maskrcnn-r50fpn_640 dipulihkan dari /kaggle/input/notebooks/jylanmumtaza/notebook9ae5fde284/hasil_cpmk3
+92.9s 94 M3_maskrcnn-r50fpn_640: bobot sudah ada, training dilewati
+224.3s 95 M1 YOLOv8n-seg                   asli     mask mAP50-95 0.0670 | 97.1 ms/citra
+247.1s 96 M1 YOLOv8n-seg                   valid_asli mask mAP50-95 0.1689 | 30.9 ms/citra
+327.7s 97 M1 YOLOv8n-seg                   asli_kelas_sendiri mask mAP50-95 0.0675 | 91.2 ms/citra
+348.0s 98 M1 YOLOv8n-seg                   sendiri  mask mAP50-95 0.0591 | 108.0 ms/citra
+468.0s 99 M2 YOLO11n-seg                   asli     mask mAP50-95 0.0793 | 91.7 ms/citra
+489.1s 100 M2 YOLO11n-seg                   valid_asli mask mAP50-95 0.1918 | 31.0 ms/citra
+564.9s 101 M2 YOLO11n-seg                   asli_kelas_sendiri mask mAP50-95 0.0805 | 85.8 ms/citra
+584.4s 102 M2 YOLO11n-seg                   sendiri  mask mAP50-95 0.0523 | 101.7 ms/citra
+584.8s 103 Downloading: "https://download.pytorch.org/models/maskrcnn_resnet50_fpn_coco-bf2d0c1e.pth" to /root/.cache/torch/hub/checkpoints/maskrcnn_resnet50_fpn_coco-bf2d0c1e.pth
+584.8s 104 0%|          | 0.00/170M [00:00<?, ?B/s]
+584.9s 105 0%|          | 0.00/170M [00:00<?, ?B/s]  5%|▍         | 7.88M/170M [00:00<00:02, 78.8MB/s]
+585.0s 106 5%|▍         | 7.88M/170M [00:00<00:02, 78.8MB/s] 18%|█▊        | 30.9M/170M [00:00<00:00, 172MB/s]
+585.1s 107 18%|█▊        | 30.9M/170M [00:00<00:00, 172MB/s]  32%|███▏      | 55.0M/170M [00:00<00:00, 208MB/s]
+585.2s 108 32%|███▏      | 55.0M/170M [00:00<00:00, 208MB/s] 46%|████▌     | 78.2M/170M [00:00<00:00, 222MB/s]
+585.3s 109 46%|████▌     | 78.2M/170M [00:00<00:00, 222MB/s] 60%|█████▉    | 102M/170M [00:00<00:00, 231MB/s]
+585.4s 110 60%|█████▉    | 102M/170M [00:00<00:00, 231MB/s]  74%|███████▍  | 125M/170M [00:00<00:00, 236MB/s]
+585.5s 111 74%|███████▍  | 125M/170M [00:00<00:00, 236MB/s] 87%|████████▋ | 148M/170M [00:00<00:00, 236MB/s]
+585.6s 112 87%|████████▋ | 148M/170M [00:00<00:00, 236MB/s]100%|██████████| 170M/170M [00:00<00:00, 224MB/s]
+585.6s 113 100%|██████████| 170M/170M [00:00<00:00, 224MB/s]
+585.6s 114 
+585.6s 115 
+751.9s 116 M3 Mask R-CNN R50-FPN            asli     mask mAP50-95 0.0836 | 203.1 ms/citra
+791.3s 117 M3 Mask R-CNN R50-FPN            valid_asli mask mAP50-95 0.1793 | 126.6 ms/citra
+913.5s 118 M3 Mask R-CNN R50-FPN            asli_kelas_sendiri mask mAP50-95 0.0927 | 183.1 ms/citra
+944.0s 119 M3 Mask R-CNN R50-FPN            sendiri  mask mAP50-95 0.0707 | 210.4 ms/citra
+1058.4s 120 M2 YOLO11n-seg, latih 320        asli     mask mAP50-95 0.0547 | 84.8 ms/citra
+1127.2s 121 M2 YOLO11n-seg, latih 320        asli_kelas_sendiri mask mAP50-95 0.0526 | 81.5 ms/citra
+1144.5s 122 M2 YOLO11n-seg, latih 320        sendiri  mask mAP50-95 0.0256 | 93.8 ms/citra
+1270.2s 123 M2 YOLO11n-seg, latih 960        asli     mask mAP50-95 0.0822 | 107.2 ms/citra
+1350.3s 124 M2 YOLO11n-seg, latih 960        asli_kelas_sendiri mask mAP50-95 0.0888 | 97.0 ms/citra
+1370.9s 125 M2 YOLO11n-seg, latih 960        sendiri  mask mAP50-95 0.0719 | 114.1 ms/citra
+1530.2s 126 M3 Mask R-CNN, inferensi 320     asli     mask mAP50-95 0.0629 | 188.3 ms/citra
+1654.1s 127 M3 Mask R-CNN, inferensi 320     asli_kelas_sendiri mask mAP50-95 0.0670 | 184.6 ms/citra
+1682.7s 128 M3 Mask R-CNN, inferensi 320     sendiri  mask mAP50-95 0.0337 | 196.1 ms/citra
+1852.6s 129 M3 Mask R-CNN, inferensi 960     asli     mask mAP50-95 0.0787 | 215.0 ms/citra
+1981.6s 130 M3 Mask R-CNN, inferensi 960     asli_kelas_sendiri mask mAP50-95 0.0895 | 202.4 ms/citra
+2011.5s 131 M3 Mask R-CNN, inferensi 960     sendiri  mask mAP50-95 0.0732 | 218.1 ms/citra
+2061.6s 132 Rata-rata IoU oracle per ukuran objek:
+2061.6s 133 Kelas dengan IoU oracle Mask R-CNN terendah:
+2061.6s 134 IoU oracle untuk objek di foto kegagalan:
+2069.6s 135 Folder foto asli tidak ditemukan, tabel EXIF dilewati
+2069.8s 136 Total waktu GPU training: 3.30 jam
+2080.7s 137 Selesai: /kaggle/working/hasil_cpmk3.zip 234.0 MB
+2086.4s 138 /usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+2086.4s 139 cells[i][c] = re.sub('\\\\\|', '|', cell)
+2086.6s 140 /usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+2086.6s 141 text = re.sub(r'_', '\_', text) # Escape underscores in display text
+2087.4s 142 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+2087.7s 143 [NbConvertApp] Writing 10105641 bytes to __notebook__.ipynb
+2090.2s 144 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+2091.2s 145 [NbConvertApp] Support files will be in __results___files/
+2091.2s 146 [NbConvertApp] Making directory __results___files
+2091.2s 147 [NbConvertApp] Making directory __results___files
+2091.2s 148 [NbConvertApp] Making directory __results___files
+2091.2s 149 [NbConvertApp] Making directory __results___files
+2091.2s 150 [NbConvertApp] Making directory __results___files
+2091.2s 151 [NbConvertApp] Making directory __results___files
+2091.2s 152 [NbConvertApp] Making directory __results___files
+2091.2s 153 [NbConvertApp] Making directory __results___files
+2091.2s 154 [NbConvertApp] Making directory __results___files
+2091.2s 155 [NbConvertApp] Making directory __results___files
+2091.2s 156 [NbConvertApp] Making directory __results___files
+2091.2s 157 [NbConvertApp] Making directory __results___files
+2091.2s 158 [NbConvertApp] Writing 655429 bytes to __results__.html

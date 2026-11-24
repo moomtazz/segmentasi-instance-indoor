@@ -1,0 +1,47 @@
+{
+  "M1_yolov8n-seg_640": {
+    "detik": 1403.7,
+    "jam": 0.39,
+    "gpu": "Tesla T4",
+    "selesai": "2026-11-24 03:37:03",
+    "model": "yolov8n-seg.pt",
+    "imgsz": 640,
+    "batch": 16
+  },
+  "M2_yolo11n-seg_640": {
+    "detik": 1791.3,
+    "jam": 0.498,
+    "gpu": "Tesla T4",
+    "selesai": "2026-11-24 04:06:54",
+    "model": "yolo11n-seg.pt",
+    "imgsz": 640,
+    "batch": 16
+  },
+  "M2_yolo11n-seg_320": {
+    "detik": 1490.6,
+    "jam": 0.414,
+    "gpu": "Tesla T4",
+    "selesai": "2026-11-24 04:31:45",
+    "model": "yolo11n-seg.pt",
+    "imgsz": 320,
+    "batch": 32
+  },
+  "M2_yolo11n-seg_960": {
+    "detik": 3589.7,
+    "jam": 0.997,
+    "gpu": "Tesla T4",
+    "selesai": "2026-11-24 05:31:34",
+    "model": "yolo11n-seg.pt",
+    "imgsz": 960,
+    "batch": 8
+  },
+  "M3_maskrcnn-r50fpn_640": {
+    "detik": 3617.9,
+    "jam": 1.005,
+    "gpu": "Tesla T4",
+    "selesai": "2026-11-24 06:31:58",
+    "model": "maskrcnn_resnet50_fpn (COCO)",
+    "imgsz": 640,
+    "batch": 4
+  }
+}
