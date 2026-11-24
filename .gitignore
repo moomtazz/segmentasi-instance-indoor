@@ -1,0 +1,18 @@
+# Foto mentah dan arsip berukuran besar (foto ada di Roboflow tes-ruangan-sendiri)
+foto_asli/
+foto_asli_heic/
+arsip_foto/
+*.zip
+*.HEIC
+*.heic
+
+# Bobot model, diunduh dari output Kaggle
+*.pt
+
+# Materi kuliah dan catatan pribadi
+*.pdf
+Panduan_Pengerjaan_CPMK3.md
+statistik_label_otomatis.json
+
+__pycache__/
+.ipynb_checkpoints/
