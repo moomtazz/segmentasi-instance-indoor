@@ -10,14 +10,14 @@ Halaman ini merangkum bukti untuk komponen 1 (test set buatan sendiri), komponen
 
 ## Komponen 1 · Test set buatan sendiri
 
-**56 foto** diambil dengan iPhone 16 pada 24-11-2026, terdiri dari 43 foto kamar kos (16.39–17.08) dan 13 foto laboratorium komputer (20.35–20.37). Dari 56 foto, **29 dalam kondisi sulit**, yaitu 12 redup, 4 oklusi, 4 sudut ekstrem, 3 burem, 2 backlight, dan 4 kombinasi. Foto dianotasi di project Roboflow [`tes-ruangan-sendiri`](https://universe.roboflow.com/vk-a0mta/tes-ruangan-sendiri) dengan nama kelas yang sama dengan dataset latih, menghasilkan 583 objek dari 46 kelas (versi 2, dipakai untuk angka di halaman ini). Pada 25-11-2026 anotasi dirapikan menjadi 555 objek (versi 3): 16 boneka yang berlabel `toy` diganti ke `teddy bear`, serta potongan kaki kursi dan kaki meja yang tercatat sebagai objek terpisah dihapus.
+**56 foto** diambil dengan iPhone 16 pada 24-11-2026, terdiri dari 43 foto kamar kos (16.39–17.08) dan 13 foto laboratorium komputer (20.35–20.37). Dari 56 foto, **29 dalam kondisi sulit**, yaitu 12 redup, 4 oklusi, 4 sudut ekstrem, 3 burem, 2 backlight, dan 4 kombinasi. Foto dianotasi di project Roboflow [`tes-ruangan-sendiri`](https://universe.roboflow.com/vk-a0mta/tes-ruangan-sendiri) dengan nama kelas yang sama dengan dataset latih, menghasilkan 583 objek dari 46 kelas. Pada 25-11-2026 anotasi diperiksa ulang menjadi 555 objek (versi 3, dipakai untuk semua angka di halaman ini), karena 16 boneka yang berlabel `toy` diganti ke `teddy bear` dan potongan kaki kursi serta kaki meja yang tercatat sebagai objek terpisah dihapus.
 
 ### Screenshot proses anotasi
 
 | | |
 |---|---|
 | ![dataset](screenshot_anotasi/1_dataset_56_foto.jpg) | ![statistik](screenshot_anotasi/4_statistik_dataset.jpg) |
-| Halaman dataset, 56 foto beserta label | Ringkasan dataset: 56 foto, 583 anotasi, 46 kelas |
+| Halaman dataset, 56 foto beserta label | Ringkasan dataset sebelum pemeriksaan ulang (583 anotasi) |
 | ![kamar](screenshot_anotasi/2_editor_normal_03_kamar.jpg) | ![lab](screenshot_anotasi/3_editor_normal_27_lab.jpg) |
 | Editor anotasi foto kamar kos | Editor anotasi foto laboratorium |
 
@@ -39,13 +39,13 @@ Semua foto berukuran 5712×3213. Median ISO foto redup adalah 2850, sedangkan fo
 
 | Model | Test asli | Test asli, kelas foto sendiri | Foto sendiri | Sendiri normal | Sendiri sulit | Penurunan |
 |---|---|---|---|---|---|---|
-| M1 YOLOv8n-seg | 0,067 | 0,068 | 0,059 | 0,115 | 0,035 | −12% |
-| M2 YOLO11n-seg | 0,079 | 0,081 | 0,052 | 0,089 | 0,061 | −35% |
-| M3 Mask R-CNN | 0,084 | 0,093 | **0,071** | **0,126** | **0,062** | −24% |
+| M1 YOLOv8n-seg | 0,067 | 0,067 | 0,057 | 0,111 | 0,032 | −15% |
+| M2 YOLO11n-seg | 0,079 | 0,081 | 0,050 | 0,087 | 0,056 | −38% |
+| M3 Mask R-CNN | 0,084 | 0,093 | **0,068** | **0,123** | **0,064** | −27% |
 
-![domain shift](hasil_kaggle_v3/gambar/domain_shift.png)
+![domain shift](hasil_kaggle_v4/gambar/domain_shift.png)
 
-**Analisis domain shift.** Pembanding yang adil adalah test asli yang dibatasi pada kelas yang sama dengan foto sendiri, karena foto sendiri hanya memuat 46 dari 73 kelas. Secara keseluruhan ketiga model turun 12–35%, tetapi penurunannya tidak merata. Foto kos kondisi normal justru lebih tinggi daripada test asli karena objeknya besar dan jelas, sehingga seluruh penurunan datang dari foto sulit dan foto laboratorium. Recall di lab (0,08–0,09) lebih rendah daripada di kos (0,10–0,17) untuk ketiga model, karena monitor mati, PC tower, kursi beroda, dan meja panjang lab jarang ada di data latih yang didominasi ruangan rumah. Di antara kondisi sulit, redup dan backlight menurunkan recall paling banyak.
+**Analisis domain shift.** Pembanding yang adil adalah test asli yang dibatasi pada kelas yang sama dengan foto sendiri, karena foto sendiri hanya memuat 46 dari 73 kelas. Secara keseluruhan ketiga model turun 15–38%, tetapi penurunannya tidak merata. Foto kos kondisi normal justru lebih tinggi daripada test asli karena objeknya besar dan jelas, sehingga seluruh penurunan datang dari foto sulit dan foto laboratorium. Recall di lab lebih rendah daripada di kos untuk YOLOv8 (0,08 vs 0,10) dan Mask R-CNN (0,10 vs 0,15), sedangkan YOLO11 sama rendahnya di kedua tempat (0,08–0,09). Monitor mati, PC tower, kursi beroda, dan meja panjang lab jarang ada di data latih yang didominasi ruangan rumah. Di antara kondisi sulit, redup dan backlight menurunkan recall paling banyak.
 
 ## Komponen 3 · Hipotesis
 
@@ -53,7 +53,7 @@ Hipotesis tertulis di bagian **Hipotesis** pada [`Logbook_CPMK3.md`](Logbook_CPM
 
 | No | Hipotesis | Status setelah diuji |
 |---|---|---|
-| H1 | Mask R-CNN unggul di foto sendiri, terutama objek kecil, karena mask 28×28 dibuat per objek sedangkan prototype YOLO hanya 160×160 untuk seluruh foto | Didukung (AP kecil 0,028 vs 0,006 dan 0,000; oracle 0,99 vs 0,77) |
+| H1 | Mask R-CNN unggul di foto sendiri, terutama objek kecil, karena mask 28×28 dibuat per objek sedangkan prototype YOLO hanya 160×160 untuk seluruh foto | Didukung (AP kecil 0,029 vs 0,006 dan 0,000; oracle 0,99 vs 0,79) |
 | H2 | YOLO menyamai Mask R-CNN untuk objek besar | Tidak didukung |
 | H3 | Turun > 30%, terbesar di lab | Sebagian |
 | H4 | Redup paling merusak | Didukung |
@@ -68,34 +68,42 @@ Ketiga model dilatih pada Panoptic Indoor Segmentation v5 (397 train, 166 valid,
 
 | Model | Valid (mask mAP50-95) | Test (mask mAP50-95) | Test mAP50 | Inferensi | Parameter | GPU latih |
 |---|---|---|---|---|---|---|
-| M1 YOLOv8n-seg | 0,169 | 0,067 | 0,111 | 97 ms | 3,4 juta | 0,39 jam |
-| M2 YOLO11n-seg | **0,192** | 0,079 | 0,136 | 92 ms | 2,9 juta | 0,50 jam |
-| M3 Mask R-CNN R50-FPN | 0,179 | **0,084** | **0,149** | 203 ms | 44,3 juta | 1,01 jam |
+| M1 YOLOv8n-seg | 0,169 | 0,067 | 0,111 | 98 ms | 3,4 juta | 0,39 jam |
+| M2 YOLO11n-seg | **0,192** | 0,079 | 0,136 | 94 ms | 2,9 juta | 0,50 jam |
+| M3 Mask R-CNN R50-FPN | 0,179 | **0,084** | **0,149** | 206 ms | 44,3 juta | 1,01 jam |
 
-![kurva validasi](hasil_kaggle_v3/gambar/kurva_validasi.png)
+![kurva validasi](hasil_kaggle_v4/gambar/kurva_validasi.png)
 
 YOLO naik cepat dan berhenti sendiri oleh early stopping (M1 setelah 23 menit, M2 setelah 30 menit), sedangkan Mask R-CNN naik lebih lambat dan memakai seluruh 60 menit. Nilai di split valid dihitung dengan evaluator yang sama dan cocok dengan angka validasi saat training, sehingga test yang lebih rendah berasal dari split test yang lebih sulit.
 
 ### Variabel NRP (digit akhir 1): ukuran input 320 / 640 / 960
 
-![ringkasan NRP](hasil_kaggle_v3/gambar/nrp_ringkas.png)
+Ketiga model dilatih ulang pada setiap ukuran lalu diuji pada ukuran yang sama, sehingga ada sembilan model. Batang terang sampai gelap adalah input 320, 640, dan 960, dan angka tebal menandai ukuran terbaik untuk setiap model.
 
-Input 960 paling akurat di foto sendiri (YOLO11 naik 38% dari 640, sedangkan di test asli hanya 4%), karena foto 5712×3213 berisi banyak objek kecil dan jauh. Input 320 paling buruk di semua kondisi. Pada foto sulit, 640 justru lebih tinggi daripada 960, kemungkinan karena noise ISO tinggi dan blur ikut terlihat jelas di resolusi besar, tetapi foto sulit hanya 29 sehingga ini dibaca sebagai kecenderungan. Grafik di bawah membandingkan dengan Mask R-CNN yang dilatih 640 lalu hanya diuji di ukuran lain.
+![ringkasan NRP](hasil_kaggle_v4/gambar/nrp_ringkas.png)
 
-![ukuran input](hasil_kaggle_v3/gambar/ukuran_input.png)
+| Model | Set | 320 | 640 | 960 |
+|---|---|---|---|---|
+| M1 YOLOv8n-seg | Test asli | 0,055 | 0,067 | **0,070** |
+| | Foto sendiri | 0,018 | **0,057** | 0,050 |
+| | Foto sulit | 0,015 | **0,032** | 0,023 |
+| M2 YOLO11n-seg | Test asli | 0,055 | 0,079 | **0,082** |
+| | Foto sendiri | 0,025 | 0,050 | **0,071** |
+| | Foto sulit | 0,017 | **0,056** | 0,035 |
+| M3 Mask R-CNN | Test asli | 0,062 | 0,084 | **0,087** |
+| | Foto sendiri | 0,047 | 0,068 | **0,077** |
+| | Foto sulit | 0,040 | **0,064** | **0,064** |
+| Waktu per foto sendiri | M1 / M2 / M3 | 98 / 93 / 209 ms | 110 / 103 / 215 ms | 122 / 114 / 221 ms |
 
-| Seri | 320 | 640 | 960 |
-|---|---|---|---|
-| YOLO11n-seg dilatih ulang, test asli | 0,055 | 0,079 | 0,082 |
-| YOLO11n-seg dilatih ulang, foto sendiri | 0,026 | 0,052 | 0,072 |
-| Mask R-CNN dilatih 640, test asli | 0,063 | 0,084 | 0,079 |
-| Mask R-CNN dilatih 640, foto sendiri | 0,034 | 0,071 | 0,073 |
+Input 320 paling buruk untuk ketiga model di semua set, karena foto 5712×3213 yang diperkecil ke 320 membuat objek kecil tinggal beberapa piksel. Di test asli 960 selalu terbaik tetapi hanya +0,003 dari 640, karena citra dataset memang sudah 640. Di foto sendiri 960 terbaik untuk YOLO11 (+42%) dan Mask R-CNN (+13%), karena foto HP punya detail lebih banyak, sedangkan YOLOv8 justru sedikit turun. Di foto sulit 640 terbaik atau sama dengan 960, kemungkinan karena noise ISO tinggi dan blur ikut terlihat jelas di resolusi besar, tetapi foto sulit hanya 29 sehingga ini dibaca sebagai kecenderungan. Setiap naik satu ukuran, waktu inferensi bertambah sekitar 10%.
 
-Input yang lebih besar paling membantu di foto sendiri, karena foto 5712×3213 berisi banyak objek kecil dan jauh yang hilang saat diperkecil ke 320.
+Kesimpulannya, 960 paling akurat untuk foto HP kondisi normal pada YOLO11 dan Mask R-CNN, 640 paling seimbang dan paling tahan di foto sulit, sedangkan 320 tidak disarankan. Melatih ulang pada ukuran target juga lebih baik daripada hanya mengganti ukuran saat inferensi, karena Mask R-CNN yang dilatih pada 320 mendapat 0,047 di foto sendiri sedangkan model 640 yang hanya diuji pada 320 mendapat 0,032. Grafik garis di bawah memuat perbandingan itu.
+
+![ukuran input](hasil_kaggle_v4/gambar/ukuran_input.png)
 
 ## Bukti proses
 
-- Log training asli: [`logs/`](logs) (versi 1 gagal di Mask R-CNN, versi 2 training, versi 3 evaluasi) dan `results.csv` setiap run di [`hasil_kaggle_v2/runs/`](hasil_kaggle_v2/runs)
-- Waktu GPU: [`hasil_kaggle_v3/waktu_gpu.json`](hasil_kaggle_v3/waktu_gpu.json), total 3,30 jam training
+- Log training asli: [`logs/`](logs) (versi 1 gagal di Mask R-CNN, versi 2 training, versi 3 evaluasi, versi 4 training NRP untuk YOLOv8 dan Mask R-CNN) dan `results.csv` setiap run di [`hasil_kaggle_v4/runs/`](hasil_kaggle_v4/runs)
+- Waktu GPU: [`hasil_kaggle_v4/waktu_gpu.json`](hasil_kaggle_v4/waktu_gpu.json), total 6,63 jam training untuk sembilan model
 - Logbook: [`Logbook_CPMK3.md`](Logbook_CPMK3.md)
 - Deklarasi AI: [`Deklarasi_Penggunaan_AI.md`](Deklarasi_Penggunaan_AI.md)
