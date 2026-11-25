@@ -10,7 +10,7 @@ Halaman ini merangkum bukti untuk komponen 1 (test set buatan sendiri), komponen
 
 ## Komponen 1 · Test set buatan sendiri
 
-**56 foto** diambil dengan iPhone 16 pada 24-11-2026, terdiri dari 43 foto kamar kos (16.39–17.08) dan 13 foto laboratorium komputer (20.35–20.37). Dari 56 foto, **29 dalam kondisi sulit**, yaitu 12 redup, 4 oklusi, 4 sudut ekstrem, 3 burem, 2 backlight, dan 4 kombinasi. Foto dianotasi di project Roboflow [`tes-ruangan-sendiri`](https://universe.roboflow.com/vk-a0mta/tes-ruangan-sendiri) dengan nama kelas yang sama dengan dataset latih, menghasilkan 583 objek dari 46 kelas.
+**56 foto** diambil dengan iPhone 16 pada 24-11-2026, terdiri dari 43 foto kamar kos (16.39–17.08) dan 13 foto laboratorium komputer (20.35–20.37). Dari 56 foto, **29 dalam kondisi sulit**, yaitu 12 redup, 4 oklusi, 4 sudut ekstrem, 3 burem, 2 backlight, dan 4 kombinasi. Foto dianotasi di project Roboflow [`tes-ruangan-sendiri`](https://universe.roboflow.com/vk-a0mta/tes-ruangan-sendiri) dengan nama kelas yang sama dengan dataset latih, menghasilkan 583 objek dari 46 kelas (versi 2, dipakai untuk angka di halaman ini). Pada 25-11-2026 anotasi dirapikan menjadi 555 objek (versi 3): 16 boneka yang berlabel `toy` diganti ke `teddy bear`, serta potongan kaki kursi dan kaki meja yang tercatat sebagai objek terpisah dihapus.
 
 ### Screenshot proses anotasi
 
