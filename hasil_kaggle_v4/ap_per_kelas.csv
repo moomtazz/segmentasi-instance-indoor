@@ -1,0 +1,3008 @@
+model,imgsz,test_set,kelas,AP_mask
+M1 YOLOv8n-seg,640,asli,backpack,0.0
+M1 YOLOv8n-seg,640,asli,bed,0.12927477061748505
+M1 YOLOv8n-seg,640,asli,blanket,0.0017134607769548893
+M1 YOLOv8n-seg,640,asli,book,0.047494206577539444
+M1 YOLOv8n-seg,640,asli,bottle,0.11371371150016785
+M1 YOLOv8n-seg,640,asli,bowl,0.13434775173664093
+M1 YOLOv8n-seg,640,asli,box,0.0
+M1 YOLOv8n-seg,640,asli,cabinet-merged,0.015589587390422821
+M1 YOLOv8n-seg,640,asli,cardboard,0.0
+M1 YOLOv8n-seg,640,asli,ceiling-merged,0.25777342915534973
+M1 YOLOv8n-seg,640,asli,cell phone,0.017110710963606834
+M1 YOLOv8n-seg,640,asli,chair,0.16917474567890167
+M1 YOLOv8n-seg,640,asli,clock,0.0686468631029129
+M1 YOLOv8n-seg,640,asli,couch,0.0801500752568245
+M1 YOLOv8n-seg,640,asli,counter,0.061508696526288986
+M1 YOLOv8n-seg,640,asli,cup,0.16395626962184906
+M1 YOLOv8n-seg,640,asli,curtain,0.0006975697469897568
+M1 YOLOv8n-seg,640,asli,dining table,0.008168316446244717
+M1 YOLOv8n-seg,640,asli,door-stuff,0.07377318292856216
+M1 YOLOv8n-seg,640,asli,fire-extinguisher,0.24806524813175201
+M1 YOLOv8n-seg,640,asli,floor-other-merged,0.19917511940002441
+M1 YOLOv8n-seg,640,asli,floor-wood,0.16330283880233765
+M1 YOLOv8n-seg,640,asli,flower,0.0
+M1 YOLOv8n-seg,640,asli,food-other-merged,0.3142874538898468
+M1 YOLOv8n-seg,640,asli,fork,0.0
+M1 YOLOv8n-seg,640,asli,hair drier,0.0
+M1 YOLOv8n-seg,640,asli,handbag,0.019481375813484192
+M1 YOLOv8n-seg,640,asli,keyboard,0.0
+M1 YOLOv8n-seg,640,asli,knife,0.0068721650168299675
+M1 YOLOv8n-seg,640,asli,laptop,0.1906326562166214
+M1 YOLOv8n-seg,640,asli,light,0.024665551260113716
+M1 YOLOv8n-seg,640,asli,microwave,0.0
+M1 YOLOv8n-seg,640,asli,mirror-stuff,0.0
+M1 YOLOv8n-seg,640,asli,mouse,0.0
+M1 YOLOv8n-seg,640,asli,oven,0.06310231238603592
+M1 YOLOv8n-seg,640,asli,pan,0.18830974400043488
+M1 YOLOv8n-seg,640,asli,paper,0.0
+M1 YOLOv8n-seg,640,asli,paper-merged,0.0
+M1 YOLOv8n-seg,640,asli,person,0.27272018790245056
+M1 YOLOv8n-seg,640,asli,pillow,0.038558728992938995
+M1 YOLOv8n-seg,640,asli,plate,0.0800778716802597
+M1 YOLOv8n-seg,640,asli,plug,0.06672070920467377
+M1 YOLOv8n-seg,640,asli,potted plant,0.27783477306365967
+M1 YOLOv8n-seg,640,asli,refrigerator,0.0
+M1 YOLOv8n-seg,640,asli,remote,-1.0
+M1 YOLOv8n-seg,640,asli,rug-merged,0.002291923388838768
+M1 YOLOv8n-seg,640,asli,scissors,0.0
+M1 YOLOv8n-seg,640,asli,shelf,-1.0
+M1 YOLOv8n-seg,640,asli,sink,0.0
+M1 YOLOv8n-seg,640,asli,spoon,0.008818740025162697
+M1 YOLOv8n-seg,640,asli,st-,-1.0
+M1 YOLOv8n-seg,640,asli,stairs,0.1144174113869667
+M1 YOLOv8n-seg,640,asli,stove-merged,0.11700314283370972
+M1 YOLOv8n-seg,640,asli,table-merged,0.06655394285917282
+M1 YOLOv8n-seg,640,asli,teddy bear,0.0
+M1 YOLOv8n-seg,640,asli,toaster,0.0
+M1 YOLOv8n-seg,640,asli,toilet,0.0
+M1 YOLOv8n-seg,640,asli,toothbrush,0.0
+M1 YOLOv8n-seg,640,asli,towel,0.0
+M1 YOLOv8n-seg,640,asli,toy,0.015503046102821827
+M1 YOLOv8n-seg,640,asli,trash-bin,0.01792563498020172
+M1 YOLOv8n-seg,640,asli,tree-merged,-1.0
+M1 YOLOv8n-seg,640,asli,tv,0.04721672087907791
+M1 YOLOv8n-seg,640,asli,vase,0.04470803216099739
+M1 YOLOv8n-seg,640,asli,wall-brick,0.02757597155869007
+M1 YOLOv8n-seg,640,asli,wall-other-merged,0.11909511685371399
+M1 YOLOv8n-seg,640,asli,wall-stone,0.0
+M1 YOLOv8n-seg,640,asli,wall-tile,0.052787166088819504
+M1 YOLOv8n-seg,640,asli,wall-wood,0.020505782216787338
+M1 YOLOv8n-seg,640,asli,wallet,0.21613506972789764
+M1 YOLOv8n-seg,640,asli,window-blind,0.09665732085704803
+M1 YOLOv8n-seg,640,asli,window-other,0.09473572671413422
+M1 YOLOv8n-seg,640,valid_asli,backpack,0.0
+M1 YOLOv8n-seg,640,valid_asli,bed,0.06732673197984695
+M1 YOLOv8n-seg,640,valid_asli,blanket,0.04466446489095688
+M1 YOLOv8n-seg,640,valid_asli,book,0.03536709398031235
+M1 YOLOv8n-seg,640,valid_asli,bottle,0.04648418352007866
+M1 YOLOv8n-seg,640,valid_asli,bowl,0.07423247396945953
+M1 YOLOv8n-seg,640,valid_asli,box,0.09139454364776611
+M1 YOLOv8n-seg,640,valid_asli,cabinet-merged,0.00573314493522048
+M1 YOLOv8n-seg,640,valid_asli,cardboard,-1.0
+M1 YOLOv8n-seg,640,valid_asli,ceiling-merged,0.26225700974464417
+M1 YOLOv8n-seg,640,valid_asli,cell phone,0.012128712609410286
+M1 YOLOv8n-seg,640,valid_asli,chair,0.5480831861495972
+M1 YOLOv8n-seg,640,valid_asli,clock,-1.0
+M1 YOLOv8n-seg,640,valid_asli,couch,0.14158415794372559
+M1 YOLOv8n-seg,640,valid_asli,counter,0.09186121821403503
+M1 YOLOv8n-seg,640,valid_asli,cup,0.08753888309001923
+M1 YOLOv8n-seg,640,valid_asli,curtain,-1.0
+M1 YOLOv8n-seg,640,valid_asli,dining table,0.0
+M1 YOLOv8n-seg,640,valid_asli,door-stuff,0.1706012487411499
+M1 YOLOv8n-seg,640,valid_asli,fire-extinguisher,0.5766915082931519
+M1 YOLOv8n-seg,640,valid_asli,floor-other-merged,0.2402396947145462
+M1 YOLOv8n-seg,640,valid_asli,floor-wood,0.21334531903266907
+M1 YOLOv8n-seg,640,valid_asli,food-other-merged,0.37347620725631714
+M1 YOLOv8n-seg,640,valid_asli,fork,0.0
+M1 YOLOv8n-seg,640,valid_asli,handbag,0.5316831469535828
+M1 YOLOv8n-seg,640,valid_asli,knife,0.0
+M1 YOLOv8n-seg,640,valid_asli,laptop,0.2693069279193878
+M1 YOLOv8n-seg,640,valid_asli,light,0.030954614281654358
+M1 YOLOv8n-seg,640,valid_asli,microwave,0.0
+M1 YOLOv8n-seg,640,valid_asli,mirror-stuff,0.0
+M1 YOLOv8n-seg,640,valid_asli,oven,0.4206506311893463
+M1 YOLOv8n-seg,640,valid_asli,pan,0.27821996808052063
+M1 YOLOv8n-seg,640,valid_asli,paper,0.06522227823734283
+M1 YOLOv8n-seg,640,valid_asli,paper-merged,0.0
+M1 YOLOv8n-seg,640,valid_asli,person,0.4540817141532898
+M1 YOLOv8n-seg,640,valid_asli,pillow,0.2909323573112488
+M1 YOLOv8n-seg,640,valid_asli,plate,0.06990067660808563
+M1 YOLOv8n-seg,640,valid_asli,plug,0.30069106817245483
+M1 YOLOv8n-seg,640,valid_asli,potted plant,0.26678258180618286
+M1 YOLOv8n-seg,640,valid_asli,refrigerator,0.0
+M1 YOLOv8n-seg,640,valid_asli,remote,0.800000011920929
+M1 YOLOv8n-seg,640,valid_asli,rug-merged,0.015841584652662277
+M1 YOLOv8n-seg,640,valid_asli,shelf,0.0
+M1 YOLOv8n-seg,640,valid_asli,sink,0.21306930482387543
+M1 YOLOv8n-seg,640,valid_asli,spoon,0.05571302771568298
+M1 YOLOv8n-seg,640,valid_asli,st-,-1.0
+M1 YOLOv8n-seg,640,valid_asli,stairs,0.11071711778640747
+M1 YOLOv8n-seg,640,valid_asli,stove-merged,0.15896882116794586
+M1 YOLOv8n-seg,640,valid_asli,table-merged,0.1260397583246231
+M1 YOLOv8n-seg,640,valid_asli,toaster,0.0
+M1 YOLOv8n-seg,640,valid_asli,toilet,0.0
+M1 YOLOv8n-seg,640,valid_asli,towel,0.0
+M1 YOLOv8n-seg,640,valid_asli,toy,0.1896568089723587
+M1 YOLOv8n-seg,640,valid_asli,trash-bin,0.6129482388496399
+M1 YOLOv8n-seg,640,valid_asli,tv,0.0
+M1 YOLOv8n-seg,640,valid_asli,vase,-1.0
+M1 YOLOv8n-seg,640,valid_asli,wall-brick,0.05101783201098442
+M1 YOLOv8n-seg,640,valid_asli,wall-other-merged,0.18102531135082245
+M1 YOLOv8n-seg,640,valid_asli,wall-stone,-1.0
+M1 YOLOv8n-seg,640,valid_asli,wall-tile,0.2233910858631134
+M1 YOLOv8n-seg,640,valid_asli,wall-wood,0.11683168262243271
+M1 YOLOv8n-seg,640,valid_asli,wallet,0.5561001896858215
+M1 YOLOv8n-seg,640,valid_asli,window-blind,0.1700177639722824
+M1 YOLOv8n-seg,640,valid_asli,window-other,0.15611153841018677
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,backpack,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,bed,0.1293824464082718
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,blanket,0.0017370249843224883
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,book,0.047841377556324005
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,bottle,0.11376642435789108
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,bowl,0.13434775173664093
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,box,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,cabinet-merged,0.015672288835048676
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,cell phone,0.019949639216065407
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,chair,0.16920149326324463
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,clock,0.0686468631029129
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,couch,0.0801500752568245
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,cup,0.16395626962184906
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,curtain,0.0007190004689618945
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,dining table,0.008168316446244717
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,fire-extinguisher,0.24883194267749786
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,flower,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,food-other-merged,0.3144257366657257
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,fork,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,handbag,0.019481375813484192
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,keyboard,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,knife,0.0068721650168299675
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,laptop,0.21943709254264832
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,light,0.024839837104082108
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,mirror-stuff,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,mouse,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,pan,0.19014215469360352
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,paper,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,pillow,0.038585253059864044
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,plate,0.08015996217727661
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,plug,0.06769108772277832
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,potted plant,0.2779899835586548
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,refrigerator,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,remote,-1.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,scissors,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,shelf,-1.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,sink,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,spoon,0.008826334960758686
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,stove-merged,0.1170237809419632
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,teddy bear,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,towel,0.0
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,toy,0.015724316239356995
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,trash-bin,0.01854093372821808
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,tv,0.04721672087907791
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,wallet,0.22136539220809937
+M1 YOLOv8n-seg,640,asli_kelas_sendiri,window-blind,0.09923110157251358
+M1 YOLOv8n-seg,640,sendiri,backpack,0.0
+M1 YOLOv8n-seg,640,sendiri,bed,0.026166902855038643
+M1 YOLOv8n-seg,640,sendiri,blanket,0.08750952035188675
+M1 YOLOv8n-seg,640,sendiri,book,0.007573497015982866
+M1 YOLOv8n-seg,640,sendiri,bottle,0.2118135541677475
+M1 YOLOv8n-seg,640,sendiri,bowl,0.015841584652662277
+M1 YOLOv8n-seg,640,sendiri,box,0.0172762181609869
+M1 YOLOv8n-seg,640,sendiri,cabinet-merged,0.003650990081951022
+M1 YOLOv8n-seg,640,sendiri,cell phone,0.0
+M1 YOLOv8n-seg,640,sendiri,chair,0.1253855973482132
+M1 YOLOv8n-seg,640,sendiri,clock,0.0
+M1 YOLOv8n-seg,640,sendiri,couch,0.0
+M1 YOLOv8n-seg,640,sendiri,cup,0.06958038359880447
+M1 YOLOv8n-seg,640,sendiri,curtain,0.0
+M1 YOLOv8n-seg,640,sendiri,dining table,0.0
+M1 YOLOv8n-seg,640,sendiri,fire-extinguisher,0.22499999403953552
+M1 YOLOv8n-seg,640,sendiri,flower,0.0
+M1 YOLOv8n-seg,640,sendiri,food-other-merged,0.0
+M1 YOLOv8n-seg,640,sendiri,fork,0.0
+M1 YOLOv8n-seg,640,sendiri,handbag,0.0
+M1 YOLOv8n-seg,640,sendiri,keyboard,0.0
+M1 YOLOv8n-seg,640,sendiri,knife,0.0
+M1 YOLOv8n-seg,640,sendiri,laptop,0.20966996252536774
+M1 YOLOv8n-seg,640,sendiri,light,0.0
+M1 YOLOv8n-seg,640,sendiri,mirror-stuff,0.0
+M1 YOLOv8n-seg,640,sendiri,mouse,0.0
+M1 YOLOv8n-seg,640,sendiri,pan,0.2206411361694336
+M1 YOLOv8n-seg,640,sendiri,paper,0.0
+M1 YOLOv8n-seg,640,sendiri,pillow,0.231565922498703
+M1 YOLOv8n-seg,640,sendiri,plate,0.07722771912813187
+M1 YOLOv8n-seg,640,sendiri,plug,0.013647310435771942
+M1 YOLOv8n-seg,640,sendiri,potted plant,0.026501866057515144
+M1 YOLOv8n-seg,640,sendiri,refrigerator,0.0
+M1 YOLOv8n-seg,640,sendiri,remote,0.0
+M1 YOLOv8n-seg,640,sendiri,scissors,0.0
+M1 YOLOv8n-seg,640,sendiri,shelf,0.0
+M1 YOLOv8n-seg,640,sendiri,sink,0.010396040044724941
+M1 YOLOv8n-seg,640,sendiri,spoon,0.12953507900238037
+M1 YOLOv8n-seg,640,sendiri,stove-merged,0.5709571242332458
+M1 YOLOv8n-seg,640,sendiri,teddy bear,0.0
+M1 YOLOv8n-seg,640,sendiri,towel,0.0
+M1 YOLOv8n-seg,640,sendiri,toy,0.03852316364645958
+M1 YOLOv8n-seg,640,sendiri,trash-bin,0.15445543825626373
+M1 YOLOv8n-seg,640,sendiri,tv,0.013201320543885231
+M1 YOLOv8n-seg,640,sendiri,wallet,0.1504117101430893
+M1 YOLOv8n-seg,640,sendiri,window-blind,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,backpack,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,bed,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,blanket,0.06059405952692032
+M1 YOLOv8n-seg,640,sendiri_normal,book,0.015431806445121765
+M1 YOLOv8n-seg,640,sendiri_normal,bottle,0.21565771102905273
+M1 YOLOv8n-seg,640,sendiri_normal,bowl,0.08415841311216354
+M1 YOLOv8n-seg,640,sendiri_normal,box,0.018481848761439323
+M1 YOLOv8n-seg,640,sendiri_normal,cabinet-merged,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,cell phone,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,chair,0.1895364373922348
+M1 YOLOv8n-seg,640,sendiri_normal,clock,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,couch,-1.0
+M1 YOLOv8n-seg,640,sendiri_normal,cup,0.16094350814819336
+M1 YOLOv8n-seg,640,sendiri_normal,curtain,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,dining table,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,fire-extinguisher,0.44999998807907104
+M1 YOLOv8n-seg,640,sendiri_normal,flower,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,food-other-merged,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,fork,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,handbag,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,keyboard,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,knife,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,laptop,0.9009901285171509
+M1 YOLOv8n-seg,640,sendiri_normal,light,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,mirror-stuff,-1.0
+M1 YOLOv8n-seg,640,sendiri_normal,mouse,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,pan,0.21651625633239746
+M1 YOLOv8n-seg,640,sendiri_normal,paper,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,pillow,0.4826732575893402
+M1 YOLOv8n-seg,640,sendiri_normal,plate,-1.0
+M1 YOLOv8n-seg,640,sendiri_normal,plug,0.05577557906508446
+M1 YOLOv8n-seg,640,sendiri_normal,potted plant,0.06991522759199142
+M1 YOLOv8n-seg,640,sendiri_normal,refrigerator,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,remote,-1.0
+M1 YOLOv8n-seg,640,sendiri_normal,scissors,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,shelf,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,sink,0.05148514732718468
+M1 YOLOv8n-seg,640,sendiri_normal,spoon,0.15673620998859406
+M1 YOLOv8n-seg,640,sendiri_normal,stove-merged,1.0
+M1 YOLOv8n-seg,640,sendiri_normal,teddy bear,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,towel,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,toy,0.044893115758895874
+M1 YOLOv8n-seg,640,sendiri_normal,trash-bin,0.20198020339012146
+M1 YOLOv8n-seg,640,sendiri_normal,tv,0.0
+M1 YOLOv8n-seg,640,sendiri_normal,wallet,0.2891455888748169
+M1 YOLOv8n-seg,640,sendiri_normal,window-blind,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,backpack,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,bed,0.034455444663763046
+M1 YOLOv8n-seg,640,sendiri_sulit,blanket,0.0980198010802269
+M1 YOLOv8n-seg,640,sendiri_sulit,book,0.011551154777407646
+M1 YOLOv8n-seg,640,sendiri_sulit,bottle,0.21903543174266815
+M1 YOLOv8n-seg,640,sendiri_sulit,bowl,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,box,0.023856671527028084
+M1 YOLOv8n-seg,640,sendiri_sulit,cabinet-merged,0.011786893010139465
+M1 YOLOv8n-seg,640,sendiri_sulit,cell phone,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,chair,0.08853272348642349
+M1 YOLOv8n-seg,640,sendiri_sulit,clock,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,couch,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,cup,0.030551627278327942
+M1 YOLOv8n-seg,640,sendiri_sulit,dining table,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,fire-extinguisher,-1.0
+M1 YOLOv8n-seg,640,sendiri_sulit,flower,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,food-other-merged,-1.0
+M1 YOLOv8n-seg,640,sendiri_sulit,fork,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,handbag,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,keyboard,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,knife,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,laptop,0.07788778841495514
+M1 YOLOv8n-seg,640,sendiri_sulit,light,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,mirror-stuff,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,mouse,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,pan,0.24576754868030548
+M1 YOLOv8n-seg,640,sendiri_sulit,paper,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,pillow,0.0483168326318264
+M1 YOLOv8n-seg,640,sendiri_sulit,plate,0.07722771912813187
+M1 YOLOv8n-seg,640,sendiri_sulit,plug,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,potted plant,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,remote,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,scissors,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,shelf,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,sink,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,spoon,0.08571428805589676
+M1 YOLOv8n-seg,640,sendiri_sulit,stove-merged,0.10000000149011612
+M1 YOLOv8n-seg,640,sendiri_sulit,teddy bear,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,towel,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,toy,0.06132333353161812
+M1 YOLOv8n-seg,640,sendiri_sulit,trash-bin,0.0
+M1 YOLOv8n-seg,640,sendiri_sulit,tv,0.018481848761439323
+M1 YOLOv8n-seg,640,sendiri_sulit,wallet,0.08580858260393143
+M1 YOLOv8n-seg,640,sendiri_sulit,window-blind,-1.0
+M2 YOLO11n-seg,640,asli,backpack,0.009900989942252636
+M2 YOLO11n-seg,640,asli,bed,0.11999588459730148
+M2 YOLO11n-seg,640,asli,blanket,0.0
+M2 YOLO11n-seg,640,asli,book,0.05358174815773964
+M2 YOLO11n-seg,640,asli,bottle,0.11399498581886292
+M2 YOLO11n-seg,640,asli,bowl,0.1642163097858429
+M2 YOLO11n-seg,640,asli,box,0.0
+M2 YOLO11n-seg,640,asli,cabinet-merged,0.038998208940029144
+M2 YOLO11n-seg,640,asli,cardboard,0.0
+M2 YOLO11n-seg,640,asli,ceiling-merged,0.2993329167366028
+M2 YOLO11n-seg,640,asli,cell phone,0.058779846876859665
+M2 YOLO11n-seg,640,asli,chair,0.18153734505176544
+M2 YOLO11n-seg,640,asli,clock,0.0
+M2 YOLO11n-seg,640,asli,couch,0.05477860942482948
+M2 YOLO11n-seg,640,asli,counter,0.05160299316048622
+M2 YOLO11n-seg,640,asli,cup,0.15698803961277008
+M2 YOLO11n-seg,640,asli,curtain,0.00972026027739048
+M2 YOLO11n-seg,640,asli,dining table,0.026963165029883385
+M2 YOLO11n-seg,640,asli,door-stuff,0.1273423433303833
+M2 YOLO11n-seg,640,asli,fire-extinguisher,0.35001105070114136
+M2 YOLO11n-seg,640,asli,floor-other-merged,0.25911396741867065
+M2 YOLO11n-seg,640,asli,floor-wood,0.20000790059566498
+M2 YOLO11n-seg,640,asli,flower,0.0
+M2 YOLO11n-seg,640,asli,food-other-merged,0.30222806334495544
+M2 YOLO11n-seg,640,asli,fork,0.019801979884505272
+M2 YOLO11n-seg,640,asli,hair drier,0.0
+M2 YOLO11n-seg,640,asli,handbag,0.018546776846051216
+M2 YOLO11n-seg,640,asli,keyboard,0.0
+M2 YOLO11n-seg,640,asli,knife,0.0008486562874168158
+M2 YOLO11n-seg,640,asli,laptop,0.16522516310214996
+M2 YOLO11n-seg,640,asli,light,0.029114633798599243
+M2 YOLO11n-seg,640,asli,microwave,0.029702970758080482
+M2 YOLO11n-seg,640,asli,mirror-stuff,0.0019801980815827847
+M2 YOLO11n-seg,640,asli,mouse,0.0
+M2 YOLO11n-seg,640,asli,oven,0.09029702842235565
+M2 YOLO11n-seg,640,asli,pan,0.3196445405483246
+M2 YOLO11n-seg,640,asli,paper,0.0
+M2 YOLO11n-seg,640,asli,paper-merged,0.0
+M2 YOLO11n-seg,640,asli,person,0.26484623551368713
+M2 YOLO11n-seg,640,asli,pillow,0.02647300250828266
+M2 YOLO11n-seg,640,asli,plate,0.14929991960525513
+M2 YOLO11n-seg,640,asli,plug,0.004235343541949987
+M2 YOLO11n-seg,640,asli,potted plant,0.30348628759384155
+M2 YOLO11n-seg,640,asli,refrigerator,0.0
+M2 YOLO11n-seg,640,asli,remote,-1.0
+M2 YOLO11n-seg,640,asli,rug-merged,0.006377141457051039
+M2 YOLO11n-seg,640,asli,scissors,0.0
+M2 YOLO11n-seg,640,asli,shelf,-1.0
+M2 YOLO11n-seg,640,asli,sink,0.05999999865889549
+M2 YOLO11n-seg,640,asli,spoon,0.012312301434576511
+M2 YOLO11n-seg,640,asli,st-,-1.0
+M2 YOLO11n-seg,640,asli,stairs,0.1113748773932457
+M2 YOLO11n-seg,640,asli,stove-merged,0.22454923391342163
+M2 YOLO11n-seg,640,asli,table-merged,0.07468030601739883
+M2 YOLO11n-seg,640,asli,teddy bear,0.0
+M2 YOLO11n-seg,640,asli,toaster,0.0
+M2 YOLO11n-seg,640,asli,toilet,0.04752475395798683
+M2 YOLO11n-seg,640,asli,toothbrush,0.0
+M2 YOLO11n-seg,640,asli,towel,0.0006015791441313922
+M2 YOLO11n-seg,640,asli,toy,0.04509218782186508
+M2 YOLO11n-seg,640,asli,trash-bin,0.002936155768111348
+M2 YOLO11n-seg,640,asli,tree-merged,-1.0
+M2 YOLO11n-seg,640,asli,tv,0.025247525423765182
+M2 YOLO11n-seg,640,asli,vase,0.0
+M2 YOLO11n-seg,640,asli,wall,-1.0
+M2 YOLO11n-seg,640,asli,wall-brick,0.050296131521463394
+M2 YOLO11n-seg,640,asli,wall-other-merged,0.1425856351852417
+M2 YOLO11n-seg,640,asli,wall-stone,0.0
+M2 YOLO11n-seg,640,asli,wall-tile,0.006199905648827553
+M2 YOLO11n-seg,640,asli,wall-wood,0.004808327183127403
+M2 YOLO11n-seg,640,asli,wallet,0.44952917098999023
+M2 YOLO11n-seg,640,asli,window-blind,0.03346861153841019
+M2 YOLO11n-seg,640,asli,window-other,0.08981318026781082
+M2 YOLO11n-seg,640,valid_asli,backpack,0.0
+M2 YOLO11n-seg,640,valid_asli,bed,0.03366336598992348
+M2 YOLO11n-seg,640,valid_asli,blanket,0.0
+M2 YOLO11n-seg,640,valid_asli,book,0.012659824453294277
+M2 YOLO11n-seg,640,valid_asli,bottle,0.09902489930391312
+M2 YOLO11n-seg,640,valid_asli,bowl,0.18641845881938934
+M2 YOLO11n-seg,640,valid_asli,box,0.1742803007364273
+M2 YOLO11n-seg,640,valid_asli,cabinet-merged,0.0061291842721402645
+M2 YOLO11n-seg,640,valid_asli,cardboard,-1.0
+M2 YOLO11n-seg,640,valid_asli,ceiling-merged,0.23666295409202576
+M2 YOLO11n-seg,640,valid_asli,cell phone,0.20792078971862793
+M2 YOLO11n-seg,640,valid_asli,chair,0.5125279426574707
+M2 YOLO11n-seg,640,valid_asli,couch,0.061138615012168884
+M2 YOLO11n-seg,640,valid_asli,counter,0.07285505533218384
+M2 YOLO11n-seg,640,valid_asli,cup,0.05717311054468155
+M2 YOLO11n-seg,640,valid_asli,curtain,-1.0
+M2 YOLO11n-seg,640,valid_asli,dining table,0.0
+M2 YOLO11n-seg,640,valid_asli,door-stuff,0.2711924910545349
+M2 YOLO11n-seg,640,valid_asli,fire-extinguisher,0.5118634700775146
+M2 YOLO11n-seg,640,valid_asli,floor-other-merged,0.3108295202255249
+M2 YOLO11n-seg,640,valid_asli,floor-wood,0.3171388804912567
+M2 YOLO11n-seg,640,valid_asli,food-other-merged,0.3392280638217926
+M2 YOLO11n-seg,640,valid_asli,fork,0.0
+M2 YOLO11n-seg,640,valid_asli,handbag,0.6089109182357788
+M2 YOLO11n-seg,640,valid_asli,knife,0.0637623742222786
+M2 YOLO11n-seg,640,valid_asli,laptop,0.38059404492378235
+M2 YOLO11n-seg,640,valid_asli,light,0.022411195561289787
+M2 YOLO11n-seg,640,valid_asli,microwave,0.1666666716337204
+M2 YOLO11n-seg,640,valid_asli,mirror-stuff,0.0
+M2 YOLO11n-seg,640,valid_asli,oven,0.19900989532470703
+M2 YOLO11n-seg,640,valid_asli,pan,0.26486852765083313
+M2 YOLO11n-seg,640,valid_asli,paper,0.09403315931558609
+M2 YOLO11n-seg,640,valid_asli,paper-merged,0.0
+M2 YOLO11n-seg,640,valid_asli,person,0.47772103548049927
+M2 YOLO11n-seg,640,valid_asli,pillow,0.3503791093826294
+M2 YOLO11n-seg,640,valid_asli,plate,0.07517135888338089
+M2 YOLO11n-seg,640,valid_asli,plug,0.3069441318511963
+M2 YOLO11n-seg,640,valid_asli,potted plant,0.27449291944503784
+M2 YOLO11n-seg,640,valid_asli,refrigerator,0.0
+M2 YOLO11n-seg,640,valid_asli,remote,0.800000011920929
+M2 YOLO11n-seg,640,valid_asli,rug-merged,0.10825082659721375
+M2 YOLO11n-seg,640,valid_asli,shelf,0.0
+M2 YOLO11n-seg,640,valid_asli,sink,0.0
+M2 YOLO11n-seg,640,valid_asli,spoon,0.04245827719569206
+M2 YOLO11n-seg,640,valid_asli,st-,-1.0
+M2 YOLO11n-seg,640,valid_asli,stairs,0.13729745149612427
+M2 YOLO11n-seg,640,valid_asli,stove-merged,0.23377664387226105
+M2 YOLO11n-seg,640,valid_asli,table-merged,0.14179390668869019
+M2 YOLO11n-seg,640,valid_asli,toaster,0.0
+M2 YOLO11n-seg,640,valid_asli,toilet,0.0
+M2 YOLO11n-seg,640,valid_asli,towel,0.0
+M2 YOLO11n-seg,640,valid_asli,toy,0.27110594511032104
+M2 YOLO11n-seg,640,valid_asli,trash-bin,0.6724451780319214
+M2 YOLO11n-seg,640,valid_asli,tv,0.0
+M2 YOLO11n-seg,640,valid_asli,vase,-1.0
+M2 YOLO11n-seg,640,valid_asli,wall,-1.0
+M2 YOLO11n-seg,640,valid_asli,wall-brick,0.059306930750608444
+M2 YOLO11n-seg,640,valid_asli,wall-other-merged,0.18910294771194458
+M2 YOLO11n-seg,640,valid_asli,wall-stone,-1.0
+M2 YOLO11n-seg,640,valid_asli,wall-tile,0.9252475500106812
+M2 YOLO11n-seg,640,valid_asli,wall-wood,0.02227722853422165
+M2 YOLO11n-seg,640,valid_asli,wallet,0.6401134133338928
+M2 YOLO11n-seg,640,valid_asli,window-blind,0.07920791953802109
+M2 YOLO11n-seg,640,valid_asli,window-other,0.10595393180847168
+M2 YOLO11n-seg,640,asli_kelas_sendiri,backpack,0.009900989942252636
+M2 YOLO11n-seg,640,asli_kelas_sendiri,bed,0.12004416435956955
+M2 YOLO11n-seg,640,asli_kelas_sendiri,blanket,0.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,book,0.053631097078323364
+M2 YOLO11n-seg,640,asli_kelas_sendiri,bottle,0.1155860424041748
+M2 YOLO11n-seg,640,asli_kelas_sendiri,bowl,0.16421879827976227
+M2 YOLO11n-seg,640,asli_kelas_sendiri,box,0.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,cabinet-merged,0.04034046083688736
+M2 YOLO11n-seg,640,asli_kelas_sendiri,cell phone,0.058779846876859665
+M2 YOLO11n-seg,640,asli_kelas_sendiri,chair,0.18211907148361206
+M2 YOLO11n-seg,640,asli_kelas_sendiri,clock,0.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,couch,0.05505168437957764
+M2 YOLO11n-seg,640,asli_kelas_sendiri,cup,0.15698803961277008
+M2 YOLO11n-seg,640,asli_kelas_sendiri,curtain,0.010943879373371601
+M2 YOLO11n-seg,640,asli_kelas_sendiri,dining table,0.026963165029883385
+M2 YOLO11n-seg,640,asli_kelas_sendiri,fire-extinguisher,0.35053351521492004
+M2 YOLO11n-seg,640,asli_kelas_sendiri,flower,0.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,food-other-merged,0.30267342925071716
+M2 YOLO11n-seg,640,asli_kelas_sendiri,fork,0.019801979884505272
+M2 YOLO11n-seg,640,asli_kelas_sendiri,handbag,0.018546776846051216
+M2 YOLO11n-seg,640,asli_kelas_sendiri,keyboard,0.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,knife,0.0008486562874168158
+M2 YOLO11n-seg,640,asli_kelas_sendiri,laptop,0.16522516310214996
+M2 YOLO11n-seg,640,asli_kelas_sendiri,light,0.02962031587958336
+M2 YOLO11n-seg,640,asli_kelas_sendiri,mirror-stuff,0.0022848439402878284
+M2 YOLO11n-seg,640,asli_kelas_sendiri,mouse,0.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,pan,0.31967398524284363
+M2 YOLO11n-seg,640,asli_kelas_sendiri,paper,0.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,pillow,0.026570836082100868
+M2 YOLO11n-seg,640,asli_kelas_sendiri,plate,0.14931629598140717
+M2 YOLO11n-seg,640,asli_kelas_sendiri,plug,0.004269066732376814
+M2 YOLO11n-seg,640,asli_kelas_sendiri,potted plant,0.30375632643699646
+M2 YOLO11n-seg,640,asli_kelas_sendiri,refrigerator,0.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,remote,-1.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,scissors,0.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,shelf,-1.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,sink,0.05999999865889549
+M2 YOLO11n-seg,640,asli_kelas_sendiri,spoon,0.012313422746956348
+M2 YOLO11n-seg,640,asli_kelas_sendiri,stove-merged,0.2246021330356598
+M2 YOLO11n-seg,640,asli_kelas_sendiri,teddy bear,0.0
+M2 YOLO11n-seg,640,asli_kelas_sendiri,towel,0.0006015791441313922
+M2 YOLO11n-seg,640,asli_kelas_sendiri,toy,0.04514572396874428
+M2 YOLO11n-seg,640,asli_kelas_sendiri,trash-bin,0.003153648693114519
+M2 YOLO11n-seg,640,asli_kelas_sendiri,tv,0.025247525423765182
+M2 YOLO11n-seg,640,asli_kelas_sendiri,wallet,0.4501793682575226
+M2 YOLO11n-seg,640,asli_kelas_sendiri,window-blind,0.03353143483400345
+M2 YOLO11n-seg,640,sendiri,backpack,0.0
+M2 YOLO11n-seg,640,sendiri,bed,0.004950494971126318
+M2 YOLO11n-seg,640,sendiri,blanket,0.011881188489496708
+M2 YOLO11n-seg,640,sendiri,book,0.026988480240106583
+M2 YOLO11n-seg,640,sendiri,bottle,0.17227806150913239
+M2 YOLO11n-seg,640,sendiri,bowl,0.07920791953802109
+M2 YOLO11n-seg,640,sendiri,box,0.0
+M2 YOLO11n-seg,640,sendiri,cabinet-merged,0.0
+M2 YOLO11n-seg,640,sendiri,cell phone,0.0
+M2 YOLO11n-seg,640,sendiri,chair,0.12802930176258087
+M2 YOLO11n-seg,640,sendiri,clock,0.0
+M2 YOLO11n-seg,640,sendiri,couch,0.0
+M2 YOLO11n-seg,640,sendiri,cup,0.09178566932678223
+M2 YOLO11n-seg,640,sendiri,curtain,0.0
+M2 YOLO11n-seg,640,sendiri,dining table,0.0
+M2 YOLO11n-seg,640,sendiri,fire-extinguisher,0.018918918445706367
+M2 YOLO11n-seg,640,sendiri,flower,0.0
+M2 YOLO11n-seg,640,sendiri,food-other-merged,0.0
+M2 YOLO11n-seg,640,sendiri,fork,0.06732673197984695
+M2 YOLO11n-seg,640,sendiri,handbag,0.0
+M2 YOLO11n-seg,640,sendiri,keyboard,0.0
+M2 YOLO11n-seg,640,sendiri,knife,0.0
+M2 YOLO11n-seg,640,sendiri,laptop,0.212816059589386
+M2 YOLO11n-seg,640,sendiri,light,0.0
+M2 YOLO11n-seg,640,sendiri,mirror-stuff,0.0
+M2 YOLO11n-seg,640,sendiri,mouse,0.0
+M2 YOLO11n-seg,640,sendiri,pan,0.19486534595489502
+M2 YOLO11n-seg,640,sendiri,paper,0.0
+M2 YOLO11n-seg,640,sendiri,pillow,0.2049909085035324
+M2 YOLO11n-seg,640,sendiri,plate,0.18019801378250122
+M2 YOLO11n-seg,640,sendiri,plug,0.005280528217554092
+M2 YOLO11n-seg,640,sendiri,potted plant,0.0
+M2 YOLO11n-seg,640,sendiri,refrigerator,0.0
+M2 YOLO11n-seg,640,sendiri,remote,0.0
+M2 YOLO11n-seg,640,sendiri,scissors,0.0
+M2 YOLO11n-seg,640,sendiri,shelf,0.0
+M2 YOLO11n-seg,640,sendiri,sink,0.0
+M2 YOLO11n-seg,640,sendiri,spoon,0.0
+M2 YOLO11n-seg,640,sendiri,stove-merged,0.26549720764160156
+M2 YOLO11n-seg,640,sendiri,teddy bear,0.0
+M2 YOLO11n-seg,640,sendiri,towel,0.0
+M2 YOLO11n-seg,640,sendiri,toy,0.013957004994153976
+M2 YOLO11n-seg,640,sendiri,trash-bin,0.2779442369937897
+M2 YOLO11n-seg,640,sendiri,tv,0.014851485379040241
+M2 YOLO11n-seg,640,sendiri,wallet,0.3366336524486542
+M2 YOLO11n-seg,640,sendiri,window-blind,0.0
+M2 YOLO11n-seg,640,sendiri_normal,backpack,0.0
+M2 YOLO11n-seg,640,sendiri_normal,bed,0.03638613969087601
+M2 YOLO11n-seg,640,sendiri_normal,blanket,0.0
+M2 YOLO11n-seg,640,sendiri_normal,book,0.03513319417834282
+M2 YOLO11n-seg,640,sendiri_normal,bottle,0.2138613909482956
+M2 YOLO11n-seg,640,sendiri_normal,bowl,0.3366336524486542
+M2 YOLO11n-seg,640,sendiri_normal,box,0.0
+M2 YOLO11n-seg,640,sendiri_normal,cabinet-merged,0.0
+M2 YOLO11n-seg,640,sendiri_normal,cell phone,0.0
+M2 YOLO11n-seg,640,sendiri_normal,chair,0.12100154161453247
+M2 YOLO11n-seg,640,sendiri_normal,clock,0.0
+M2 YOLO11n-seg,640,sendiri_normal,couch,-1.0
+M2 YOLO11n-seg,640,sendiri_normal,cup,0.14301429688930511
+M2 YOLO11n-seg,640,sendiri_normal,curtain,0.0
+M2 YOLO11n-seg,640,sendiri_normal,dining table,0.0
+M2 YOLO11n-seg,640,sendiri_normal,fire-extinguisher,0.03888889029622078
+M2 YOLO11n-seg,640,sendiri_normal,flower,0.0
+M2 YOLO11n-seg,640,sendiri_normal,food-other-merged,0.0
+M2 YOLO11n-seg,640,sendiri_normal,fork,0.0
+M2 YOLO11n-seg,640,sendiri_normal,handbag,0.0
+M2 YOLO11n-seg,640,sendiri_normal,keyboard,0.0
+M2 YOLO11n-seg,640,sendiri_normal,knife,0.0
+M2 YOLO11n-seg,640,sendiri_normal,laptop,0.7029703259468079
+M2 YOLO11n-seg,640,sendiri_normal,light,0.0
+M2 YOLO11n-seg,640,sendiri_normal,mirror-stuff,-1.0
+M2 YOLO11n-seg,640,sendiri_normal,mouse,0.0
+M2 YOLO11n-seg,640,sendiri_normal,pan,0.26285263895988464
+M2 YOLO11n-seg,640,sendiri_normal,paper,0.0
+M2 YOLO11n-seg,640,sendiri_normal,pillow,0.5341063737869263
+M2 YOLO11n-seg,640,sendiri_normal,plate,-1.0
+M2 YOLO11n-seg,640,sendiri_normal,plug,0.05148514732718468
+M2 YOLO11n-seg,640,sendiri_normal,potted plant,0.0
+M2 YOLO11n-seg,640,sendiri_normal,refrigerator,0.0
+M2 YOLO11n-seg,640,sendiri_normal,remote,-1.0
+M2 YOLO11n-seg,640,sendiri_normal,scissors,0.0
+M2 YOLO11n-seg,640,sendiri_normal,shelf,0.0
+M2 YOLO11n-seg,640,sendiri_normal,sink,0.0
+M2 YOLO11n-seg,640,sendiri_normal,spoon,0.0
+M2 YOLO11n-seg,640,sendiri_normal,stove-merged,0.13500000536441803
+M2 YOLO11n-seg,640,sendiri_normal,teddy bear,0.0
+M2 YOLO11n-seg,640,sendiri_normal,towel,0.0
+M2 YOLO11n-seg,640,sendiri_normal,toy,0.037962619215250015
+M2 YOLO11n-seg,640,sendiri_normal,trash-bin,0.38053104281425476
+M2 YOLO11n-seg,640,sendiri_normal,tv,0.0
+M2 YOLO11n-seg,640,sendiri_normal,wallet,0.6287128925323486
+M2 YOLO11n-seg,640,sendiri_normal,window-blind,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,backpack,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,bed,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,blanket,0.021782178431749344
+M2 YOLO11n-seg,640,sendiri_sulit,book,0.0356435626745224
+M2 YOLO11n-seg,640,sendiri_sulit,bottle,0.15322117507457733
+M2 YOLO11n-seg,640,sendiri_sulit,bowl,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,box,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,cabinet-merged,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,cell phone,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,chair,0.1598014086484909
+M2 YOLO11n-seg,640,sendiri_sulit,clock,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,couch,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,cup,0.1313023567199707
+M2 YOLO11n-seg,640,sendiri_sulit,dining table,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,fire-extinguisher,-1.0
+M2 YOLO11n-seg,640,sendiri_sulit,flower,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,food-other-merged,-1.0
+M2 YOLO11n-seg,640,sendiri_sulit,fork,0.20000000298023224
+M2 YOLO11n-seg,640,sendiri_sulit,handbag,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,keyboard,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,knife,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,laptop,0.13117311894893646
+M2 YOLO11n-seg,640,sendiri_sulit,light,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,mirror-stuff,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,mouse,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,pan,0.16990098357200623
+M2 YOLO11n-seg,640,sendiri_sulit,paper,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,pillow,0.04946894571185112
+M2 YOLO11n-seg,640,sendiri_sulit,plate,0.18019801378250122
+M2 YOLO11n-seg,640,sendiri_sulit,plug,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,potted plant,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,remote,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,scissors,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,shelf,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,sink,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,spoon,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,stove-merged,0.699999988079071
+M2 YOLO11n-seg,640,sendiri_sulit,teddy bear,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,towel,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,toy,0.006493758875876665
+M2 YOLO11n-seg,640,sendiri_sulit,trash-bin,0.0
+M2 YOLO11n-seg,640,sendiri_sulit,tv,0.0356435626745224
+M2 YOLO11n-seg,640,sendiri_sulit,wallet,0.3366336524486542
+M3 Mask R-CNN R50-FPN,640,asli,backpack,0.03188416734337807
+M3 Mask R-CNN R50-FPN,640,asli,bed,0.07387814670801163
+M3 Mask R-CNN R50-FPN,640,asli,blanket,0.002904635388404131
+M3 Mask R-CNN R50-FPN,640,asli,book,0.049152206629514694
+M3 Mask R-CNN R50-FPN,640,asli,bottle,0.21070259809494019
+M3 Mask R-CNN R50-FPN,640,asli,bowl,0.23467233777046204
+M3 Mask R-CNN R50-FPN,640,asli,box,0.00463917525485158
+M3 Mask R-CNN R50-FPN,640,asli,cabinet-merged,0.028548864647746086
+M3 Mask R-CNN R50-FPN,640,asli,cardboard,0.0
+M3 Mask R-CNN R50-FPN,640,asli,ceiling-merged,0.26059067249298096
+M3 Mask R-CNN R50-FPN,640,asli,cell phone,0.1714925765991211
+M3 Mask R-CNN R50-FPN,640,asli,chair,0.19840772449970245
+M3 Mask R-CNN R50-FPN,640,asli,clock,0.0
+M3 Mask R-CNN R50-FPN,640,asli,couch,0.10243955999612808
+M3 Mask R-CNN R50-FPN,640,asli,counter,0.036099452525377274
+M3 Mask R-CNN R50-FPN,640,asli,cup,0.16792795062065125
+M3 Mask R-CNN R50-FPN,640,asli,curtain,0.06360692530870438
+M3 Mask R-CNN R50-FPN,640,asli,dining table,0.0
+M3 Mask R-CNN R50-FPN,640,asli,door-stuff,0.1601913869380951
+M3 Mask R-CNN R50-FPN,640,asli,fire-extinguisher,0.3248068690299988
+M3 Mask R-CNN R50-FPN,640,asli,floor-other-merged,0.20955060422420502
+M3 Mask R-CNN R50-FPN,640,asli,floor-wood,0.16247835755348206
+M3 Mask R-CNN R50-FPN,640,asli,flower,0.0
+M3 Mask R-CNN R50-FPN,640,asli,food-other-merged,0.27182620763778687
+M3 Mask R-CNN R50-FPN,640,asli,fork,0.0
+M3 Mask R-CNN R50-FPN,640,asli,hair drier,0.0
+M3 Mask R-CNN R50-FPN,640,asli,handbag,0.030787331983447075
+M3 Mask R-CNN R50-FPN,640,asli,keyboard,0.0
+M3 Mask R-CNN R50-FPN,640,asli,knife,0.0027520894072949886
+M3 Mask R-CNN R50-FPN,640,asli,laptop,0.2411293089389801
+M3 Mask R-CNN R50-FPN,640,asli,light,0.04794882610440254
+M3 Mask R-CNN R50-FPN,640,asli,microwave,0.002475247485563159
+M3 Mask R-CNN R50-FPN,640,asli,mirror-stuff,0.007501469925045967
+M3 Mask R-CNN R50-FPN,640,asli,mouse,0.0
+M3 Mask R-CNN R50-FPN,640,asli,oven,0.0
+M3 Mask R-CNN R50-FPN,640,asli,pan,0.31348365545272827
+M3 Mask R-CNN R50-FPN,640,asli,paper,0.0
+M3 Mask R-CNN R50-FPN,640,asli,paper-merged,0.0018643969669938087
+M3 Mask R-CNN R50-FPN,640,asli,person,0.2588108777999878
+M3 Mask R-CNN R50-FPN,640,asli,pillow,0.026385707780718803
+M3 Mask R-CNN R50-FPN,640,asli,plate,0.10944227129220963
+M3 Mask R-CNN R50-FPN,640,asli,plug,0.031204748898744583
+M3 Mask R-CNN R50-FPN,640,asli,potted plant,0.2855713963508606
+M3 Mask R-CNN R50-FPN,640,asli,refrigerator,0.0
+M3 Mask R-CNN R50-FPN,640,asli,remote,-1.0
+M3 Mask R-CNN R50-FPN,640,asli,rug-merged,0.01114697102457285
+M3 Mask R-CNN R50-FPN,640,asli,scissors,0.0
+M3 Mask R-CNN R50-FPN,640,asli,shelf,-1.0
+M3 Mask R-CNN R50-FPN,640,asli,sink,0.10531332343816757
+M3 Mask R-CNN R50-FPN,640,asli,spoon,0.01214076578617096
+M3 Mask R-CNN R50-FPN,640,asli,stairs,0.04318500682711601
+M3 Mask R-CNN R50-FPN,640,asli,stove-merged,0.1699201464653015
+M3 Mask R-CNN R50-FPN,640,asli,table-merged,0.05604168772697449
+M3 Mask R-CNN R50-FPN,640,asli,teddy bear,0.0
+M3 Mask R-CNN R50-FPN,640,asli,toaster,0.0
+M3 Mask R-CNN R50-FPN,640,asli,toilet,0.0
+M3 Mask R-CNN R50-FPN,640,asli,toothbrush,0.0
+M3 Mask R-CNN R50-FPN,640,asli,towel,0.0011266573565080762
+M3 Mask R-CNN R50-FPN,640,asli,toy,0.026365740224719048
+M3 Mask R-CNN R50-FPN,640,asli,trash-bin,0.009899049066007137
+M3 Mask R-CNN R50-FPN,640,asli,tv,0.0
+M3 Mask R-CNN R50-FPN,640,asli,vase,0.0
+M3 Mask R-CNN R50-FPN,640,asli,wall,-1.0
+M3 Mask R-CNN R50-FPN,640,asli,wall-brick,0.09863738715648651
+M3 Mask R-CNN R50-FPN,640,asli,wall-other-merged,0.15101709961891174
+M3 Mask R-CNN R50-FPN,640,asli,wall-stone,0.0
+M3 Mask R-CNN R50-FPN,640,asli,wall-tile,0.03363652527332306
+M3 Mask R-CNN R50-FPN,640,asli,wall-wood,0.008056397549808025
+M3 Mask R-CNN R50-FPN,640,asli,wallet,0.6100122332572937
+M3 Mask R-CNN R50-FPN,640,asli,window-blind,0.08472712337970734
+M3 Mask R-CNN R50-FPN,640,asli,window-other,0.1396869421005249
+M3 Mask R-CNN R50-FPN,640,valid_asli,backpack,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,bed,0.036067891865968704
+M3 Mask R-CNN R50-FPN,640,valid_asli,blanket,0.03082779049873352
+M3 Mask R-CNN R50-FPN,640,valid_asli,book,0.10171548277139664
+M3 Mask R-CNN R50-FPN,640,valid_asli,bottle,0.043387189507484436
+M3 Mask R-CNN R50-FPN,640,valid_asli,bowl,0.14850950241088867
+M3 Mask R-CNN R50-FPN,640,valid_asli,box,0.09722846001386642
+M3 Mask R-CNN R50-FPN,640,valid_asli,cabinet-merged,0.05007881298661232
+M3 Mask R-CNN R50-FPN,640,valid_asli,cardboard,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,ceiling-merged,0.280795156955719
+M3 Mask R-CNN R50-FPN,640,valid_asli,cell phone,0.44218647480010986
+M3 Mask R-CNN R50-FPN,640,valid_asli,chair,0.49594515562057495
+M3 Mask R-CNN R50-FPN,640,valid_asli,clock,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,couch,0.06160305440425873
+M3 Mask R-CNN R50-FPN,640,valid_asli,counter,0.0559731125831604
+M3 Mask R-CNN R50-FPN,640,valid_asli,cup,0.10591688007116318
+M3 Mask R-CNN R50-FPN,640,valid_asli,curtain,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,dining table,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,door-stuff,0.19564056396484375
+M3 Mask R-CNN R50-FPN,640,valid_asli,fire-extinguisher,0.44817736744880676
+M3 Mask R-CNN R50-FPN,640,valid_asli,floor-other-merged,0.24872717261314392
+M3 Mask R-CNN R50-FPN,640,valid_asli,floor-wood,0.2819308936595917
+M3 Mask R-CNN R50-FPN,640,valid_asli,flower,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,food-other-merged,0.30671048164367676
+M3 Mask R-CNN R50-FPN,640,valid_asli,fork,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,hair drier,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,handbag,0.4000000059604645
+M3 Mask R-CNN R50-FPN,640,valid_asli,keyboard,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,knife,0.18316832184791565
+M3 Mask R-CNN R50-FPN,640,valid_asli,laptop,0.5102310180664062
+M3 Mask R-CNN R50-FPN,640,valid_asli,light,0.04736468568444252
+M3 Mask R-CNN R50-FPN,640,valid_asli,microwave,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,mirror-stuff,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,mouse,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,oven,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,pan,0.28852397203445435
+M3 Mask R-CNN R50-FPN,640,valid_asli,paper,0.07808076590299606
+M3 Mask R-CNN R50-FPN,640,valid_asli,paper-merged,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,person,0.4424518644809723
+M3 Mask R-CNN R50-FPN,640,valid_asli,pillow,0.32432815432548523
+M3 Mask R-CNN R50-FPN,640,valid_asli,plate,0.06303436309099197
+M3 Mask R-CNN R50-FPN,640,valid_asli,plug,0.20266467332839966
+M3 Mask R-CNN R50-FPN,640,valid_asli,potted plant,0.2333148717880249
+M3 Mask R-CNN R50-FPN,640,valid_asli,refrigerator,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,remote,0.6000000238418579
+M3 Mask R-CNN R50-FPN,640,valid_asli,rug-merged,0.05655673146247864
+M3 Mask R-CNN R50-FPN,640,valid_asli,scissors,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,shelf,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,sink,0.24217821657657623
+M3 Mask R-CNN R50-FPN,640,valid_asli,spoon,0.02832147665321827
+M3 Mask R-CNN R50-FPN,640,valid_asli,st-,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,stairs,0.13138099014759064
+M3 Mask R-CNN R50-FPN,640,valid_asli,stove-merged,0.11085790395736694
+M3 Mask R-CNN R50-FPN,640,valid_asli,table-merged,0.07631146162748337
+M3 Mask R-CNN R50-FPN,640,valid_asli,teddy bear,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,toaster,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,toilet,0.0235294122248888
+M3 Mask R-CNN R50-FPN,640,valid_asli,toothbrush,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,towel,0.006435643415898085
+M3 Mask R-CNN R50-FPN,640,valid_asli,toy,0.17770956456661224
+M3 Mask R-CNN R50-FPN,640,valid_asli,trash-bin,0.6358888745307922
+M3 Mask R-CNN R50-FPN,640,valid_asli,tree-merged,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,tv,0.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,vase,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,wall,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,wall-brick,0.055272117257118225
+M3 Mask R-CNN R50-FPN,640,valid_asli,wall-other-merged,0.19452953338623047
+M3 Mask R-CNN R50-FPN,640,valid_asli,wall-stone,-1.0
+M3 Mask R-CNN R50-FPN,640,valid_asli,wall-tile,0.8504950404167175
+M3 Mask R-CNN R50-FPN,640,valid_asli,wall-wood,0.10406461358070374
+M3 Mask R-CNN R50-FPN,640,valid_asli,wallet,0.6522870659828186
+M3 Mask R-CNN R50-FPN,640,valid_asli,window-blind,0.09949588030576706
+M3 Mask R-CNN R50-FPN,640,valid_asli,window-other,0.14769518375396729
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,backpack,0.03473344072699547
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,bed,0.07390490174293518
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,blanket,0.0029430913273245096
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,book,0.050693657249212265
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,bottle,0.21079912781715393
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,bowl,0.23467233777046204
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,box,0.004972375463694334
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,cabinet-merged,0.028906436637043953
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,cell phone,0.1716473251581192
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,chair,0.19845137000083923
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,clock,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,couch,0.10248211026191711
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,cup,0.1680549532175064
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,curtain,0.06463034451007843
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,dining table,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,fire-extinguisher,0.3357647955417633
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,flower,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,food-other-merged,0.27190208435058594
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,fork,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,handbag,0.03089139237999916
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,keyboard,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,knife,0.0027520894072949886
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,laptop,0.24143290519714355
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,light,0.048707593232393265
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,mirror-stuff,0.007722088601440191
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,mouse,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,pan,0.31356772780418396
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,paper,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,pillow,0.026418322697281837
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,plate,0.10948958992958069
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,plug,0.031394585967063904
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,potted plant,0.29120072722435
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,refrigerator,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,remote,-1.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,scissors,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,shelf,-1.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,sink,0.10557559132575989
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,spoon,0.012147829867899418
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,stove-merged,0.16992996633052826
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,teddy bear,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,towel,0.0012301229871809483
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,toy,0.026511438190937042
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,trash-bin,0.01055272575467825
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,tv,0.0
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,wallet,0.6102287769317627
+M3 Mask R-CNN R50-FPN,640,asli_kelas_sendiri,window-blind,0.0866718664765358
+M3 Mask R-CNN R50-FPN,640,sendiri,backpack,0.10106082260608673
+M3 Mask R-CNN R50-FPN,640,sendiri,bed,0.03751463070511818
+M3 Mask R-CNN R50-FPN,640,sendiri,blanket,0.013079903088510036
+M3 Mask R-CNN R50-FPN,640,sendiri,book,0.025388626381754875
+M3 Mask R-CNN R50-FPN,640,sendiri,bottle,0.32977625727653503
+M3 Mask R-CNN R50-FPN,640,sendiri,bowl,0.08689094334840775
+M3 Mask R-CNN R50-FPN,640,sendiri,box,0.019965926185250282
+M3 Mask R-CNN R50-FPN,640,sendiri,cabinet-merged,0.3084321916103363
+M3 Mask R-CNN R50-FPN,640,sendiri,cell phone,0.05431143194437027
+M3 Mask R-CNN R50-FPN,640,sendiri,chair,0.10565344989299774
+M3 Mask R-CNN R50-FPN,640,sendiri,clock,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,couch,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,cup,0.0875643789768219
+M3 Mask R-CNN R50-FPN,640,sendiri,curtain,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,dining table,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,fire-extinguisher,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,flower,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,food-other-merged,0.003677510656416416
+M3 Mask R-CNN R50-FPN,640,sendiri,fork,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,handbag,0.0017219113651663065
+M3 Mask R-CNN R50-FPN,640,sendiri,keyboard,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,knife,0.013861386105418205
+M3 Mask R-CNN R50-FPN,640,sendiri,laptop,0.2018037587404251
+M3 Mask R-CNN R50-FPN,640,sendiri,light,0.0035581684205681086
+M3 Mask R-CNN R50-FPN,640,sendiri,mirror-stuff,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,mouse,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,pan,0.24010972678661346
+M3 Mask R-CNN R50-FPN,640,sendiri,paper,0.00455906055867672
+M3 Mask R-CNN R50-FPN,640,sendiri,pillow,0.14247210323810577
+M3 Mask R-CNN R50-FPN,640,sendiri,plate,0.02574257366359234
+M3 Mask R-CNN R50-FPN,640,sendiri,plug,0.005483625456690788
+M3 Mask R-CNN R50-FPN,640,sendiri,potted plant,0.02772277221083641
+M3 Mask R-CNN R50-FPN,640,sendiri,refrigerator,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,remote,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,scissors,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,shelf,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,sink,0.2552902400493622
+M3 Mask R-CNN R50-FPN,640,sendiri,spoon,0.13005657494068146
+M3 Mask R-CNN R50-FPN,640,sendiri,stove-merged,0.4704247713088989
+M3 Mask R-CNN R50-FPN,640,sendiri,teddy bear,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,towel,0.008656294085085392
+M3 Mask R-CNN R50-FPN,640,sendiri,toy,0.04196909815073013
+M3 Mask R-CNN R50-FPN,640,sendiri,trash-bin,0.2574257552623749
+M3 Mask R-CNN R50-FPN,640,sendiri,tv,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri,wallet,0.12151814997196198
+M3 Mask R-CNN R50-FPN,640,sendiri,window-blind,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,backpack,0.08415841311216354
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,bed,0.1451610028743744
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,blanket,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,book,0.05389050766825676
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,bottle,0.18245765566825867
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,bowl,0.40755903720855713
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,box,0.00069480633828789
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,cabinet-merged,0.23968000710010529
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,cell phone,0.15065313875675201
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,chair,0.15316763520240784
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,clock,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,couch,-1.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,cup,0.2722747027873993
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,curtain,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,dining table,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,fire-extinguisher,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,flower,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,food-other-merged,0.005940594244748354
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,fork,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,handbag,0.004320431966334581
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,keyboard,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,knife,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,laptop,0.7504950761795044
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,light,0.004152027890086174
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,mirror-stuff,-1.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,mouse,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,pan,0.20885314047336578
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,paper,0.00414898619055748
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,pillow,0.3924045264720917
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,plate,-1.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,plug,0.01287128683179617
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,potted plant,0.044884487986564636
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,refrigerator,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,remote,-1.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,scissors,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,shelf,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,sink,0.16715769469738007
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,spoon,0.15445543825626373
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,stove-merged,0.8999999761581421
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,teddy bear,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,towel,0.02673267386853695
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,toy,0.16165927052497864
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,trash-bin,0.3366336524486542
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,tv,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,wallet,0.2956152856349945
+M3 Mask R-CNN R50-FPN,640,sendiri_normal,window-blind,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,backpack,0.11782178282737732
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,bed,0.012701556086540222
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,blanket,0.024026403203606606
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,book,0.006765676662325859
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,bottle,0.43403735756874084
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,bowl,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,box,0.10243506729602814
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,cabinet-merged,0.38296934962272644
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,cell phone,0.007768468931317329
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,chair,0.08738231658935547
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,clock,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,couch,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,cup,0.0356435626745224
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,curtain,-1.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,dining table,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,fire-extinguisher,-1.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,flower,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,food-other-merged,-1.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,fork,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,handbag,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,keyboard,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,knife,0.17499999701976776
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,laptop,0.10406196117401123
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,light,0.0032487623393535614
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,mirror-stuff,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,mouse,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,pan,0.24579207599163055
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,paper,0.007425742689520121
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,pillow,0.03279363736510277
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,plate,0.02574257366359234
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,plug,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,potted plant,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,refrigerator,-1.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,remote,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,scissors,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,shelf,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,sink,0.699999988079071
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,spoon,0.01666666753590107
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,stove-merged,0.02631578966975212
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,teddy bear,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,towel,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,toy,0.012579208239912987
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,trash-bin,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,tv,0.0
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,wallet,0.06732673197984695
+M3 Mask R-CNN R50-FPN,640,sendiri_sulit,window-blind,-1.0
+"M2 YOLO11n-seg, latih 320",320,asli,backpack,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,bed,0.12486306577920914
+"M2 YOLO11n-seg, latih 320",320,asli,blanket,0.0002779225178528577
+"M2 YOLO11n-seg, latih 320",320,asli,book,0.011618557386100292
+"M2 YOLO11n-seg, latih 320",320,asli,bottle,0.07242545485496521
+"M2 YOLO11n-seg, latih 320",320,asli,bowl,0.06526830047369003
+"M2 YOLO11n-seg, latih 320",320,asli,box,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,cabinet-merged,0.006090965587645769
+"M2 YOLO11n-seg, latih 320",320,asli,cardboard,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,ceiling-merged,0.2718338966369629
+"M2 YOLO11n-seg, latih 320",320,asli,cell phone,0.030564723536372185
+"M2 YOLO11n-seg, latih 320",320,asli,chair,0.09331865608692169
+"M2 YOLO11n-seg, latih 320",320,asli,clock,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,couch,0.020980114117264748
+"M2 YOLO11n-seg, latih 320",320,asli,counter,0.03842369467020035
+"M2 YOLO11n-seg, latih 320",320,asli,cup,0.03708542883396149
+"M2 YOLO11n-seg, latih 320",320,asli,curtain,0.0007425742805935442
+"M2 YOLO11n-seg, latih 320",320,asli,dining table,0.0089108906686306
+"M2 YOLO11n-seg, latih 320",320,asli,door-stuff,0.1092960387468338
+"M2 YOLO11n-seg, latih 320",320,asli,fire-extinguisher,0.24489614367485046
+"M2 YOLO11n-seg, latih 320",320,asli,floor-other-merged,0.19109071791172028
+"M2 YOLO11n-seg, latih 320",320,asli,floor-wood,0.17348191142082214
+"M2 YOLO11n-seg, latih 320",320,asli,flower,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,food-other-merged,0.2019466757774353
+"M2 YOLO11n-seg, latih 320",320,asli,fork,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,hair drier,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,handbag,7.072135485941544e-05
+"M2 YOLO11n-seg, latih 320",320,asli,keyboard,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,knife,0.041584160178899765
+"M2 YOLO11n-seg, latih 320",320,asli,laptop,0.06828382611274719
+"M2 YOLO11n-seg, latih 320",320,asli,light,0.014500412158668041
+"M2 YOLO11n-seg, latih 320",320,asli,microwave,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,mirror-stuff,0.0037128713447600603
+"M2 YOLO11n-seg, latih 320",320,asli,mouse,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,oven,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,pan,0.2606724798679352
+"M2 YOLO11n-seg, latih 320",320,asli,paper,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,paper-merged,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,person,0.1733972728252411
+"M2 YOLO11n-seg, latih 320",320,asli,pillow,0.04229835793375969
+"M2 YOLO11n-seg, latih 320",320,asli,plate,0.07869896292686462
+"M2 YOLO11n-seg, latih 320",320,asli,plug,0.007131664548069239
+"M2 YOLO11n-seg, latih 320",320,asli,potted plant,0.18641725182533264
+"M2 YOLO11n-seg, latih 320",320,asli,refrigerator,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,remote,-1.0
+"M2 YOLO11n-seg, latih 320",320,asli,rug-merged,0.0023398424964398146
+"M2 YOLO11n-seg, latih 320",320,asli,scissors,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,shelf,-1.0
+"M2 YOLO11n-seg, latih 320",320,asli,sink,0.030317362397909164
+"M2 YOLO11n-seg, latih 320",320,asli,spoon,0.00033424320281483233
+"M2 YOLO11n-seg, latih 320",320,asli,st-,-1.0
+"M2 YOLO11n-seg, latih 320",320,asli,stairs,0.18021884560585022
+"M2 YOLO11n-seg, latih 320",320,asli,stove-merged,0.17315341532230377
+"M2 YOLO11n-seg, latih 320",320,asli,table-merged,0.0513860248029232
+"M2 YOLO11n-seg, latih 320",320,asli,teddy bear,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,toaster,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,toilet,0.0712871253490448
+"M2 YOLO11n-seg, latih 320",320,asli,toothbrush,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,towel,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,toy,0.016734179109334946
+"M2 YOLO11n-seg, latih 320",320,asli,trash-bin,0.0011551155475899577
+"M2 YOLO11n-seg, latih 320",320,asli,tree-merged,-1.0
+"M2 YOLO11n-seg, latih 320",320,asli,tv,0.10107110440731049
+"M2 YOLO11n-seg, latih 320",320,asli,vase,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,wall,-1.0
+"M2 YOLO11n-seg, latih 320",320,asli,wall-brick,0.025002162903547287
+"M2 YOLO11n-seg, latih 320",320,asli,wall-other-merged,0.137804314494133
+"M2 YOLO11n-seg, latih 320",320,asli,wall-stone,0.0
+"M2 YOLO11n-seg, latih 320",320,asli,wall-tile,0.028145626187324524
+"M2 YOLO11n-seg, latih 320",320,asli,wall-wood,0.008152694441378117
+"M2 YOLO11n-seg, latih 320",320,asli,wallet,0.2043357491493225
+"M2 YOLO11n-seg, latih 320",320,asli,window-blind,0.03703765943646431
+"M2 YOLO11n-seg, latih 320",320,asli,window-other,0.0715855062007904
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,backpack,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,bed,0.12486306577920914
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,blanket,0.0002779225178528577
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,book,0.011618557386100292
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,bottle,0.07248589396476746
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,bowl,0.06528390944004059
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,box,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,cabinet-merged,0.006278518587350845
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,cell phone,0.030564723536372185
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,chair,0.09332070499658585
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,clock,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,couch,0.021031515672802925
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,cup,0.038026560097932816
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,curtain,0.0007425742805935442
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,dining table,0.0089108906686306
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,fire-extinguisher,0.3703382909297943
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,flower,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,food-other-merged,0.20214127004146576
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,fork,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,handbag,7.072135485941544e-05
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,keyboard,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,knife,0.041584160178899765
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,laptop,0.06828382611274719
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,light,0.014772973954677582
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,mirror-stuff,0.0042432816699147224
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,mouse,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,pan,0.2607044577598572
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,paper,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,pillow,0.04230344668030739
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,plate,0.07881541550159454
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,plug,0.007139632944017649
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,potted plant,0.18745863437652588
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,refrigerator,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,remote,-1.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,scissors,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,shelf,-1.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,sink,0.030317362397909164
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,spoon,0.0003363494179211557
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,stove-merged,0.17318806052207947
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,teddy bear,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,towel,0.0
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,toy,0.016840366646647453
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,trash-bin,0.0012175542069599032
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,tv,0.10107110440731049
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,wallet,0.20476852357387543
+"M2 YOLO11n-seg, latih 320",320,asli_kelas_sendiri,window-blind,0.03707007318735123
+"M2 YOLO11n-seg, latih 320",320,sendiri,backpack,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,bed,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,blanket,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,book,0.04580898955464363
+"M2 YOLO11n-seg, latih 320",320,sendiri,bottle,0.07225164026021957
+"M2 YOLO11n-seg, latih 320",320,sendiri,bowl,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,box,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,cabinet-merged,0.014662894420325756
+"M2 YOLO11n-seg, latih 320",320,sendiri,cell phone,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,chair,0.042889878153800964
+"M2 YOLO11n-seg, latih 320",320,sendiri,clock,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,couch,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,cup,0.015841584652662277
+"M2 YOLO11n-seg, latih 320",320,sendiri,curtain,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,dining table,0.011881188489496708
+"M2 YOLO11n-seg, latih 320",320,sendiri,fire-extinguisher,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,flower,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,food-other-merged,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,fork,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,handbag,0.014851485379040241
+"M2 YOLO11n-seg, latih 320",320,sendiri,keyboard,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,knife,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,laptop,0.13653464615345
+"M2 YOLO11n-seg, latih 320",320,sendiri,light,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,mirror-stuff,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,mouse,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,pan,0.20653465390205383
+"M2 YOLO11n-seg, latih 320",320,sendiri,paper,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,pillow,0.12093352526426315
+"M2 YOLO11n-seg, latih 320",320,sendiri,plate,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,plug,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,potted plant,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,refrigerator,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,remote,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,scissors,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,shelf,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,sink,0.10396039485931396
+"M2 YOLO11n-seg, latih 320",320,sendiri,spoon,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,stove-merged,0.003825382562354207
+"M2 YOLO11n-seg, latih 320",320,sendiri,teddy bear,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,towel,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,toy,0.0023966210428625345
+"M2 YOLO11n-seg, latih 320",320,sendiri,trash-bin,0.2059405893087387
+"M2 YOLO11n-seg, latih 320",320,sendiri,tv,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri,wallet,0.16805854439735413
+"M2 YOLO11n-seg, latih 320",320,sendiri,window-blind,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,backpack,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,bed,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,blanket,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,book,0.04178217798471451
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,bottle,0.07637263834476471
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,bowl,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,box,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,cabinet-merged,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,cell phone,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,chair,0.03801273927092552
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,clock,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,couch,-1.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,cup,0.08712871372699738
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,curtain,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,dining table,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,fire-extinguisher,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,flower,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,food-other-merged,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,fork,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,handbag,0.0178217813372612
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,keyboard,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,knife,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,laptop,0.5709571242332458
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,light,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,mirror-stuff,-1.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,mouse,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,pan,0.21128712594509125
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,paper,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,pillow,0.27178218960762024
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,plate,-1.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,plug,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,potted plant,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,refrigerator,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,remote,-1.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,scissors,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,shelf,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,sink,0.12871287763118744
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,spoon,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,stove-merged,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,teddy bear,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,towel,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,toy,0.007473650388419628
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,trash-bin,0.2693069279193878
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,tv,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,wallet,0.3536633551120758
+"M2 YOLO11n-seg, latih 320",320,sendiri_normal,window-blind,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,backpack,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,bed,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,blanket,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,book,0.08462046086788177
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,bottle,0.07326875627040863
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,bowl,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,box,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,cabinet-merged,0.08013201504945755
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,cell phone,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,chair,0.054422855377197266
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,clock,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,couch,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,cup,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,dining table,0.019801979884505272
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,fire-extinguisher,-1.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,flower,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,food-other-merged,-1.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,fork,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,handbag,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,keyboard,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,knife,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,laptop,0.0712871253490448
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,light,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,mirror-stuff,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,mouse,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,pan,0.24488449096679688
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,paper,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,pillow,0.023762376978993416
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,plate,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,plug,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,potted plant,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,remote,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,scissors,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,shelf,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,sink,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,spoon,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,stove-merged,0.02380952425301075
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,teddy bear,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,towel,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,toy,0.0015401539858430624
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,trash-bin,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,tv,0.0
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,wallet,0.032893288880586624
+"M2 YOLO11n-seg, latih 320",320,sendiri_sulit,window-blind,-1.0
+"M2 YOLO11n-seg, latih 960",960,asli,backpack,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,bed,0.0722648873925209
+"M2 YOLO11n-seg, latih 960",960,asli,blanket,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,book,0.09508638083934784
+"M2 YOLO11n-seg, latih 960",960,asli,bottle,0.11374606937170029
+"M2 YOLO11n-seg, latih 960",960,asli,bowl,0.12246182560920715
+"M2 YOLO11n-seg, latih 960",960,asli,box,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,cabinet-merged,0.0199215617030859
+"M2 YOLO11n-seg, latih 960",960,asli,cardboard,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,ceiling-merged,0.263369619846344
+"M2 YOLO11n-seg, latih 960",960,asli,cell phone,0.07166817039251328
+"M2 YOLO11n-seg, latih 960",960,asli,chair,0.1967238336801529
+"M2 YOLO11n-seg, latih 960",960,asli,clock,0.1158415824174881
+"M2 YOLO11n-seg, latih 960",960,asli,couch,0.034615855664014816
+"M2 YOLO11n-seg, latih 960",960,asli,counter,0.03307714685797691
+"M2 YOLO11n-seg, latih 960",960,asli,cup,0.17794153094291687
+"M2 YOLO11n-seg, latih 960",960,asli,curtain,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,dining table,0.012453244999051094
+"M2 YOLO11n-seg, latih 960",960,asli,door-stuff,0.09520084410905838
+"M2 YOLO11n-seg, latih 960",960,asli,fire-extinguisher,0.6159928441047668
+"M2 YOLO11n-seg, latih 960",960,asli,floor-other-merged,0.22083920240402222
+"M2 YOLO11n-seg, latih 960",960,asli,floor-wood,0.15846285223960876
+"M2 YOLO11n-seg, latih 960",960,asli,flower,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,food-other-merged,0.33096981048583984
+"M2 YOLO11n-seg, latih 960",960,asli,fork,0.004950494971126318
+"M2 YOLO11n-seg, latih 960",960,asli,hair drier,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,handbag,0.017326733097434044
+"M2 YOLO11n-seg, latih 960",960,asli,keyboard,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,knife,0.0022300800774246454
+"M2 YOLO11n-seg, latih 960",960,asli,laptop,0.24076400697231293
+"M2 YOLO11n-seg, latih 960",960,asli,light,0.04217999428510666
+"M2 YOLO11n-seg, latih 960",960,asli,microwave,0.05198019742965698
+"M2 YOLO11n-seg, latih 960",960,asli,mirror-stuff,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,mouse,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,oven,0.0356435626745224
+"M2 YOLO11n-seg, latih 960",960,asli,pan,0.29404181241989136
+"M2 YOLO11n-seg, latih 960",960,asli,paper,0.0016831683460623026
+"M2 YOLO11n-seg, latih 960",960,asli,paper-merged,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,person,0.2804733216762543
+"M2 YOLO11n-seg, latih 960",960,asli,pillow,0.01958754099905491
+"M2 YOLO11n-seg, latih 960",960,asli,plate,0.14409947395324707
+"M2 YOLO11n-seg, latih 960",960,asli,plug,0.032715536653995514
+"M2 YOLO11n-seg, latih 960",960,asli,potted plant,0.34569820761680603
+"M2 YOLO11n-seg, latih 960",960,asli,refrigerator,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,remote,-1.0
+"M2 YOLO11n-seg, latih 960",960,asli,rug-merged,0.009085009805858135
+"M2 YOLO11n-seg, latih 960",960,asli,scissors,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,shelf,-1.0
+"M2 YOLO11n-seg, latih 960",960,asli,sink,0.1152932196855545
+"M2 YOLO11n-seg, latih 960",960,asli,spoon,0.018207969143986702
+"M2 YOLO11n-seg, latih 960",960,asli,st-,-1.0
+"M2 YOLO11n-seg, latih 960",960,asli,stairs,0.12708403170108795
+"M2 YOLO11n-seg, latih 960",960,asli,stove-merged,0.15118488669395447
+"M2 YOLO11n-seg, latih 960",960,asli,table-merged,0.09142962843179703
+"M2 YOLO11n-seg, latih 960",960,asli,teddy bear,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,toaster,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,toilet,0.05148514732718468
+"M2 YOLO11n-seg, latih 960",960,asli,toothbrush,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,towel,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,toy,0.022315451875329018
+"M2 YOLO11n-seg, latih 960",960,asli,trash-bin,0.023393871262669563
+"M2 YOLO11n-seg, latih 960",960,asli,tree-merged,-1.0
+"M2 YOLO11n-seg, latih 960",960,asli,tv,0.07524752616882324
+"M2 YOLO11n-seg, latih 960",960,asli,vase,0.003688000375404954
+"M2 YOLO11n-seg, latih 960",960,asli,wall-brick,0.033300697803497314
+"M2 YOLO11n-seg, latih 960",960,asli,wall-other-merged,0.12715061008930206
+"M2 YOLO11n-seg, latih 960",960,asli,wall-stone,0.0
+"M2 YOLO11n-seg, latih 960",960,asli,wall-tile,0.03825276717543602
+"M2 YOLO11n-seg, latih 960",960,asli,wall-wood,0.014427157118916512
+"M2 YOLO11n-seg, latih 960",960,asli,wallet,0.27493512630462646
+"M2 YOLO11n-seg, latih 960",960,asli,window-blind,0.06530957669019699
+"M2 YOLO11n-seg, latih 960",960,asli,window-other,0.08709721267223358
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,backpack,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,bed,0.07230508327484131
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,blanket,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,book,0.09542366117238998
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,bottle,0.12417939305305481
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,bowl,0.12246182560920715
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,box,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,cabinet-merged,0.02074795588850975
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,cell phone,0.07449932396411896
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,chair,0.1970304548740387
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,clock,0.1158415824174881
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,couch,0.034615855664014816
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,cup,0.1790509819984436
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,curtain,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,dining table,0.012453244999051094
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,fire-extinguisher,0.6288071870803833
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,flower,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,food-other-merged,0.33107390999794006
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,fork,0.004950494971126318
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,handbag,0.017326733097434044
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,keyboard,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,knife,0.0022300800774246454
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,laptop,0.2410290539264679
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,light,0.042295970022678375
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,mirror-stuff,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,mouse,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,pan,0.29439085721969604
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,paper,0.0017614552052691579
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,pillow,0.019608980044722557
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,plate,0.14431661367416382
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,plug,0.03275232017040253
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,potted plant,0.34621426463127136
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,refrigerator,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,remote,-1.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,scissors,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,shelf,-1.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,sink,0.1152932196855545
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,spoon,0.018661852926015854
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,stove-merged,0.15194840729236603
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,teddy bear,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,towel,0.0
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,toy,0.022398769855499268
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,trash-bin,0.025030240416526794
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,tv,0.07524752616882324
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,wallet,0.2773333787918091
+"M2 YOLO11n-seg, latih 960",960,asli_kelas_sendiri,window-blind,0.06544908136129379
+"M2 YOLO11n-seg, latih 960",960,sendiri,backpack,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,bed,0.0033003301359713078
+"M2 YOLO11n-seg, latih 960",960,sendiri,blanket,0.005940594244748354
+"M2 YOLO11n-seg, latih 960",960,sendiri,book,0.030177239328622818
+"M2 YOLO11n-seg, latih 960",960,sendiri,bottle,0.2615000903606415
+"M2 YOLO11n-seg, latih 960",960,sendiri,bowl,0.07920791953802109
+"M2 YOLO11n-seg, latih 960",960,sendiri,box,0.019187873229384422
+"M2 YOLO11n-seg, latih 960",960,sendiri,cabinet-merged,0.0016501650679856539
+"M2 YOLO11n-seg, latih 960",960,sendiri,cell phone,0.024257425218820572
+"M2 YOLO11n-seg, latih 960",960,sendiri,chair,0.10833925753831863
+"M2 YOLO11n-seg, latih 960",960,sendiri,clock,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,couch,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,cup,0.15579620003700256
+"M2 YOLO11n-seg, latih 960",960,sendiri,curtain,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,dining table,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,fire-extinguisher,0.6000000238418579
+"M2 YOLO11n-seg, latih 960",960,sendiri,flower,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,food-other-merged,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,fork,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,handbag,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,keyboard,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,knife,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,laptop,0.16418835520744324
+"M2 YOLO11n-seg, latih 960",960,sendiri,light,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,mirror-stuff,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,mouse,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,pan,0.22260551154613495
+"M2 YOLO11n-seg, latih 960",960,sendiri,paper,0.0012256164336577058
+"M2 YOLO11n-seg, latih 960",960,sendiri,pillow,0.268860787153244
+"M2 YOLO11n-seg, latih 960",960,sendiri,plate,0.006435643415898085
+"M2 YOLO11n-seg, latih 960",960,sendiri,plug,0.010129474103450775
+"M2 YOLO11n-seg, latih 960",960,sendiri,potted plant,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,refrigerator,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,remote,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,scissors,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,shelf,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,sink,0.0623762384057045
+"M2 YOLO11n-seg, latih 960",960,sendiri,spoon,0.12175742536783218
+"M2 YOLO11n-seg, latih 960",960,sendiri,stove-merged,0.5287128686904907
+"M2 YOLO11n-seg, latih 960",960,sendiri,teddy bear,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,towel,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,toy,0.0006942300824448466
+"M2 YOLO11n-seg, latih 960",960,sendiri,trash-bin,0.2597831189632416
+"M2 YOLO11n-seg, latih 960",960,sendiri,tv,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri,wallet,0.3356477916240692
+"M2 YOLO11n-seg, latih 960",960,sendiri,window-blind,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,backpack,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,bed,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,blanket,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,book,0.04171876609325409
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,bottle,0.23226822912693024
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,bowl,0.3366336524486542
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,box,0.028612591326236725
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,cabinet-merged,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,cell phone,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,chair,0.11217896640300751
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,clock,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,couch,-1.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,cup,0.18267326056957245
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,curtain,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,dining table,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,fire-extinguisher,0.6000000238418579
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,flower,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,food-other-merged,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,fork,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,handbag,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,keyboard,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,knife,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,laptop,0.5514851212501526
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,light,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,mirror-stuff,-1.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,mouse,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,pan,0.27517616748809814
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,paper,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,pillow,0.4494354724884033
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,plate,-1.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,plug,0.02960395999252796
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,potted plant,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,refrigerator,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,remote,-1.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,scissors,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,shelf,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,sink,0.07722771912813187
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,spoon,0.13795378804206848
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,stove-merged,1.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,teddy bear,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,towel,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,toy,0.002175428904592991
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,trash-bin,0.3409900963306427
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,tv,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,wallet,0.6369637250900269
+"M2 YOLO11n-seg, latih 960",960,sendiri_normal,window-blind,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,backpack,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,bed,0.005940594244748354
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,blanket,0.021782178431749344
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,book,0.012511251494288445
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,bottle,0.29966816306114197
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,bowl,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,box,0.01642664335668087
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,cabinet-merged,0.004620462190359831
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,cell phone,0.07069306820631027
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,chair,0.12474493682384491
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,clock,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,couch,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,cup,0.14702969789505005
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,dining table,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,fire-extinguisher,-1.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,flower,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,food-other-merged,-1.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,fork,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,handbag,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,keyboard,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,knife,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,laptop,0.11808563023805618
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,light,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,mirror-stuff,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,mouse,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,pan,0.2114851474761963
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,paper,0.006854531820863485
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,pillow,0.16950495541095734
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,plate,0.011032531969249249
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,plug,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,potted plant,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,remote,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,scissors,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,shelf,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,sink,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,spoon,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,stove-merged,0.05454545468091965
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,teddy bear,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,towel,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,toy,0.0004001436464022845
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,trash-bin,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,tv,0.0
+"M2 YOLO11n-seg, latih 960",960,sendiri_sulit,wallet,0.1728234887123108
+"M1 YOLOv8n-seg, latih 320",320,asli,backpack,0.007920792326331139
+"M1 YOLOv8n-seg, latih 320",320,asli,bed,0.13045978546142578
+"M1 YOLOv8n-seg, latih 320",320,asli,blanket,0.00025013028061948717
+"M1 YOLOv8n-seg, latih 320",320,asli,book,0.012286178767681122
+"M1 YOLOv8n-seg, latih 320",320,asli,bottle,0.07665427774190903
+"M1 YOLOv8n-seg, latih 320",320,asli,bowl,0.0715598315000534
+"M1 YOLOv8n-seg, latih 320",320,asli,box,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,cabinet-merged,0.021276500076055527
+"M1 YOLOv8n-seg, latih 320",320,asli,cardboard,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,ceiling-merged,0.2626084089279175
+"M1 YOLOv8n-seg, latih 320",320,asli,cell phone,0.03408769518136978
+"M1 YOLOv8n-seg, latih 320",320,asli,chair,0.08862509578466415
+"M1 YOLOv8n-seg, latih 320",320,asli,clock,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,couch,0.0067216488532722
+"M1 YOLOv8n-seg, latih 320",320,asli,counter,0.026534389704465866
+"M1 YOLOv8n-seg, latih 320",320,asli,cup,0.03924466669559479
+"M1 YOLOv8n-seg, latih 320",320,asli,curtain,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,dining table,0.004135119263082743
+"M1 YOLOv8n-seg, latih 320",320,asli,door-stuff,0.11467596888542175
+"M1 YOLOv8n-seg, latih 320",320,asli,fire-extinguisher,0.38019803166389465
+"M1 YOLOv8n-seg, latih 320",320,asli,floor-other-merged,0.17942915856838226
+"M1 YOLOv8n-seg, latih 320",320,asli,floor-wood,0.15710963308811188
+"M1 YOLOv8n-seg, latih 320",320,asli,flower,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,food-other-merged,0.20126378536224365
+"M1 YOLOv8n-seg, latih 320",320,asli,fork,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,hair drier,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,handbag,0.0034653465263545513
+"M1 YOLOv8n-seg, latih 320",320,asli,keyboard,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,knife,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,laptop,0.17018701136112213
+"M1 YOLOv8n-seg, latih 320",320,asli,light,0.021629519760608673
+"M1 YOLOv8n-seg, latih 320",320,asli,microwave,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,mirror-stuff,0.006212871056050062
+"M1 YOLOv8n-seg, latih 320",320,asli,mouse,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,oven,0.06732673197984695
+"M1 YOLOv8n-seg, latih 320",320,asli,pan,0.19886596500873566
+"M1 YOLOv8n-seg, latih 320",320,asli,paper,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,paper-merged,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,person,0.14255261421203613
+"M1 YOLOv8n-seg, latih 320",320,asli,pillow,0.017247632145881653
+"M1 YOLOv8n-seg, latih 320",320,asli,plate,0.10813142359256744
+"M1 YOLOv8n-seg, latih 320",320,asli,plug,0.0023070198949426413
+"M1 YOLOv8n-seg, latih 320",320,asli,potted plant,0.191365584731102
+"M1 YOLOv8n-seg, latih 320",320,asli,refrigerator,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,remote,-1.0
+"M1 YOLOv8n-seg, latih 320",320,asli,rug-merged,0.0013843468623235822
+"M1 YOLOv8n-seg, latih 320",320,asli,scissors,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,shelf,-1.0
+"M1 YOLOv8n-seg, latih 320",320,asli,sink,0.007478094659745693
+"M1 YOLOv8n-seg, latih 320",320,asli,spoon,0.011362998746335506
+"M1 YOLOv8n-seg, latih 320",320,asli,stairs,0.14217635989189148
+"M1 YOLOv8n-seg, latih 320",320,asli,stove-merged,0.06865309923887253
+"M1 YOLOv8n-seg, latih 320",320,asli,table-merged,0.05561556667089462
+"M1 YOLOv8n-seg, latih 320",320,asli,teddy bear,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,toaster,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,toilet,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,toothbrush,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,towel,0.0018278751522302628
+"M1 YOLOv8n-seg, latih 320",320,asli,toy,0.022017566487193108
+"M1 YOLOv8n-seg, latih 320",320,asli,trash-bin,0.02748703397810459
+"M1 YOLOv8n-seg, latih 320",320,asli,tree-merged,-1.0
+"M1 YOLOv8n-seg, latih 320",320,asli,tv,0.02673267386853695
+"M1 YOLOv8n-seg, latih 320",320,asli,vase,0.007452745456248522
+"M1 YOLOv8n-seg, latih 320",320,asli,wall,-1.0
+"M1 YOLOv8n-seg, latih 320",320,asli,wall-brick,0.024323925375938416
+"M1 YOLOv8n-seg, latih 320",320,asli,wall-other-merged,0.1297646462917328
+"M1 YOLOv8n-seg, latih 320",320,asli,wall-stone,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli,wall-tile,0.014219707809388638
+"M1 YOLOv8n-seg, latih 320",320,asli,wall-wood,0.0006761651602573693
+"M1 YOLOv8n-seg, latih 320",320,asli,wallet,0.34422585368156433
+"M1 YOLOv8n-seg, latih 320",320,asli,window-blind,0.03528761491179466
+"M1 YOLOv8n-seg, latih 320",320,asli,window-other,0.06938882172107697
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,backpack,0.007920792326331139
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,bed,0.13046778738498688
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,blanket,0.0002582866873126477
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,book,0.012764129787683487
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,bottle,0.07667411118745804
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,bowl,0.0715598315000534
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,box,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,cabinet-merged,0.021529357880353928
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,cell phone,0.03408769518136978
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,chair,0.08888248354196548
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,clock,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,couch,0.006753675173968077
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,cup,0.039487965404987335
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,curtain,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,dining table,0.004135119263082743
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,fire-extinguisher,0.38019803166389465
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,flower,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,food-other-merged,0.20157639682292938
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,fork,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,handbag,0.0034653465263545513
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,keyboard,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,knife,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,laptop,0.17018701136112213
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,light,0.021660340949892998
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,mirror-stuff,0.006212871056050062
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,mouse,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,pan,0.20196327567100525
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,paper,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,pillow,0.017255451530218124
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,plate,0.10813997685909271
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,plug,0.002498845336958766
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,potted plant,0.19288021326065063
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,refrigerator,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,remote,-1.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,scissors,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,shelf,-1.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,sink,0.007478094659745693
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,spoon,0.011362998746335506
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,stove-merged,0.06868410855531693
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,teddy bear,0.0
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,towel,0.0019009901443496346
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,toy,0.022046832367777824
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,trash-bin,0.027974005788564682
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,tv,0.02673267386853695
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,wallet,0.3474917411804199
+"M1 YOLOv8n-seg, latih 320",320,asli_kelas_sendiri,window-blind,0.03564636781811714
+"M1 YOLOv8n-seg, latih 320",320,sendiri,backpack,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,bed,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,blanket,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,book,0.04814297705888748
+"M1 YOLOv8n-seg, latih 320",320,sendiri,bottle,0.09970442205667496
+"M1 YOLOv8n-seg, latih 320",320,sendiri,bowl,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,box,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,cabinet-merged,0.014256618916988373
+"M1 YOLOv8n-seg, latih 320",320,sendiri,cell phone,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,chair,0.09155101329088211
+"M1 YOLOv8n-seg, latih 320",320,sendiri,clock,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,couch,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,cup,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,curtain,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,dining table,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,fire-extinguisher,0.03529411926865578
+"M1 YOLOv8n-seg, latih 320",320,sendiri,flower,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,food-other-merged,0.0021908574271947145
+"M1 YOLOv8n-seg, latih 320",320,sendiri,fork,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,handbag,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,keyboard,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,knife,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,laptop,0.0034653465263545513
+"M1 YOLOv8n-seg, latih 320",320,sendiri,light,0.0008800880168564618
+"M1 YOLOv8n-seg, latih 320",320,sendiri,mirror-stuff,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,mouse,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,pan,0.2560548484325409
+"M1 YOLOv8n-seg, latih 320",320,sendiri,paper,0.0006789250182919204
+"M1 YOLOv8n-seg, latih 320",320,sendiri,pillow,0.014851485379040241
+"M1 YOLOv8n-seg, latih 320",320,sendiri,plate,0.004290428943932056
+"M1 YOLOv8n-seg, latih 320",320,sendiri,plug,0.000419165997300297
+"M1 YOLOv8n-seg, latih 320",320,sendiri,potted plant,0.004924439825117588
+"M1 YOLOv8n-seg, latih 320",320,sendiri,refrigerator,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,remote,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,scissors,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,shelf,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,sink,0.09356435388326645
+"M1 YOLOv8n-seg, latih 320",320,sendiri,spoon,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,stove-merged,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,teddy bear,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,towel,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,toy,0.024488909170031548
+"M1 YOLOv8n-seg, latih 320",320,sendiri,trash-bin,0.011441144160926342
+"M1 YOLOv8n-seg, latih 320",320,sendiri,tv,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri,wallet,0.13547383248806
+"M1 YOLOv8n-seg, latih 320",320,sendiri,window-blind,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,backpack,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,bed,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,blanket,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,book,0.031147349625825882
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,bottle,0.09306930750608444
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,bowl,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,box,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,cabinet-merged,0.025247525423765182
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,cell phone,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,chair,0.05957993492484093
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,clock,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,couch,-1.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,cup,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,curtain,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,dining table,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,fire-extinguisher,0.05000000074505806
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,flower,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,food-other-merged,0.006435643415898085
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,fork,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,handbag,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,keyboard,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,knife,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,laptop,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,light,0.0028602860402315855
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,mirror-stuff,-1.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,mouse,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,pan,0.3455445468425751
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,paper,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,pillow,0.05516266077756882
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,plate,-1.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,plug,0.000919377664104104
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,potted plant,0.021640734747052193
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,refrigerator,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,remote,-1.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,scissors,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,shelf,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,sink,0.2316831648349762
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,spoon,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,stove-merged,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,teddy bear,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,towel,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,toy,0.12178217619657516
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,trash-bin,0.02693069353699684
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,tv,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,wallet,0.393917977809906
+"M1 YOLOv8n-seg, latih 320",320,sendiri_normal,window-blind,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,backpack,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,bed,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,blanket,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,book,0.08712871372699738
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,bottle,0.10542718321084976
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,bowl,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,box,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,cabinet-merged,0.012245137244462967
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,cell phone,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,chair,0.13832955062389374
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,clock,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,couch,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,cup,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,curtain,-1.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,dining table,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,fire-extinguisher,-1.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,flower,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,food-other-merged,-1.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,fork,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,handbag,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,keyboard,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,knife,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,laptop,0.015841584652662277
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,light,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,mirror-stuff,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,mouse,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,pan,0.22772277891635895
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,paper,0.003960396163165569
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,pillow,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,plate,0.00514851463958621
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,plug,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,potted plant,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,remote,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,scissors,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,shelf,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,sink,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,spoon,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,stove-merged,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,teddy bear,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,towel,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,toy,0.015525695867836475
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,trash-bin,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,tv,0.0
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,wallet,0.006120611913502216
+"M1 YOLOv8n-seg, latih 320",320,sendiri_sulit,window-blind,-1.0
+"M1 YOLOv8n-seg, latih 960",960,asli,backpack,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,bed,0.06999876350164413
+"M1 YOLOv8n-seg, latih 960",960,asli,blanket,0.00227492768317461
+"M1 YOLOv8n-seg, latih 960",960,asli,book,0.06574312597513199
+"M1 YOLOv8n-seg, latih 960",960,asli,bottle,0.1687757968902588
+"M1 YOLOv8n-seg, latih 960",960,asli,bowl,0.17103944718837738
+"M1 YOLOv8n-seg, latih 960",960,asli,box,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,cabinet-merged,0.009831005707383156
+"M1 YOLOv8n-seg, latih 960",960,asli,cardboard,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,ceiling-merged,0.23764637112617493
+"M1 YOLOv8n-seg, latih 960",960,asli,cell phone,0.007110434118658304
+"M1 YOLOv8n-seg, latih 960",960,asli,chair,0.16085053980350494
+"M1 YOLOv8n-seg, latih 960",960,asli,clock,0.2316831648349762
+"M1 YOLOv8n-seg, latih 960",960,asli,couch,0.05619272217154503
+"M1 YOLOv8n-seg, latih 960",960,asli,counter,0.017686735838651657
+"M1 YOLOv8n-seg, latih 960",960,asli,cup,0.1932600736618042
+"M1 YOLOv8n-seg, latih 960",960,asli,curtain,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,dining table,0.004372937139123678
+"M1 YOLOv8n-seg, latih 960",960,asli,door-stuff,0.11031250655651093
+"M1 YOLOv8n-seg, latih 960",960,asli,fire-extinguisher,0.3995423913002014
+"M1 YOLOv8n-seg, latih 960",960,asli,floor-other-merged,0.16329562664031982
+"M1 YOLOv8n-seg, latih 960",960,asli,floor-wood,0.13747797906398773
+"M1 YOLOv8n-seg, latih 960",960,asli,flower,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,food-other-merged,0.32570311427116394
+"M1 YOLOv8n-seg, latih 960",960,asli,fork,0.018151815980672836
+"M1 YOLOv8n-seg, latih 960",960,asli,hair drier,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,handbag,0.015126512385904789
+"M1 YOLOv8n-seg, latih 960",960,asli,keyboard,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,knife,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,laptop,0.1384667009115219
+"M1 YOLOv8n-seg, latih 960",960,asli,light,0.029455840587615967
+"M1 YOLOv8n-seg, latih 960",960,asli,microwave,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,mirror-stuff,0.0033415842335671186
+"M1 YOLOv8n-seg, latih 960",960,asli,mouse,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,oven,0.0063366335816681385
+"M1 YOLOv8n-seg, latih 960",960,asli,pan,0.1974949985742569
+"M1 YOLOv8n-seg, latih 960",960,asli,paper,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,paper-merged,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,person,0.2894740700721741
+"M1 YOLOv8n-seg, latih 960",960,asli,pillow,0.00696184579282999
+"M1 YOLOv8n-seg, latih 960",960,asli,plate,0.08363133668899536
+"M1 YOLOv8n-seg, latih 960",960,asli,plug,0.02478109486401081
+"M1 YOLOv8n-seg, latih 960",960,asli,potted plant,0.3435937166213989
+"M1 YOLOv8n-seg, latih 960",960,asli,refrigerator,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,remote,-1.0
+"M1 YOLOv8n-seg, latih 960",960,asli,rug-merged,0.0027723440434783697
+"M1 YOLOv8n-seg, latih 960",960,asli,scissors,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,sink,0.053168315440416336
+"M1 YOLOv8n-seg, latih 960",960,asli,spoon,0.01004028134047985
+"M1 YOLOv8n-seg, latih 960",960,asli,st-,-1.0
+"M1 YOLOv8n-seg, latih 960",960,asli,stairs,0.12234889715909958
+"M1 YOLOv8n-seg, latih 960",960,asli,stove-merged,0.07187867909669876
+"M1 YOLOv8n-seg, latih 960",960,asli,table-merged,0.054971665143966675
+"M1 YOLOv8n-seg, latih 960",960,asli,teddy bear,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,toaster,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,toilet,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,toothbrush,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,towel,0.005078625399619341
+"M1 YOLOv8n-seg, latih 960",960,asli,toy,0.01410960964858532
+"M1 YOLOv8n-seg, latih 960",960,asli,trash-bin,0.03824137523770332
+"M1 YOLOv8n-seg, latih 960",960,asli,tree-merged,-1.0
+"M1 YOLOv8n-seg, latih 960",960,asli,tv,0.013578500598669052
+"M1 YOLOv8n-seg, latih 960",960,asli,vase,0.08044658601284027
+"M1 YOLOv8n-seg, latih 960",960,asli,wall,-1.0
+"M1 YOLOv8n-seg, latih 960",960,asli,wall-brick,0.0617884024977684
+"M1 YOLOv8n-seg, latih 960",960,asli,wall-other-merged,0.0920843556523323
+"M1 YOLOv8n-seg, latih 960",960,asli,wall-stone,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli,wall-tile,0.010908639058470726
+"M1 YOLOv8n-seg, latih 960",960,asli,wall-wood,0.012848190031945705
+"M1 YOLOv8n-seg, latih 960",960,asli,wallet,0.2471114695072174
+"M1 YOLOv8n-seg, latih 960",960,asli,window-blind,0.08122330904006958
+"M1 YOLOv8n-seg, latih 960",960,asli,window-other,0.07486320286989212
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,backpack,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,bed,0.07000274211168289
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,blanket,0.00227492768317461
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,book,0.06608502566814423
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,bottle,0.17022952437400818
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,bowl,0.17103944718837738
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,box,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,cabinet-merged,0.009904628619551659
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,cell phone,0.007110434118658304
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,chair,0.16094408929347992
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,clock,0.2316831648349762
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,couch,0.05619272217154503
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,cup,0.1932619959115982
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,curtain,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,dining table,0.004372937139123678
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,fire-extinguisher,0.3995423913002014
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,flower,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,food-other-merged,0.3257232904434204
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,fork,0.018151815980672836
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,handbag,0.015126512385904789
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,keyboard,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,knife,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,laptop,0.14390549063682556
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,light,0.029590370133519173
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,mirror-stuff,0.0033415842335671186
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,mouse,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,pan,0.19767773151397705
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,paper,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,pillow,0.006996107287704945
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,plate,0.08365216851234436
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,plug,0.025423333048820496
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,potted plant,0.34396272897720337
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,refrigerator,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,remote,-1.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,scissors,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,sink,0.053168315440416336
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,spoon,0.010049051605165005
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,stove-merged,0.07217977941036224
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,teddy bear,0.0
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,towel,0.0052457875572144985
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,toy,0.01422150433063507
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,trash-bin,0.04457336664199829
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,tv,0.013578500598669052
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,wallet,0.25012877583503723
+"M1 YOLOv8n-seg, latih 960",960,asli_kelas_sendiri,window-blind,0.08188718557357788
+"M1 YOLOv8n-seg, latih 960",960,sendiri,backpack,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,bed,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,blanket,0.0356435626745224
+"M1 YOLOv8n-seg, latih 960",960,sendiri,book,0.0062058838084340096
+"M1 YOLOv8n-seg, latih 960",960,sendiri,bottle,0.2315535992383957
+"M1 YOLOv8n-seg, latih 960",960,sendiri,bowl,0.039603959769010544
+"M1 YOLOv8n-seg, latih 960",960,sendiri,box,0.009266541339457035
+"M1 YOLOv8n-seg, latih 960",960,sendiri,cabinet-merged,0.002357378602027893
+"M1 YOLOv8n-seg, latih 960",960,sendiri,cell phone,0.05336633697152138
+"M1 YOLOv8n-seg, latih 960",960,sendiri,chair,0.0727337896823883
+"M1 YOLOv8n-seg, latih 960",960,sendiri,clock,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,couch,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,cup,0.086778424680233
+"M1 YOLOv8n-seg, latih 960",960,sendiri,curtain,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,dining table,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,fire-extinguisher,0.0833333358168602
+"M1 YOLOv8n-seg, latih 960",960,sendiri,flower,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,food-other-merged,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,fork,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,handbag,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,keyboard,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,knife,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,laptop,0.19399839639663696
+"M1 YOLOv8n-seg, latih 960",960,sendiri,light,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,mirror-stuff,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,mouse,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,pan,0.18142077326774597
+"M1 YOLOv8n-seg, latih 960",960,sendiri,paper,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,pillow,0.1538386046886444
+"M1 YOLOv8n-seg, latih 960",960,sendiri,plate,0.04108911007642746
+"M1 YOLOv8n-seg, latih 960",960,sendiri,plug,0.01447588112205267
+"M1 YOLOv8n-seg, latih 960",960,sendiri,potted plant,0.011551154777407646
+"M1 YOLOv8n-seg, latih 960",960,sendiri,refrigerator,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,remote,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,scissors,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,shelf,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,sink,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,spoon,0.16992977261543274
+"M1 YOLOv8n-seg, latih 960",960,sendiri,stove-merged,0.5049505233764648
+"M1 YOLOv8n-seg, latih 960",960,sendiri,teddy bear,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,towel,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,toy,0.0055765858851373196
+"M1 YOLOv8n-seg, latih 960",960,sendiri,trash-bin,0.18280354142189026
+"M1 YOLOv8n-seg, latih 960",960,sendiri,tv,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri,wallet,0.19553185999393463
+"M1 YOLOv8n-seg, latih 960",960,sendiri,window-blind,0.02942008525133133
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,backpack,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,bed,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,blanket,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,book,0.00815181527286768
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,bottle,0.3409618139266968
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,bowl,0.3366336524486542
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,box,0.0095064677298069
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,cabinet-merged,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,cell phone,0.1683168262243271
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,chair,0.09236209839582443
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,clock,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,couch,-1.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,cup,0.1577531099319458
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,curtain,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,dining table,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,fire-extinguisher,0.125
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,flower,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,food-other-merged,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,fork,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,handbag,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,keyboard,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,knife,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,laptop,0.800990104675293
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,light,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,mirror-stuff,-1.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,mouse,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,pan,0.14164845645427704
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,paper,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,pillow,0.3311881124973297
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,plate,-1.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,plug,0.026178069412708282
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,potted plant,0.02404526248574257
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,refrigerator,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,remote,-1.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,scissors,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,shelf,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,sink,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,spoon,0.1983003318309784
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,stove-merged,1.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,teddy bear,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,towel,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,toy,0.008580857887864113
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,trash-bin,0.24094192683696747
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,tv,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,wallet,0.6322489380836487
+"M1 YOLOv8n-seg, latih 960",960,sendiri_normal,window-blind,0.04118811711668968
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,backpack,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,bed,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,blanket,0.04356435686349869
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,book,0.005693069193512201
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,bottle,0.15769490599632263
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,bowl,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,box,0.013326069340109825
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,cabinet-merged,0.010396040044724941
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,cell phone,0.08836633712053299
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,chair,0.0655093565583229
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,clock,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,couch,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,cup,0.05594641715288162
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,curtain,-1.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,dining table,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,fire-extinguisher,-1.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,flower,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,food-other-merged,-1.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,fork,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,handbag,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,keyboard,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,knife,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,laptop,0.08453130722045898
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,light,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,mirror-stuff,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,mouse,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,pan,0.2547202408313751
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,paper,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,pillow,0.029137199744582176
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,plate,0.0431143119931221
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,plug,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,potted plant,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,remote,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,scissors,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,shelf,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,sink,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,spoon,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,stove-merged,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,teddy bear,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,towel,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,toy,0.008871388621628284
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,trash-bin,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,tv,0.0
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,wallet,0.08376237750053406
+"M1 YOLOv8n-seg, latih 960",960,sendiri_sulit,window-blind,-1.0
+"M3 Mask R-CNN, latih 320",320,asli,backpack,0.028076378628611565
+"M3 Mask R-CNN, latih 320",320,asli,bed,0.07551012933254242
+"M3 Mask R-CNN, latih 320",320,asli,blanket,0.0019991230219602585
+"M3 Mask R-CNN, latih 320",320,asli,book,0.012406089343130589
+"M3 Mask R-CNN, latih 320",320,asli,bottle,0.12423768639564514
+"M3 Mask R-CNN, latih 320",320,asli,bowl,0.1383189857006073
+"M3 Mask R-CNN, latih 320",320,asli,box,0.0023255813866853714
+"M3 Mask R-CNN, latih 320",320,asli,cabinet-merged,0.016617465764284134
+"M3 Mask R-CNN, latih 320",320,asli,cardboard,0.0
+"M3 Mask R-CNN, latih 320",320,asli,ceiling-merged,0.24815720319747925
+"M3 Mask R-CNN, latih 320",320,asli,cell phone,0.018046436831355095
+"M3 Mask R-CNN, latih 320",320,asli,chair,0.09074466675519943
+"M3 Mask R-CNN, latih 320",320,asli,clock,0.0
+"M3 Mask R-CNN, latih 320",320,asli,couch,0.016461316496133804
+"M3 Mask R-CNN, latih 320",320,asli,counter,0.024804281070828438
+"M3 Mask R-CNN, latih 320",320,asli,cup,0.05385367199778557
+"M3 Mask R-CNN, latih 320",320,asli,curtain,0.033400069922208786
+"M3 Mask R-CNN, latih 320",320,asli,dining table,0.0
+"M3 Mask R-CNN, latih 320",320,asli,door-stuff,0.10298113524913788
+"M3 Mask R-CNN, latih 320",320,asli,fire-extinguisher,0.6148514747619629
+"M3 Mask R-CNN, latih 320",320,asli,floor-other-merged,0.1366633176803589
+"M3 Mask R-CNN, latih 320",320,asli,floor-wood,0.11354192346334457
+"M3 Mask R-CNN, latih 320",320,asli,flower,0.0
+"M3 Mask R-CNN, latih 320",320,asli,food-other-merged,0.21140547096729279
+"M3 Mask R-CNN, latih 320",320,asli,fork,0.0
+"M3 Mask R-CNN, latih 320",320,asli,hair drier,0.0
+"M3 Mask R-CNN, latih 320",320,asli,handbag,0.018136221915483475
+"M3 Mask R-CNN, latih 320",320,asli,keyboard,0.0
+"M3 Mask R-CNN, latih 320",320,asli,knife,9.429514466319233e-05
+"M3 Mask R-CNN, latih 320",320,asli,laptop,0.12678420543670654
+"M3 Mask R-CNN, latih 320",320,asli,light,0.022684425115585327
+"M3 Mask R-CNN, latih 320",320,asli,microwave,0.004950494971126318
+"M3 Mask R-CNN, latih 320",320,asli,mirror-stuff,0.0049569271504879
+"M3 Mask R-CNN, latih 320",320,asli,mouse,0.0
+"M3 Mask R-CNN, latih 320",320,asli,oven,0.0
+"M3 Mask R-CNN, latih 320",320,asli,pan,0.2496185302734375
+"M3 Mask R-CNN, latih 320",320,asli,paper,0.0016831683460623026
+"M3 Mask R-CNN, latih 320",320,asli,paper-merged,0.0010807369835674763
+"M3 Mask R-CNN, latih 320",320,asli,person,0.16720743477344513
+"M3 Mask R-CNN, latih 320",320,asli,pillow,0.024941427633166313
+"M3 Mask R-CNN, latih 320",320,asli,plate,0.09301195293664932
+"M3 Mask R-CNN, latih 320",320,asli,plug,0.027044285088777542
+"M3 Mask R-CNN, latih 320",320,asli,potted plant,0.18067805469036102
+"M3 Mask R-CNN, latih 320",320,asli,refrigerator,0.0
+"M3 Mask R-CNN, latih 320",320,asli,remote,-1.0
+"M3 Mask R-CNN, latih 320",320,asli,rug-merged,0.01591966301202774
+"M3 Mask R-CNN, latih 320",320,asli,scissors,0.0
+"M3 Mask R-CNN, latih 320",320,asli,shelf,-1.0
+"M3 Mask R-CNN, latih 320",320,asli,sink,0.005020589102059603
+"M3 Mask R-CNN, latih 320",320,asli,spoon,0.0032049845904111862
+"M3 Mask R-CNN, latih 320",320,asli,st-,-1.0
+"M3 Mask R-CNN, latih 320",320,asli,stairs,0.052373360842466354
+"M3 Mask R-CNN, latih 320",320,asli,stove-merged,0.0877029076218605
+"M3 Mask R-CNN, latih 320",320,asli,table-merged,0.04574074596166611
+"M3 Mask R-CNN, latih 320",320,asli,teddy bear,0.0
+"M3 Mask R-CNN, latih 320",320,asli,toaster,0.0
+"M3 Mask R-CNN, latih 320",320,asli,toilet,0.0
+"M3 Mask R-CNN, latih 320",320,asli,toothbrush,0.0
+"M3 Mask R-CNN, latih 320",320,asli,towel,0.0008752495050430298
+"M3 Mask R-CNN, latih 320",320,asli,toy,0.00654847826808691
+"M3 Mask R-CNN, latih 320",320,asli,trash-bin,0.022979849949479103
+"M3 Mask R-CNN, latih 320",320,asli,tree-merged,-1.0
+"M3 Mask R-CNN, latih 320",320,asli,tv,0.0
+"M3 Mask R-CNN, latih 320",320,asli,vase,0.0
+"M3 Mask R-CNN, latih 320",320,asli,wall,-1.0
+"M3 Mask R-CNN, latih 320",320,asli,wall-brick,0.0332595631480217
+"M3 Mask R-CNN, latih 320",320,asli,wall-other-merged,0.13659651577472687
+"M3 Mask R-CNN, latih 320",320,asli,wall-stone,0.0
+"M3 Mask R-CNN, latih 320",320,asli,wall-tile,0.03072122298181057
+"M3 Mask R-CNN, latih 320",320,asli,wall-wood,0.008706212975084782
+"M3 Mask R-CNN, latih 320",320,asli,wallet,0.5744224190711975
+"M3 Mask R-CNN, latih 320",320,asli,window-blind,0.07154934108257294
+"M3 Mask R-CNN, latih 320",320,asli,window-other,0.12059531360864639
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,backpack,0.028076378628611565
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,bed,0.07562123239040375
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,blanket,0.0020166640169918537
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,book,0.013102846220135689
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,bottle,0.12443852424621582
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,bowl,0.1383216232061386
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,box,0.0024258759804069996
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,cabinet-merged,0.016819532960653305
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,cell phone,0.019871816039085388
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,chair,0.09080424159765244
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,clock,0.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,couch,0.01653110794723034
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,cup,0.05388094112277031
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,curtain,0.033588312566280365
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,dining table,0.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,fire-extinguisher,0.6148514747619629
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,flower,0.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,food-other-merged,0.21149465441703796
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,fork,0.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,handbag,0.01821061037480831
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,keyboard,0.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,knife,9.429514466319233e-05
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,laptop,0.12680776417255402
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,light,0.023165658116340637
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,mirror-stuff,0.005240289960056543
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,mouse,0.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,pan,0.24964876472949982
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,paper,0.001803394639864564
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,pillow,0.024974703788757324
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,plate,0.09304071962833405
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,plug,0.02706742100417614
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,potted plant,0.1843881607055664
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,refrigerator,0.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,remote,-1.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,scissors,0.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,shelf,-1.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,sink,0.00508264172822237
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,spoon,0.0032279088627547026
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,stove-merged,0.08770360797643661
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,teddy bear,0.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,towel,0.0009338176460005343
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,toy,0.006979105528444052
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,trash-bin,0.026099052280187607
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,tv,0.0
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,wallet,0.5744224190711975
+"M3 Mask R-CNN, latih 320",320,asli_kelas_sendiri,window-blind,0.07588105648756027
+"M3 Mask R-CNN, latih 320",320,sendiri,backpack,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,bed,0.0670761987566948
+"M3 Mask R-CNN, latih 320",320,sendiri,blanket,0.005940594244748354
+"M3 Mask R-CNN, latih 320",320,sendiri,book,0.020710967481136322
+"M3 Mask R-CNN, latih 320",320,sendiri,bottle,0.12791277468204498
+"M3 Mask R-CNN, latih 320",320,sendiri,bowl,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,box,0.007801826577633619
+"M3 Mask R-CNN, latih 320",320,sendiri,cabinet-merged,0.281870573759079
+"M3 Mask R-CNN, latih 320",320,sendiri,cell phone,0.02659405954182148
+"M3 Mask R-CNN, latih 320",320,sendiri,chair,0.06269625574350357
+"M3 Mask R-CNN, latih 320",320,sendiri,clock,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,couch,0.10000000149011612
+"M3 Mask R-CNN, latih 320",320,sendiri,cup,0.044508494436740875
+"M3 Mask R-CNN, latih 320",320,sendiri,curtain,0.17499999701976776
+"M3 Mask R-CNN, latih 320",320,sendiri,dining table,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,fire-extinguisher,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,flower,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,food-other-merged,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,fork,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,handbag,0.007996953092515469
+"M3 Mask R-CNN, latih 320",320,sendiri,keyboard,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,knife,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,laptop,0.2101277858018875
+"M3 Mask R-CNN, latih 320",320,sendiri,light,0.0009318579104728997
+"M3 Mask R-CNN, latih 320",320,sendiri,mirror-stuff,0.016129031777381897
+"M3 Mask R-CNN, latih 320",320,sendiri,mouse,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,pan,0.18763352930545807
+"M3 Mask R-CNN, latih 320",320,sendiri,paper,0.0028606096748262644
+"M3 Mask R-CNN, latih 320",320,sendiri,pillow,0.21713000535964966
+"M3 Mask R-CNN, latih 320",320,sendiri,plate,0.07722771912813187
+"M3 Mask R-CNN, latih 320",320,sendiri,plug,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,potted plant,0.021258346736431122
+"M3 Mask R-CNN, latih 320",320,sendiri,refrigerator,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,remote,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,scissors,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,shelf,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,sink,0.07730554044246674
+"M3 Mask R-CNN, latih 320",320,sendiri,spoon,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,stove-merged,0.005770862568169832
+"M3 Mask R-CNN, latih 320",320,sendiri,teddy bear,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,towel,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,toy,0.014623415656387806
+"M3 Mask R-CNN, latih 320",320,sendiri,trash-bin,0.2316831648349762
+"M3 Mask R-CNN, latih 320",320,sendiri,tv,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri,wallet,0.15596534311771393
+"M3 Mask R-CNN, latih 320",320,sendiri,window-blind,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,backpack,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,bed,0.23270076513290405
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,blanket,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,book,0.04918283969163895
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,bottle,0.12871287763118744
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,bowl,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,box,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,cabinet-merged,0.28578609228134155
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,cell phone,0.06577783077955246
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,chair,0.06737999618053436
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,clock,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,couch,-1.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,cup,0.08253182470798492
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,curtain,0.17499999701976776
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,dining table,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,fire-extinguisher,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,flower,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,food-other-merged,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,fork,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,handbag,0.01287128683179617
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,keyboard,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,knife,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,laptop,0.800000011920929
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,light,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,mirror-stuff,-1.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,mouse,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,pan,0.19381211698055267
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,paper,0.005056838970631361
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,pillow,0.4015495479106903
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,plate,-1.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,plug,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,potted plant,0.054611776024103165
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,refrigerator,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,remote,-1.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,scissors,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,shelf,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,sink,0.10256954282522202
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,spoon,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,stove-merged,0.03200000151991844
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,teddy bear,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,towel,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,toy,0.04509879648685455
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,trash-bin,0.302970290184021
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,tv,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,wallet,0.2691831588745117
+"M3 Mask R-CNN, latih 320",320,sendiri_normal,window-blind,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,backpack,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,bed,0.014483349397778511
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,blanket,0.021782178431749344
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,book,0.007164254784584045
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,bottle,0.13436093926429749
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,bowl,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,box,0.07431243360042572
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,cabinet-merged,0.3379538059234619
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,cell phone,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,chair,0.06355266273021698
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,clock,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,couch,0.15000000596046448
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,cup,0.03243124485015869
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,curtain,-1.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,dining table,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,fire-extinguisher,-1.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,flower,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,food-other-merged,-1.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,fork,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,handbag,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,keyboard,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,knife,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,laptop,0.11273841559886932
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,light,0.00319878151640296
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,mirror-stuff,0.03846153989434242
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,mouse,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,pan,0.20173268020153046
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,paper,0.003182461019605398
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,pillow,0.11489464342594147
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,plate,0.07722771912813187
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,plug,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,potted plant,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,refrigerator,-1.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,remote,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,scissors,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,shelf,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,sink,0.013953488320112228
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,spoon,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,stove-merged,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,teddy bear,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,towel,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,toy,0.003963983152061701
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,trash-bin,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,tv,0.0
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,wallet,0.23564356565475464
+"M3 Mask R-CNN, latih 320",320,sendiri_sulit,window-blind,-1.0
+"M3 Mask R-CNN, latih 960",960,asli,backpack,0.04207920655608177
+"M3 Mask R-CNN, latih 960",960,asli,bed,0.10830552875995636
+"M3 Mask R-CNN, latih 960",960,asli,blanket,0.002201823750510812
+"M3 Mask R-CNN, latih 960",960,asli,book,0.10559584200382233
+"M3 Mask R-CNN, latih 960",960,asli,bottle,0.22510378062725067
+"M3 Mask R-CNN, latih 960",960,asli,bowl,0.2532954812049866
+"M3 Mask R-CNN, latih 960",960,asli,box,0.002786377677693963
+"M3 Mask R-CNN, latih 960",960,asli,cabinet-merged,0.039831846952438354
+"M3 Mask R-CNN, latih 960",960,asli,cardboard,0.0
+"M3 Mask R-CNN, latih 960",960,asli,ceiling-merged,0.20560112595558167
+"M3 Mask R-CNN, latih 960",960,asli,cell phone,0.21764682233333588
+"M3 Mask R-CNN, latih 960",960,asli,chair,0.2174239158630371
+"M3 Mask R-CNN, latih 960",960,asli,clock,0.0
+"M3 Mask R-CNN, latih 960",960,asli,couch,0.1139833852648735
+"M3 Mask R-CNN, latih 960",960,asli,counter,0.058200348168611526
+"M3 Mask R-CNN, latih 960",960,asli,cup,0.27677619457244873
+"M3 Mask R-CNN, latih 960",960,asli,curtain,0.007920792326331139
+"M3 Mask R-CNN, latih 960",960,asli,dining table,0.0
+"M3 Mask R-CNN, latih 960",960,asli,door-stuff,0.1526092141866684
+"M3 Mask R-CNN, latih 960",960,asli,fire-extinguisher,0.4333033263683319
+"M3 Mask R-CNN, latih 960",960,asli,floor-other-merged,0.1718977689743042
+"M3 Mask R-CNN, latih 960",960,asli,floor-wood,0.1182008609175682
+"M3 Mask R-CNN, latih 960",960,asli,flower,0.0
+"M3 Mask R-CNN, latih 960",960,asli,food-other-merged,0.3300603926181793
+"M3 Mask R-CNN, latih 960",960,asli,fork,0.0
+"M3 Mask R-CNN, latih 960",960,asli,hair drier,0.0
+"M3 Mask R-CNN, latih 960",960,asli,handbag,0.0
+"M3 Mask R-CNN, latih 960",960,asli,keyboard,0.0
+"M3 Mask R-CNN, latih 960",960,asli,knife,0.0018688119016587734
+"M3 Mask R-CNN, latih 960",960,asli,laptop,0.3226690888404846
+"M3 Mask R-CNN, latih 960",960,asli,light,0.03656158223748207
+"M3 Mask R-CNN, latih 960",960,asli,microwave,0.0011424219701439142
+"M3 Mask R-CNN, latih 960",960,asli,mirror-stuff,0.0013518392806872725
+"M3 Mask R-CNN, latih 960",960,asli,mouse,0.0
+"M3 Mask R-CNN, latih 960",960,asli,oven,0.015841584652662277
+"M3 Mask R-CNN, latih 960",960,asli,pan,0.2814651429653168
+"M3 Mask R-CNN, latih 960",960,asli,paper,0.0
+"M3 Mask R-CNN, latih 960",960,asli,paper-merged,0.0
+"M3 Mask R-CNN, latih 960",960,asli,person,0.3028421700000763
+"M3 Mask R-CNN, latih 960",960,asli,pillow,0.018495386466383934
+"M3 Mask R-CNN, latih 960",960,asli,plate,0.08703463524580002
+"M3 Mask R-CNN, latih 960",960,asli,plug,0.08279696106910706
+"M3 Mask R-CNN, latih 960",960,asli,potted plant,0.3442632257938385
+"M3 Mask R-CNN, latih 960",960,asli,refrigerator,0.0
+"M3 Mask R-CNN, latih 960",960,asli,remote,-1.0
+"M3 Mask R-CNN, latih 960",960,asli,rug-merged,0.003951611928641796
+"M3 Mask R-CNN, latih 960",960,asli,scissors,0.0
+"M3 Mask R-CNN, latih 960",960,asli,shelf,-1.0
+"M3 Mask R-CNN, latih 960",960,asli,sink,0.035464685410261154
+"M3 Mask R-CNN, latih 960",960,asli,spoon,0.013038703240454197
+"M3 Mask R-CNN, latih 960",960,asli,st-,-1.0
+"M3 Mask R-CNN, latih 960",960,asli,stairs,0.06917071342468262
+"M3 Mask R-CNN, latih 960",960,asli,stove-merged,0.15369388461112976
+"M3 Mask R-CNN, latih 960",960,asli,table-merged,0.054841164499521255
+"M3 Mask R-CNN, latih 960",960,asli,teddy bear,0.0
+"M3 Mask R-CNN, latih 960",960,asli,toaster,0.0
+"M3 Mask R-CNN, latih 960",960,asli,toilet,0.0
+"M3 Mask R-CNN, latih 960",960,asli,toothbrush,0.0
+"M3 Mask R-CNN, latih 960",960,asli,towel,0.015538603998720646
+"M3 Mask R-CNN, latih 960",960,asli,toy,0.026551401242613792
+"M3 Mask R-CNN, latih 960",960,asli,trash-bin,0.01238266658037901
+"M3 Mask R-CNN, latih 960",960,asli,tree-merged,-1.0
+"M3 Mask R-CNN, latih 960",960,asli,tv,0.0
+"M3 Mask R-CNN, latih 960",960,asli,vase,0.0
+"M3 Mask R-CNN, latih 960",960,asli,wall,-1.0
+"M3 Mask R-CNN, latih 960",960,asli,wall-brick,0.045448485761880875
+"M3 Mask R-CNN, latih 960",960,asli,wall-other-merged,0.13672688603401184
+"M3 Mask R-CNN, latih 960",960,asli,wall-stone,0.0
+"M3 Mask R-CNN, latih 960",960,asli,wall-tile,0.02228596620261669
+"M3 Mask R-CNN, latih 960",960,asli,wall-wood,0.004804549738764763
+"M3 Mask R-CNN, latih 960",960,asli,wallet,0.6010668873786926
+"M3 Mask R-CNN, latih 960",960,asli,window-blind,0.028112012892961502
+"M3 Mask R-CNN, latih 960",960,asli,window-other,0.09387486428022385
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,backpack,0.04207920655608177
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,bed,0.10846585780382156
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,blanket,0.002261378103867173
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,book,0.10826680809259415
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,bottle,0.22535572946071625
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,bowl,0.2532954812049866
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,box,0.0029411765281111
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,cabinet-merged,0.040289055556058884
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,cell phone,0.21865776181221008
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,chair,0.21746794879436493
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,clock,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,couch,0.1140068918466568
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,cup,0.27690765261650085
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,curtain,0.007920792326331139
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,dining table,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,fire-extinguisher,0.43871286511421204
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,flower,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,food-other-merged,0.3300672173500061
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,fork,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,handbag,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,keyboard,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,knife,0.0018688119016587734
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,laptop,0.32279473543167114
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,light,0.037004079669713974
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,mirror-stuff,0.0014646616764366627
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,mouse,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,pan,0.2814846336841583
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,paper,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,pillow,0.01854097843170166
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,plate,0.08729340881109238
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,plug,0.08314654976129532
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,potted plant,0.347570538520813
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,refrigerator,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,remote,-1.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,scissors,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,shelf,-1.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,sink,0.03671908378601074
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,spoon,0.013038703240454197
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,stove-merged,0.1537512242794037
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,teddy bear,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,towel,0.01562676578760147
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,toy,0.02773318812251091
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,trash-bin,0.012972317636013031
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,tv,0.0
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,wallet,0.60186767578125
+"M3 Mask R-CNN, latih 960",960,asli_kelas_sendiri,window-blind,0.028454618528485298
+"M3 Mask R-CNN, latih 960",960,sendiri,backpack,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,bed,0.03817807137966156
+"M3 Mask R-CNN, latih 960",960,sendiri,blanket,0.012995049357414246
+"M3 Mask R-CNN, latih 960",960,sendiri,book,0.02141089178621769
+"M3 Mask R-CNN, latih 960",960,sendiri,bottle,0.37851381301879883
+"M3 Mask R-CNN, latih 960",960,sendiri,bowl,0.08280827850103378
+"M3 Mask R-CNN, latih 960",960,sendiri,box,0.022611103951931
+"M3 Mask R-CNN, latih 960",960,sendiri,cabinet-merged,0.17868493497371674
+"M3 Mask R-CNN, latih 960",960,sendiri,cell phone,0.10710945725440979
+"M3 Mask R-CNN, latih 960",960,sendiri,chair,0.12279035896062851
+"M3 Mask R-CNN, latih 960",960,sendiri,clock,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,couch,0.5
+"M3 Mask R-CNN, latih 960",960,sendiri,cup,0.07783592492341995
+"M3 Mask R-CNN, latih 960",960,sendiri,curtain,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,dining table,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,fire-extinguisher,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,flower,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,food-other-merged,0.05148514732718468
+"M3 Mask R-CNN, latih 960",960,sendiri,fork,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,handbag,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,keyboard,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,knife,0.19222882390022278
+"M3 Mask R-CNN, latih 960",960,sendiri,laptop,0.35305050015449524
+"M3 Mask R-CNN, latih 960",960,sendiri,light,0.00222772266715765
+"M3 Mask R-CNN, latih 960",960,sendiri,mirror-stuff,0.10000000149011612
+"M3 Mask R-CNN, latih 960",960,sendiri,mouse,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,pan,0.24880197644233704
+"M3 Mask R-CNN, latih 960",960,sendiri,paper,0.008079207502305508
+"M3 Mask R-CNN, latih 960",960,sendiri,pillow,0.20515930652618408
+"M3 Mask R-CNN, latih 960",960,sendiri,plate,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,plug,0.0019801980815827847
+"M3 Mask R-CNN, latih 960",960,sendiri,potted plant,0.05622347816824913
+"M3 Mask R-CNN, latih 960",960,sendiri,refrigerator,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,remote,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,scissors,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,shelf,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,sink,0.00997715163975954
+"M3 Mask R-CNN, latih 960",960,sendiri,spoon,0.11657315492630005
+"M3 Mask R-CNN, latih 960",960,sendiri,stove-merged,0.1683168262243271
+"M3 Mask R-CNN, latih 960",960,sendiri,teddy bear,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,towel,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,toy,0.01610672101378441
+"M3 Mask R-CNN, latih 960",960,sendiri,trash-bin,0.2574257552623749
+"M3 Mask R-CNN, latih 960",960,sendiri,tv,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri,wallet,0.21815180778503418
+"M3 Mask R-CNN, latih 960",960,sendiri,window-blind,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,backpack,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,bed,0.16560781002044678
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,blanket,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,book,0.007797029800713062
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,bottle,0.2575145959854126
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,bowl,0.37765204906463623
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,box,0.005940594244748354
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,cabinet-merged,0.24791136384010315
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,cell phone,0.22178217768669128
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,chair,0.15514300763607025
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,clock,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,couch,-1.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,cup,0.09612918645143509
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,curtain,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,dining table,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,fire-extinguisher,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,flower,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,food-other-merged,0.10297029465436935
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,fork,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,handbag,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,keyboard,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,knife,0.23938393592834473
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,laptop,0.7504950761795044
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,light,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,mirror-stuff,-1.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,mouse,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,pan,0.30032628774642944
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,paper,0.01588558778166771
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,pillow,0.553780198097229
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,plate,-1.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,plug,0.01287128683179617
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,potted plant,0.11798679828643799
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,refrigerator,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,remote,-1.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,scissors,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,shelf,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,sink,0.02572161890566349
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,spoon,0.11938943713903427
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,stove-merged,1.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,teddy bear,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,towel,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,toy,0.04017411544919014
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,trash-bin,0.3366336524486542
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,tv,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,wallet,0.41749176383018494
+"M3 Mask R-CNN, latih 960",960,sendiri_normal,window-blind,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,backpack,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,bed,0.015456296503543854
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,blanket,0.024752475321292877
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,book,0.0446958988904953
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,bottle,0.4681655764579773
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,bowl,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,box,0.07354544848203659
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,cabinet-merged,0.23376649618148804
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,cell phone,0.025247525423765182
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,chair,0.11268946528434753
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,clock,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,couch,0.5
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,cup,0.100533127784729
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,curtain,-1.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,dining table,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,fire-extinguisher,-1.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,flower,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,food-other-merged,-1.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,fork,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,handbag,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,keyboard,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,knife,0.036363635212183
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,laptop,0.2944636344909668
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,light,0.004990098997950554
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,mirror-stuff,0.13333334028720856
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,mouse,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,pan,0.2142399549484253
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,paper,0.0039312755689024925
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,pillow,0.09159161150455475
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,plate,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,plug,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,potted plant,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,refrigerator,-1.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,remote,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,scissors,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,shelf,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,sink,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,spoon,0.15000000596046448
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,stove-merged,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,teddy bear,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,towel,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,toy,0.008221344090998173
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,trash-bin,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,tv,0.0
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,wallet,0.1069306954741478
+"M3 Mask R-CNN, latih 960",960,sendiri_sulit,window-blind,-1.0
+"M3 Mask R-CNN, inferensi 320",320,asli,backpack,0.09979569166898727
+"M3 Mask R-CNN, inferensi 320",320,asli,bed,0.060886938124895096
+"M3 Mask R-CNN, inferensi 320",320,asli,blanket,0.0009772453922778368
+"M3 Mask R-CNN, inferensi 320",320,asli,book,0.01128540001809597
+"M3 Mask R-CNN, inferensi 320",320,asli,bottle,0.12914977967739105
+"M3 Mask R-CNN, inferensi 320",320,asli,bowl,0.12380020320415497
+"M3 Mask R-CNN, inferensi 320",320,asli,box,0.008571428246796131
+"M3 Mask R-CNN, inferensi 320",320,asli,cabinet-merged,0.03485200181603432
+"M3 Mask R-CNN, inferensi 320",320,asli,cardboard,0.0008055042708292603
+"M3 Mask R-CNN, inferensi 320",320,asli,ceiling-merged,0.27837851643562317
+"M3 Mask R-CNN, inferensi 320",320,asli,cell phone,0.16846314072608948
+"M3 Mask R-CNN, inferensi 320",320,asli,chair,0.08128233999013901
+"M3 Mask R-CNN, inferensi 320",320,asli,clock,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,couch,0.03881936892867088
+"M3 Mask R-CNN, inferensi 320",320,asli,counter,0.021106064319610596
+"M3 Mask R-CNN, inferensi 320",320,asli,cup,0.08474884182214737
+"M3 Mask R-CNN, inferensi 320",320,asli,curtain,0.03185292333364487
+"M3 Mask R-CNN, inferensi 320",320,asli,dining table,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,door-stuff,0.09360875189304352
+"M3 Mask R-CNN, inferensi 320",320,asli,fire-extinguisher,0.37966489791870117
+"M3 Mask R-CNN, inferensi 320",320,asli,floor-other-merged,0.17185212671756744
+"M3 Mask R-CNN, inferensi 320",320,asli,floor-wood,0.11466364562511444
+"M3 Mask R-CNN, inferensi 320",320,asli,flower,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,food-other-merged,0.17546336352825165
+"M3 Mask R-CNN, inferensi 320",320,asli,fork,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,hair drier,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,handbag,0.014058227650821209
+"M3 Mask R-CNN, inferensi 320",320,asli,keyboard,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,knife,0.005516265984624624
+"M3 Mask R-CNN, inferensi 320",320,asli,laptop,0.09652651846408844
+"M3 Mask R-CNN, inferensi 320",320,asli,light,0.020577067509293556
+"M3 Mask R-CNN, inferensi 320",320,asli,microwave,0.0371265783905983
+"M3 Mask R-CNN, inferensi 320",320,asli,mirror-stuff,0.003933858126401901
+"M3 Mask R-CNN, inferensi 320",320,asli,mouse,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,oven,0.009174338541924953
+"M3 Mask R-CNN, inferensi 320",320,asli,pan,0.21089237928390503
+"M3 Mask R-CNN, inferensi 320",320,asli,paper,0.00014310225378721952
+"M3 Mask R-CNN, inferensi 320",320,asli,paper-merged,0.0002084418956656009
+"M3 Mask R-CNN, inferensi 320",320,asli,person,0.14236590266227722
+"M3 Mask R-CNN, inferensi 320",320,asli,pillow,0.02962142787873745
+"M3 Mask R-CNN, inferensi 320",320,asli,plate,0.07196933776140213
+"M3 Mask R-CNN, inferensi 320",320,asli,plug,0.18415841460227966
+"M3 Mask R-CNN, inferensi 320",320,asli,potted plant,0.16499875485897064
+"M3 Mask R-CNN, inferensi 320",320,asli,refrigerator,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,remote,-1.0
+"M3 Mask R-CNN, inferensi 320",320,asli,rug-merged,0.013308650813996792
+"M3 Mask R-CNN, inferensi 320",320,asli,scissors,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,shelf,-1.0
+"M3 Mask R-CNN, inferensi 320",320,asli,sink,0.06351756304502487
+"M3 Mask R-CNN, inferensi 320",320,asli,spoon,0.013921392150223255
+"M3 Mask R-CNN, inferensi 320",320,asli,st-,-1.0
+"M3 Mask R-CNN, inferensi 320",320,asli,stairs,0.04141085222363472
+"M3 Mask R-CNN, inferensi 320",320,asli,stove-merged,0.04321860149502754
+"M3 Mask R-CNN, inferensi 320",320,asli,table-merged,0.03136610984802246
+"M3 Mask R-CNN, inferensi 320",320,asli,teddy bear,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,toaster,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,toilet,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,toothbrush,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,towel,0.0003615948371589184
+"M3 Mask R-CNN, inferensi 320",320,asli,toy,0.0010415922151878476
+"M3 Mask R-CNN, inferensi 320",320,asli,trash-bin,0.009629018604755402
+"M3 Mask R-CNN, inferensi 320",320,asli,tree-merged,-1.0
+"M3 Mask R-CNN, inferensi 320",320,asli,tv,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,vase,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,wall,-1.0
+"M3 Mask R-CNN, inferensi 320",320,asli,wall-brick,0.04970194026827812
+"M3 Mask R-CNN, inferensi 320",320,asli,wall-other-merged,0.11386975646018982
+"M3 Mask R-CNN, inferensi 320",320,asli,wall-stone,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli,wall-tile,0.05159435421228409
+"M3 Mask R-CNN, inferensi 320",320,asli,wall-wood,0.036412227898836136
+"M3 Mask R-CNN, inferensi 320",320,asli,wallet,0.5352475047111511
+"M3 Mask R-CNN, inferensi 320",320,asli,window-blind,0.03780338540673256
+"M3 Mask R-CNN, inferensi 320",320,asli,window-other,0.13254044950008392
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,backpack,0.09979569166898727
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,bed,0.06100572273135185
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,blanket,0.0009846045868471265
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,book,0.01196211576461792
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,bottle,0.1296418011188507
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,bowl,0.12380119413137436
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,box,0.00909090880304575
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,cabinet-merged,0.03529157117009163
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,cell phone,0.16882167756557465
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,chair,0.08130650967359543
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,clock,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,couch,0.03883339464664459
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,cup,0.08498772233724594
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,curtain,0.032501984387636185
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,dining table,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,fire-extinguisher,0.3816249370574951
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,flower,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,food-other-merged,0.17549964785575867
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,fork,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,handbag,0.014095010235905647
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,keyboard,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,knife,0.005516265984624624
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,laptop,0.09675218909978867
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,light,0.020796366035938263
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,mirror-stuff,0.0040547652170062065
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,mouse,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,pan,0.21152178943157196
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,paper,0.00015052626258693635
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,pillow,0.029631124809384346
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,plate,0.07199947535991669
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,plug,0.18415841460227966
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,potted plant,0.16810451447963715
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,refrigerator,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,remote,-1.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,scissors,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,shelf,-1.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,sink,0.0635668933391571
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,spoon,0.013921392150223255
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,stove-merged,0.04321860149502754
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,teddy bear,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,towel,0.0003734662022907287
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,toy,0.0010674927616491914
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,trash-bin,0.011463036760687828
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,tv,0.0
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,wallet,0.5352475047111511
+"M3 Mask R-CNN, inferensi 320",320,asli_kelas_sendiri,window-blind,0.03834972903132439
+"M3 Mask R-CNN, inferensi 320",320,sendiri,backpack,0.04996192082762718
+"M3 Mask R-CNN, inferensi 320",320,sendiri,bed,0.03688118979334831
+"M3 Mask R-CNN, inferensi 320",320,sendiri,blanket,0.001974519109353423
+"M3 Mask R-CNN, inferensi 320",320,sendiri,book,0.03710360825061798
+"M3 Mask R-CNN, inferensi 320",320,sendiri,bottle,0.09551573544740677
+"M3 Mask R-CNN, inferensi 320",320,sendiri,bowl,0.0013775291154161096
+"M3 Mask R-CNN, inferensi 320",320,sendiri,box,0.001440144027583301
+"M3 Mask R-CNN, inferensi 320",320,sendiri,cabinet-merged,0.1691804975271225
+"M3 Mask R-CNN, inferensi 320",320,sendiri,cell phone,0.20962871611118317
+"M3 Mask R-CNN, inferensi 320",320,sendiri,chair,0.08011429011821747
+"M3 Mask R-CNN, inferensi 320",320,sendiri,clock,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,couch,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,cup,0.09530278295278549
+"M3 Mask R-CNN, inferensi 320",320,sendiri,curtain,0.01666666753590107
+"M3 Mask R-CNN, inferensi 320",320,sendiri,dining table,0.0019801980815827847
+"M3 Mask R-CNN, inferensi 320",320,sendiri,fire-extinguisher,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,flower,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,food-other-merged,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,fork,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,handbag,0.006364922039210796
+"M3 Mask R-CNN, inferensi 320",320,sendiri,keyboard,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,knife,0.006697728764265776
+"M3 Mask R-CNN, inferensi 320",320,sendiri,laptop,0.10137184709310532
+"M3 Mask R-CNN, inferensi 320",320,sendiri,light,0.004538046196103096
+"M3 Mask R-CNN, inferensi 320",320,sendiri,mirror-stuff,0.008928571827709675
+"M3 Mask R-CNN, inferensi 320",320,sendiri,mouse,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,pan,0.18398988246917725
+"M3 Mask R-CNN, inferensi 320",320,sendiri,paper,0.0009040034492500126
+"M3 Mask R-CNN, inferensi 320",320,sendiri,pillow,0.10226138681173325
+"M3 Mask R-CNN, inferensi 320",320,sendiri,plate,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,plug,0.0036160137970000505
+"M3 Mask R-CNN, inferensi 320",320,sendiri,potted plant,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,refrigerator,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,remote,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,scissors,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,shelf,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,sink,0.029023200273513794
+"M3 Mask R-CNN, inferensi 320",320,sendiri,spoon,0.007423066534101963
+"M3 Mask R-CNN, inferensi 320",320,sendiri,stove-merged,0.031073875725269318
+"M3 Mask R-CNN, inferensi 320",320,sendiri,teddy bear,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,towel,0.006120611913502216
+"M3 Mask R-CNN, inferensi 320",320,sendiri,toy,0.004470922984182835
+"M3 Mask R-CNN, inferensi 320",320,sendiri,trash-bin,0.02574257366359234
+"M3 Mask R-CNN, inferensi 320",320,sendiri,tv,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri,wallet,0.16336633265018463
+"M3 Mask R-CNN, inferensi 320",320,sendiri,window-blind,0.005884016864001751
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,backpack,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,bed,0.10099010169506073
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,blanket,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,book,0.05289212986826897
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,bottle,0.04133663326501846
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,bowl,0.010772277601063251
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,box,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,cabinet-merged,0.09214671701192856
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,cell phone,0.3857142925262451
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,chair,0.06604542583227158
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,clock,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,couch,-1.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,cup,0.16243812441825867
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,curtain,0.01666666753590107
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,dining table,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,fire-extinguisher,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,flower,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,food-other-merged,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,fork,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,handbag,0.013366336934268475
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,keyboard,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,knife,0.0051789795979857445
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,laptop,0.7133923768997192
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,light,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,mirror-stuff,-1.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,mouse,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,pan,0.17353735864162445
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,paper,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,pillow,0.2442244291305542
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,plate,-1.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,plug,0.006435643415898085
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,potted plant,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,refrigerator,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,remote,-1.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,scissors,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,shelf,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,sink,0.03881455585360527
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,spoon,0.019306929782032967
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,stove-merged,0.08888889104127884
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,teddy bear,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,towel,0.01514851488173008
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,toy,0.016518574208021164
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,trash-bin,0.03366336598992348
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,tv,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,wallet,0.4009900987148285
+"M3 Mask R-CNN, inferensi 320",320,sendiri_normal,window-blind,0.008953939191997051
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,backpack,0.21227723360061646
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,bed,0.03861385956406593
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,blanket,0.005143618676811457
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,book,0.0016973125748336315
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,bottle,0.1461677998304367
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,bowl,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,box,0.007040704134851694
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,cabinet-merged,0.2720879316329956
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,cell phone,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,chair,0.09692530333995819
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,clock,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,couch,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,cup,0.0534653477370739
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,curtain,-1.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,dining table,0.0066006602719426155
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,fire-extinguisher,-1.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,flower,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,food-other-merged,-1.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,fork,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,handbag,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,keyboard,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,knife,0.02222222276031971
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,laptop,0.011641963385045528
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,light,0.014058713801205158
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,mirror-stuff,0.022727273404598236
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,mouse,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,pan,0.18580858409404755
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,paper,0.005775577388703823
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,pillow,0.021617161110043526
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,plate,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,plug,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,potted plant,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,refrigerator,-1.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,remote,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,scissors,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,shelf,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,sink,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,spoon,0.002439024392515421
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,stove-merged,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,teddy bear,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,towel,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,toy,0.0008580858120694757
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,trash-bin,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,tv,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,wallet,0.0
+"M3 Mask R-CNN, inferensi 320",320,sendiri_sulit,window-blind,-1.0
+"M3 Mask R-CNN, inferensi 960",960,asli,backpack,0.09752091765403748
+"M3 Mask R-CNN, inferensi 960",960,asli,bed,0.038969818502664566
+"M3 Mask R-CNN, inferensi 960",960,asli,blanket,0.004242423921823502
+"M3 Mask R-CNN, inferensi 960",960,asli,book,0.10573159903287888
+"M3 Mask R-CNN, inferensi 960",960,asli,bottle,0.2013458013534546
+"M3 Mask R-CNN, inferensi 960",960,asli,bowl,0.2031903862953186
+"M3 Mask R-CNN, inferensi 960",960,asli,box,0.0010479041375219822
+"M3 Mask R-CNN, inferensi 960",960,asli,cabinet-merged,0.04030199721455574
+"M3 Mask R-CNN, inferensi 960",960,asli,cardboard,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,ceiling-merged,0.21344339847564697
+"M3 Mask R-CNN, inferensi 960",960,asli,cell phone,0.09145219624042511
+"M3 Mask R-CNN, inferensi 960",960,asli,chair,0.19612009823322296
+"M3 Mask R-CNN, inferensi 960",960,asli,clock,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,couch,0.056438323110342026
+"M3 Mask R-CNN, inferensi 960",960,asli,counter,0.02028946951031685
+"M3 Mask R-CNN, inferensi 960",960,asli,cup,0.20689080655574799
+"M3 Mask R-CNN, inferensi 960",960,asli,curtain,0.05651257932186127
+"M3 Mask R-CNN, inferensi 960",960,asli,dining table,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,door-stuff,0.15242615342140198
+"M3 Mask R-CNN, inferensi 960",960,asli,fire-extinguisher,0.3300565779209137
+"M3 Mask R-CNN, inferensi 960",960,asli,floor-other-merged,0.18239670991897583
+"M3 Mask R-CNN, inferensi 960",960,asli,floor-wood,0.12729571759700775
+"M3 Mask R-CNN, inferensi 960",960,asli,flower,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,food-other-merged,0.3058703541755676
+"M3 Mask R-CNN, inferensi 960",960,asli,fork,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,hair drier,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,handbag,0.021919822320342064
+"M3 Mask R-CNN, inferensi 960",960,asli,keyboard,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,knife,0.004771673120558262
+"M3 Mask R-CNN, inferensi 960",960,asli,laptop,0.26014530658721924
+"M3 Mask R-CNN, inferensi 960",960,asli,light,0.05752193182706833
+"M3 Mask R-CNN, inferensi 960",960,asli,microwave,0.0037128713447600603
+"M3 Mask R-CNN, inferensi 960",960,asli,mirror-stuff,0.010230103507637978
+"M3 Mask R-CNN, inferensi 960",960,asli,mouse,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,oven,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,pan,0.3900534510612488
+"M3 Mask R-CNN, inferensi 960",960,asli,paper,0.0002708546817302704
+"M3 Mask R-CNN, inferensi 960",960,asli,paper-merged,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,person,0.3093124330043793
+"M3 Mask R-CNN, inferensi 960",960,asli,pillow,0.041408471763134
+"M3 Mask R-CNN, inferensi 960",960,asli,plate,0.1056806668639183
+"M3 Mask R-CNN, inferensi 960",960,asli,plug,0.004856641869992018
+"M3 Mask R-CNN, inferensi 960",960,asli,potted plant,0.3286343514919281
+"M3 Mask R-CNN, inferensi 960",960,asli,refrigerator,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,remote,-1.0
+"M3 Mask R-CNN, inferensi 960",960,asli,rug-merged,0.00918422732502222
+"M3 Mask R-CNN, inferensi 960",960,asli,scissors,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,shelf,-1.0
+"M3 Mask R-CNN, inferensi 960",960,asli,sink,0.06100751459598541
+"M3 Mask R-CNN, inferensi 960",960,asli,spoon,0.019305987283587456
+"M3 Mask R-CNN, inferensi 960",960,asli,stairs,0.020643986761569977
+"M3 Mask R-CNN, inferensi 960",960,asli,stove-merged,0.1666499674320221
+"M3 Mask R-CNN, inferensi 960",960,asli,table-merged,0.05167120695114136
+"M3 Mask R-CNN, inferensi 960",960,asli,teddy bear,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,toaster,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,toilet,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,toothbrush,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,towel,0.0007574451738037169
+"M3 Mask R-CNN, inferensi 960",960,asli,toy,0.07155916839838028
+"M3 Mask R-CNN, inferensi 960",960,asli,trash-bin,0.016890624538064003
+"M3 Mask R-CNN, inferensi 960",960,asli,tv,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,vase,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,wall,-1.0
+"M3 Mask R-CNN, inferensi 960",960,asli,wall-brick,0.038860857486724854
+"M3 Mask R-CNN, inferensi 960",960,asli,wall-other-merged,0.12286181002855301
+"M3 Mask R-CNN, inferensi 960",960,asli,wall-stone,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli,wall-tile,0.05351288989186287
+"M3 Mask R-CNN, inferensi 960",960,asli,wall-wood,0.020979532971978188
+"M3 Mask R-CNN, inferensi 960",960,asli,wallet,0.3471534550189972
+"M3 Mask R-CNN, inferensi 960",960,asli,window-blind,0.07808581739664078
+"M3 Mask R-CNN, inferensi 960",960,asli,window-other,0.10506299138069153
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,backpack,0.09752091765403748
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,bed,0.038994308561086655
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,blanket,0.004351872485131025
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,book,0.10878691077232361
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,bottle,0.2014879733324051
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,bowl,0.2031935155391693
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,box,0.0010920437052845955
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,cabinet-merged,0.040647368878126144
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,cell phone,0.09191357344388962
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,chair,0.19620968401432037
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,clock,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,couch,0.05651842802762985
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,cup,0.20708560943603516
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,curtain,0.056689150631427765
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,dining table,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,fire-extinguisher,0.3302530348300934
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,flower,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,food-other-merged,0.30603712797164917
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,fork,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,handbag,0.021930372342467308
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,keyboard,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,knife,0.004771673120558262
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,laptop,0.26055219769477844
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,light,0.05872665345668793
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,mirror-stuff,0.010498703457415104
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,mouse,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,pan,0.3900534510612488
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,paper,0.0003021071315743029
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,pillow,0.04143638536334038
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,plate,0.10579388588666916
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,plug,0.005050064064562321
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,potted plant,0.33122575283050537
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,refrigerator,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,remote,-1.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,scissors,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,shelf,-1.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,sink,0.06477849185466766
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,spoon,0.019312815740704536
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,stove-merged,0.1666882485151291
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,teddy bear,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,towel,0.0008684397907927632
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,toy,0.07209733128547668
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,trash-bin,0.018631862476468086
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,tv,0.0
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,wallet,0.3471534550189972
+"M3 Mask R-CNN, inferensi 960",960,asli_kelas_sendiri,window-blind,0.07888980954885483
+"M3 Mask R-CNN, inferensi 960",960,sendiri,backpack,0.39465346932411194
+"M3 Mask R-CNN, inferensi 960",960,sendiri,bed,0.014118192717432976
+"M3 Mask R-CNN, inferensi 960",960,sendiri,blanket,0.00603039376437664
+"M3 Mask R-CNN, inferensi 960",960,sendiri,book,0.02620072476565838
+"M3 Mask R-CNN, inferensi 960",960,sendiri,bottle,0.4095093011856079
+"M3 Mask R-CNN, inferensi 960",960,sendiri,bowl,0.07967384904623032
+"M3 Mask R-CNN, inferensi 960",960,sendiri,box,0.03247079625725746
+"M3 Mask R-CNN, inferensi 960",960,sendiri,cabinet-merged,0.06748276948928833
+"M3 Mask R-CNN, inferensi 960",960,sendiri,cell phone,0.13851161301136017
+"M3 Mask R-CNN, inferensi 960",960,sendiri,chair,0.05867404863238335
+"M3 Mask R-CNN, inferensi 960",960,sendiri,clock,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,couch,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,cup,0.06771491467952728
+"M3 Mask R-CNN, inferensi 960",960,sendiri,curtain,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,dining table,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,fire-extinguisher,0.02250000089406967
+"M3 Mask R-CNN, inferensi 960",960,sendiri,flower,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,food-other-merged,0.011032531969249249
+"M3 Mask R-CNN, inferensi 960",960,sendiri,fork,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,handbag,0.008333333767950535
+"M3 Mask R-CNN, inferensi 960",960,sendiri,keyboard,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,knife,0.03139134868979454
+"M3 Mask R-CNN, inferensi 960",960,sendiri,laptop,0.21307507157325745
+"M3 Mask R-CNN, inferensi 960",960,sendiri,light,0.005993313621729612
+"M3 Mask R-CNN, inferensi 960",960,sendiri,mirror-stuff,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,mouse,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,pan,0.20324796438217163
+"M3 Mask R-CNN, inferensi 960",960,sendiri,paper,0.0031561381183564663
+"M3 Mask R-CNN, inferensi 960",960,sendiri,pillow,0.1319703608751297
+"M3 Mask R-CNN, inferensi 960",960,sendiri,plate,0.03861385956406593
+"M3 Mask R-CNN, inferensi 960",960,sendiri,plug,0.01425742544233799
+"M3 Mask R-CNN, inferensi 960",960,sendiri,potted plant,0.041584160178899765
+"M3 Mask R-CNN, inferensi 960",960,sendiri,refrigerator,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,remote,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,scissors,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,shelf,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,sink,0.06456860154867172
+"M3 Mask R-CNN, inferensi 960",960,sendiri,spoon,0.034872330725193024
+"M3 Mask R-CNN, inferensi 960",960,sendiri,stove-merged,0.5393210649490356
+"M3 Mask R-CNN, inferensi 960",960,sendiri,teddy bear,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,towel,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,toy,0.024913638830184937
+"M3 Mask R-CNN, inferensi 960",960,sendiri,trash-bin,0.26324984431266785
+"M3 Mask R-CNN, inferensi 960",960,sendiri,tv,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri,wallet,0.35108911991119385
+"M3 Mask R-CNN, inferensi 960",960,sendiri,window-blind,0.008190819062292576
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,backpack,0.500990092754364
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,bed,0.04381188005208969
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,blanket,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,book,0.028606245294213295
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,bottle,0.4366840422153473
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,bowl,0.3564356565475464
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,box,0.04307708516716957
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,cabinet-merged,0.06379633396863937
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,cell phone,0.11738298833370209
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,chair,0.10906846821308136
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,clock,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,couch,-1.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,cup,0.11919880658388138
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,curtain,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,dining table,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,fire-extinguisher,0.04500000178813934
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,flower,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,food-other-merged,0.019306929782032967
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,fork,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,handbag,0.01702970266342163
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,keyboard,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,knife,0.03029702976346016
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,laptop,0.5985910296440125
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,light,0.006057076156139374
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,mirror-stuff,-1.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,mouse,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,pan,0.27525949478149414
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,paper,0.004557168111205101
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,pillow,0.2962222695350647
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,plate,-1.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,plug,0.03861385956406593
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,potted plant,0.08976897597312927
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,refrigerator,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,remote,-1.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,scissors,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,shelf,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,sink,0.08564356714487076
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,spoon,0.047599758952856064
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,stove-merged,0.8999999761581421
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,teddy bear,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,towel,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,toy,0.04257052019238472
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,trash-bin,0.3482508361339569
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,tv,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,wallet,0.6463932394981384
+"M3 Mask R-CNN, inferensi 960",960,sendiri_normal,window-blind,0.012013201601803303
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,backpack,0.3663366436958313
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,bed,0.010864853858947754
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,blanket,0.011477109044790268
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,book,0.029646392911672592
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,bottle,0.4078991711139679
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,bowl,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,box,0.030354350805282593
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,cabinet-merged,0.13540707528591156
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,cell phone,0.22722771763801575
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,chair,0.037625424563884735
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,clock,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,couch,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,cup,0.08118811994791031
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,curtain,-1.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,dining table,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,fire-extinguisher,-1.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,flower,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,food-other-merged,-1.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,fork,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,handbag,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,keyboard,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,knife,0.15000000596046448
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,laptop,0.1418362259864807
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,light,0.009330087341368198
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,mirror-stuff,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,mouse,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,pan,0.1794719398021698
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,paper,0.004176980350166559
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,pillow,0.0795082077383995
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,plate,0.03861385956406593
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,plug,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,potted plant,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,refrigerator,-1.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,remote,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,scissors,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,shelf,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,sink,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,spoon,0.05000000074505806
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,stove-merged,0.11999999731779099
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,teddy bear,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,towel,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,toy,0.020934296771883965
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,trash-bin,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,tv,0.0
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,wallet,0.18250824511051178
+"M3 Mask R-CNN, inferensi 960",960,sendiri_sulit,window-blind,-1.0

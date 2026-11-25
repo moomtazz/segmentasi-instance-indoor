@@ -1,0 +1,57 @@
+img,grup,GT,TP,FP,FN,salah_kelas,IoU_TP,FN_kelas,FP_kelas
+normal_01_jpg.rf.3d5eab2911f4e14a4590d65d69656b62.jpg,sendiri_normal,9,1,4,8,3,0.895,"mouse, cell phone, cup, cup, light, dining table, dining table, dining table","wallet, toy, wallet, toy"
+normal_02_jpg.rf.ac3c2f75c381c15d41ea68280b806133.jpg,sendiri_normal,3,0,0,3,0,,"book, paper, scissors",
+normal_03_jpg.rf.03f4491bdc331db736b6904d9d2b66ca.jpg,sendiri_normal,5,2,19,3,4,0.952,"bed, teddy bear, teddy bear","toy, toy, toy, toy, toy, toy, toy, toy, toy, toy, toy, toy, toy, toy, toy, toy, blanket, chair, toy"
+normal_04_jpg.rf.6e5c87103007e40af7f1e1a9a9826ddf.jpg,sendiri_normal,6,1,2,5,1,0.979,"cell phone, toy, book, book, dining table","wallet, wallet"
+normal_05_jpg.rf.64d0fd86a7e31d140e0b644a9f27ec6a.jpg,sendiri_normal,6,0,5,6,5,,"curtain, backpack, handbag, teddy bear, handbag, towel","wallet, fire-extinguisher, wallet, wallet, blanket"
+normal_06_jpg.rf.f03fa732e7e2888cd524f7bcf624315f.jpg,sendiri_normal,5,0,2,5,1,,"cabinet-merged, plug, plug, plug, plug","toy, cell phone"
+normal_07_jpg.rf.a527b0a38e57b30e05185a07adc11006.jpg,sendiri_normal,5,0,3,5,3,,"mouse, cell phone, wallet, book, scissors","wallet, wallet, wallet"
+normal_08_jpg.rf.021de7f883e0484c5aa33abb3d86f776.jpg,sendiri_normal,23,1,3,22,2,0.591,"handbag, handbag, handbag, handbag, handbag, handbag, handbag, handbag, handbag, flower, flower, flower, book, book, book, book, book, book, book, paper, paper, box","potted plant, box, toy"
+normal_09_jpg.rf.e944bff44a311132609e56904dee5fc7.jpg,sendiri_normal,20,0,6,20,4,,"cabinet-merged, box, box, box, backpack, handbag, handbag, handbag, handbag, handbag, handbag, handbag, shelf, flower, flower, book, book, book, book, paper","potted plant, toy, potted plant, chair, box, toy"
+normal_10_jpg.rf.ea0540822388f6c1605b661b1abef271.jpg,sendiri_normal,5,1,3,4,0,0.876,"fork, spoon, spoon, spoon","pan, pan, plug"
+normal_11_jpg.rf.557d71a29478f99d80bc548ad81a89ef.jpg,sendiri_normal,10,1,1,9,1,0.606,"pan, bowl, spoon, knife, knife, knife, spoon, spoon, fork",pan
+normal_12_jpg.rf.40af6a69bebe5a834841bf68604af93b.jpg,sendiri_normal,6,0,3,6,2,,"sink, cup, cup, spoon, box, potted plant","trash-bin, bottle, pan"
+normal_13_jpg.rf.1bebdf42d8023fe136281f2d183992d0.jpg,sendiri_normal,6,0,1,6,1,,"cup, cup, box, spoon, potted plant, sink",pan
+normal_14_jpg.rf.d9ecbbb27a3920f7015245552decb6e3.jpg,sendiri_normal,3,1,0,2,0,0.701,"dining table, cabinet-merged",
+normal_15_jpg.rf.4b6874879977dbcc6f0de304b6551195.jpg,sendiri_normal,3,0,1,3,1,,"bed, pillow, pillow",toy
+normal_16_jpg.rf.ee2274b05a611c7eb5a4c1cbeea840dc.jpg,sendiri_normal,4,1,3,3,1,0.836,"bed, dining table, shelf","chair, toy, toy"
+normal_17_jpg.rf.7b646fe197bff7e666ce93f887b019aa.jpg,sendiri_normal,10,4,4,6,0,0.883,"sink, sink, bottle, pan, pan, towel","chair, stove-merged, toy, toy"
+normal_18_jpg.rf.eb00d11e6cfc4f0ad5f399666a9d6547.jpg,sendiri_normal,19,0,0,19,0,,"refrigerator, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, bottle, box, box, box, box, box, handbag, food-other-merged, food-other-merged, food-other-merged",
+normal_19_jpg.rf.6932e040ec3329296a14be07eae3666d.jpg,sendiri_normal,7,2,1,5,0,0.961,"keyboard, cup, bottle, toy, light",chair
+normal_20_jpg.rf.1783506d62dcdcd2115eba7372eb692a.jpg,sendiri_normal,4,1,3,3,1,0.961,"clock, light, light","toy, pan, toy"
+normal_21_jpg.rf.8f4699558656c34a773bd0fd3a2d6588.jpg,sendiri_normal,8,2,8,6,3,0.97,"bed, bed, pillow, teddy bear, teddy bear, food-other-merged","toy, toy, toy, toy, toy, toy, toy, toy"
+normal_22_jpg.rf.45337c51fda17af76bf14e5be46a527e.jpg,sendiri_normal,5,1,2,4,1,0.762,"trash-bin, trash-bin, cabinet-merged, plug","toy, toy"
+normal_23_jpg.rf.b44e7c09cf550ef45a4346f8d5a93461.jpg,sendiri_normal,6,0,1,6,0,,"fire-extinguisher, cabinet-merged, paper, paper, box, box",trash-bin
+normal_24_jpg.rf.a47895e3be3de3c4a71d3f96aa0e7e87.jpg,sendiri_normal,18,1,0,17,0,0.65,"bowl, paper, paper, bottle, cup, keyboard, keyboard, mouse, plug, chair, chair, chair, chair, chair, dining table, dining table, box",
+normal_25_jpg.rf.ba277a7230ca0cdf615a68359de6f884.jpg,sendiri_normal,21,8,13,13,0,0.725,"dining table, tv, window-blind, window-blind, window-blind, window-blind, chair, chair, mouse, mouse, plug, cabinet-merged, potted plant","chair, chair, chair, chair, chair, chair, chair, remote, chair, chair, chair, chair, chair"
+normal_26_jpg.rf.777019c8d59c621fe09b478e2789a243.jpg,sendiri_normal,16,1,0,15,0,0.695,"bowl, paper, keyboard, keyboard, chair, chair, chair, chair, chair, chair, blanket, blanket, pillow, dining table, dining table",
+normal_27_jpg.rf.403fcd162dbea98e92e60f32ed23daf3.jpg,sendiri_normal,23,1,3,22,1,0.883,"chair, chair, keyboard, keyboard, keyboard, keyboard, mouse, mouse, tv, tv, tv, tv, tv, tv, toy, bottle, cup, paper, dining table, dining table, dining table, dining table","chair, chair, chair"
+sulit_01_redup_jpg.rf.36b715b4380411698033b8f14fd7b8a4.jpg,sendiri_sulit,3,0,3,3,2,,"paper, book, scissors","wallet, book, wallet"
+sulit_02_sudut_jpg.rf.758a61ce3cc3093bdf286040d7b92337.jpg,sendiri_sulit,4,0,1,4,1,,"cabinet-merged, box, box, flower",wallet
+sulit_03_oklusi_jpg.rf.fcca37b6bdb4f897750b6e25d2050220.jpg,sendiri_sulit,13,1,11,12,4,0.907,"bed, bed, bed, bed, bed, pillow, pillow, backpack, teddy bear, teddy bear, teddy bear, teddy bear","toy, toy, toy, toy, toy, toy, toy, toy, toy, toy, pillow"
+sulit_04_redup_jpg.rf.9c6566b87544ec767f29580ec5143776.jpg,sendiri_sulit,21,0,2,21,2,,"backpack, teddy bear, teddy bear, teddy bear, bed, bed, bed, bed, bed, bed, bed, pillow, pillow, blanket, blanket, blanket, blanket, blanket, blanket, blanket, blanket","toy, toy"
+sulit_05_oklusi_jpg.rf.4e2e068a70717325a71242b571c60bdd.jpg,sendiri_sulit,6,1,0,5,0,0.817,"pan, pan, knife, fork, spoon",
+sulit_06_oklusi_jpg.rf.7a2bc6bbfe1fe754d0c70fea069cb6cb.jpg,sendiri_sulit,15,1,10,14,4,0.965,"bottle, bottle, cup, bottle, bottle, bottle, bottle, toy, toy, box, box, book, book, wallet","toy, toy, plug, toy, box, toy, toy, toy, book, trash-bin"
+sulit_07_redup_jpg.rf.73376f65ebcffa331f2a8109776ebe63.jpg,sendiri_sulit,3,1,1,2,0,0.743,"cabinet-merged, dining table",chair
+sulit_08_redup_jpg.rf.587f81cacc31a6f25c310370f4a7b75f.jpg,sendiri_sulit,3,0,1,3,1,,"bed, pillow, pillow",blanket
+sulit_09_oklusi_jpg.rf.cfee05d216edaf758df44a438e7f7285.jpg,sendiri_sulit,34,4,2,30,1,0.811,"sink, shelf, shelf, shelf, pan, pan, pan, pan, bottle, cup, cup, cup, cup, cup, cup, cup, bowl, bowl, bowl, bowl, bowl, bowl, plate, plate, plate, bowl, bowl, bowl, bowl, stove-merged","pan, laptop"
+sulit_10_sudut_jpg.rf.dda575a4f18c46128dc7e6c55450cc2f.jpg,sendiri_sulit,11,3,2,8,2,0.721,"bottle, towel, box, box, box, box, shelf, cup","fire-extinguisher, fire-extinguisher"
+sulit_11_backlight_jpg.rf.349b54a7853a4de8e74ef4f5eda0bf90.jpg,sendiri_sulit,3,0,1,3,1,,"bed, dining table, couch",chair
+sulit_12_redup-burem_jpg.rf.44a8e4df225ef53db1e86d927132679e.jpg,sendiri_sulit,5,0,0,5,0,,"remote, cup, bottle, bottle, cup",
+sulit_13_redup_jpg.rf.946d85c788e5a04ffad73bc43cc1c3e2.jpg,sendiri_sulit,7,1,3,6,2,0.91,"keyboard, mouse, cell phone, toy, cup, book","book, wallet, plug"
+sulit_14_sudut_jpg.rf.e5fbe9c4ad052bc63af2b33063c6272e.jpg,sendiri_sulit,6,2,3,4,2,0.889,"clock, wallet, tv, light","plug, food-other-merged, plug"
+sulit_15_burem_jpg.rf.5a19e3c28aee20f0ebf05a3fa77671bf.jpg,sendiri_sulit,5,0,3,5,3,,"laptop, paper, light, light, toy","pan, toy, toy"
+sulit_16_burem_jpg.rf.b282c39b49047fd7622dcf155d65d1b2.jpg,sendiri_sulit,10,0,2,10,1,,"laptop, laptop, cup, bottle, bottle, bottle, book, book, paper, plug","wallet, wallet"
+sulit_17_burem-sudut_jpg.rf.9fb025c29fb13a1f6f0c18d184890f9f.jpg,sendiri_sulit,6,0,3,6,0,,"bed, pillow, pillow, blanket, teddy bear, teddy bear","food-other-merged, food-other-merged, food-other-merged"
+sulit_18_redup_jpg.rf.208e74dc1d44472526169c015dbc0b3f.jpg,sendiri_sulit,12,0,2,12,1,,"cabinet-merged, box, box, box, handbag, handbag, handbag, mirror-stuff, flower, book, book, backpack","potted plant, chair"
+sulit_19_redup-burem_jpg.rf.e627f6436623812972500fc00bd4e01c.jpg,sendiri_sulit,3,0,0,3,0,,"cabinet-merged, box, light",
+sulit_20_burem_jpg.rf.b548a58b605b7dc394dbf0d0cfc3d292.jpg,sendiri_sulit,9,2,0,7,0,0.76,"laptop, dining table, cabinet-merged, bottle, book, light, trash-bin",
+sulit_21_sudut_jpg.rf.1e80ee8530d7e445bcae5608de66ef30.jpg,sendiri_sulit,10,2,8,8,1,0.801,"bed, pillow, pillow, pillow, pillow, teddy bear, teddy bear, teddy bear","toy, toy, toy, toy, toy, potted plant, toy, toy"
+sulit_22_backlight_jpg.rf.a30f1555d70e1fe7c2a4b3764331d40d.jpg,sendiri_sulit,18,2,3,16,1,0.861,"tv, tv, tv, tv, tv, keyboard, keyboard, mouse, mouse, chair, chair, dining table, dining table, cup, paper, paper","stove-merged, remote, tv"
+sulit_23_redup_jpg.rf.89f90c88a3efa7fa81e2f914511b826d.jpg,sendiri_sulit,27,1,5,26,0,0.723,"tv, tv, tv, tv, tv, keyboard, keyboard, keyboard, keyboard, keyboard, mouse, chair, chair, chair, chair, dining table, dining table, dining table, dining table, dining table, dining table, dining table, toy, bottle, cup, paper","chair, chair, stove-merged, chair, chair"
+sulit_24_redup_jpg.rf.88a57e61507c39536e2f3ff1c1cc9e85.jpg,sendiri_sulit,23,1,6,22,1,0.619,"tv, tv, keyboard, keyboard, keyboard, mouse, mouse, box, chair, chair, chair, chair, chair, chair, chair, chair, chair, dining table, dining table, dining table, potted plant, potted plant","chair, chair, chair, chair, chair, stove-merged"
+sulit_25_redup_jpg.rf.6f45b6541c6b8449a2cf053028366f80.jpg,sendiri_sulit,6,0,1,6,1,,"tv, keyboard, mouse, dining table, dining table, dining table",wallet
+sulit_26_redup_jpg.rf.c49b14635a4b85aef224cee150ce9660.jpg,sendiri_sulit,7,0,1,7,0,,"chair, chair, dining table, dining table, tv, keyboard, mouse",chair
+sulit_27_redup-backlight_jpg.rf.b2afa768c021a7152a7881bf80c65c48.jpg,sendiri_sulit,12,1,4,11,1,0.682,"laptop, laptop, cell phone, cup, chair, chair, chair, chair, dining table, shelf, paper","chair, chair, tv, chair"
+sulit_28_redup_jpg.rf.39aeda0c5d8b1b04d2e30eb1321e53b2.jpg,sendiri_sulit,10,0,1,10,0,,"laptop, laptop, laptop, bottle, cup, dining table, dining table, dining table, chair, box",plug
+sulit_29_redup_jpg.rf.3b298ad33a5144a6f0d116b57b508de2.jpg,sendiri_sulit,7,0,0,7,0,,"laptop, laptop, laptop, bottle, chair, chair, dining table",
