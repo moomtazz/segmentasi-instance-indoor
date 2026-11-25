@@ -78,6 +78,10 @@ YOLO naik cepat dan berhenti sendiri oleh early stopping (M1 setelah 23 menit, M
 
 ### Variabel NRP (digit akhir 1): ukuran input 320 / 640 / 960
 
+![ringkasan NRP](hasil_kaggle_v3/gambar/nrp_ringkas.png)
+
+Input 960 paling akurat di foto sendiri (YOLO11 naik 38% dari 640, sedangkan di test asli hanya 4%), karena foto 5712×3213 berisi banyak objek kecil dan jauh. Input 320 paling buruk di semua kondisi. Pada foto sulit, 640 justru lebih tinggi daripada 960, kemungkinan karena noise ISO tinggi dan blur ikut terlihat jelas di resolusi besar, tetapi foto sulit hanya 29 sehingga ini dibaca sebagai kecenderungan. Grafik di bawah membandingkan dengan Mask R-CNN yang dilatih 640 lalu hanya diuji di ukuran lain.
+
 ![ukuran input](hasil_kaggle_v3/gambar/ukuran_input.png)
 
 | Seri | 320 | 640 | 960 |
